@@ -1,103 +1,106 @@
+<!DOCTYPE html>
 <html>
-  <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
-  <script defer src = "./script.js" type="text/javascript"> </script>
-  </head>
-  <body>
-    <form id="regForm">
-      <h1>Xét tuyển tất cả trường ĐH</h1>
-      
-      <!-- One "tab" for each step in the form: -->
-      <div class="tab">
-          Nhập đúng trường THPT để thuận tiện cho việc tính điểm cộng
-        <div class="dropdown">
-          <p>
-            <input type="hidden" id="mathptlop10" name="mathptlop10" value="">
-            <label for = "thptlop10">Trường THPT Lớp 10: </label> 
-            <input type="text" name = "thptlop10" placeholder="Tên trường và tỉnh thành" id="thptlop10" oninput="filterFunction('thptlop10')"  autocomplete="off">
-          </p>
-          <div id="myDropdownthptlop10" class="dropdown-content">
-              
-              
-          </div>
-        </div>
-        
-        <div class="dropdown">
-          <p>
-              <input type="hidden" id="mathptlop11" name="mathptlop10" value="0">
-            <label for = "thptlop11">Trường THPT Lớp 11: </label>
-            <input type="text" name = "thptlop11" placeholder="Tên trường và tỉnh thành" id="thptlop11"  oninput="filterFunction('thptlop11')"  autocomplete="off">
-          </p>
-          <div id="myDropdownthptlop11" class="dropdown-content">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="./favicon.png">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
 
-          </div>
-        </div>
-        
-        
-        <div class="dropdown">
-          <p>
-              <input type="hidden" id="mathptlop12" name="mathptlop10" value="0">
-            <label for = "thptlop12">Trường THPT Lớp 12: </label>
-            <input type="text" name = "thptlop12" placeholder="Tên trường và tỉnh thành" id="thptlop12"  oninput="filterFunction('thptlop12')" autocomplete="off">
-          </p>
-          <div id="myDropdownthptlop12" class="dropdown-content">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> 
 
-          </div>
-        </div>
-      </div>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.3.3/css/rowReorder.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.4.1/css/responsive.dataTables.min.css">
 
-       <div class="tab">Năm sinh của thí sinh: <p>
-          <input type="number" value = "2005" placeholder="Năm sinh" oninput="this.className = ''" name="namsinh">
-        </p>
 
-            <label for = "gioitinh"> Giới tính: 
-            <select id = "gioitinh">
-                <option>Nam</option>
-                <option>Nữ</option>
-            </select>
-         </label> 
+<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
 
-      </div>
-      
-       <div class="tab">Năm tốt nghiệp của thí sinh: <p>
-            <input type="number" value = "2023" placeholder="Năm tốt nghiệp" oninput="this.className = ''" id = "namtotnghiep" name="namtotnghiep">
-        </p>
-         <p>Thí sinh <b>vừa học xong lớp 12</b> trong năm nay thì nhập 2023</p>
-         <p>Thí sinh <b>tự do đã có BẰNG TỐT NGHIỆP THPT hoặc TRUNG CẤP</b> nhập đúng năm in trên bằng</p>
-         <p><b>MỌI trường hợp còn lại</b> đều nhập năm 2023</p>
-      </div>
-      
-      
-      <div class="tab">Lưu học bạ vào: <p>
-          <label for = "email">Gmail: </label>
-          <input placeholder="E-mail..." oninput="this.className = ''" name="email">
-        </p>
-        <p>
-          <label for = "phone">Số điện thoại: </label>
-          <input placeholder="Sdt..." oninput="this.className = ''" name="phone">
-        </p>
-      </div>
-      
-      
-      <div style="overflow:auto;">
-        <div style="float:right;">
-          <button type="button" id="prevBtn" onclick="nextPrev(-1)">Quay lại</button>
-          <button type="button" id="nextBtn" onclick="nextPrev(1)">Tiếp tục</button>
-        </div>
-      </div>
-      
-      
-      
-      <!-- Circles which indicates the steps of the form: -->
-      <div style="text-align:center;margin-top:40px;">
-        <span class="step"></span>
-        <span class="step"></span>
-        <span class="step"></span>
-        <span class="step"></span>
-      </div>
+
+<script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script defer src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script defer src="https://cdn.datatables.net/rowreorder/1.3.3/js/dataTables.rowReorder.min.js"></script>
+<script defer src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
+ 
+ 
+</head>
+<body>
+
+<div class="topnav">
+
+<div id = "navFirst" style= "display:none" >
+  <a class="active">Trang chủ</a>
+  <a href = "totnghiep" target="_blank">Thi tốt nghiệp <i class="glyphicon glyphicon-alert"></i></a>
+  <a href="hocba" target="_blank">Học bạ THPT <i class="glyphicon glyphicon-exclamation-sign" title="Bạn chưa điền thông tin"></i></a>
+  <a href="dgnl" target="_blank" >Đánh giá năng lực</a>
+  <a href = "ccnn" target="_blank" >Chứng chỉ ngoại ngữ</a>
+  <a href = "truong" target="_blank">Thông tin dự thi <i class="glyphicon glyphicon-check"  title="Bạn đã điền thông tin"></i></a>
+
+</div>
+
+  <div class="login-container" style= "display:none">
+    <form id = "loginForm" style= "display:none">
+      <input type="text" placeholder="Số điện thoại" name="sdt">
+      <input type="text" placeholder="Ngày sinh" name="ngaysinh">
+      <button type="button" id= "loginBtn">Đăng nhập</button>
     </form>
-  </body>
+    <form id = "logoutForm" style= "display:none">
+      <button id = "logoutBtn" type="button">Đăng xuất</button>
+    </form>
+  </div>
+
+
+  <div id = "navSecond" style= "display:none">
+    <a class="active">Trang chủ</a>
+    <a href = "totnghiep" target="_blank">Thi tốt nghiệp</a>
+    <a href="hocba" target="_blank">Học bạ THPT</a>
+    <a href="dgnl" target="_blank" >Đánh giá năng lực</a>
+    <a href = "ccnn" target="_blank" >Chứng chỉ ngoại ngữ</a>
+    <a href = "truong" target="_blank">Thông tin dự thi</a>
+  </div>
+
+</div>
+
+<div style="padding-left:16px">
+  <h2>Xét tuyển tất cả các trường đại học</h2>
+  <h4>Với trang web này bạn có thể kiểm tra xem mình có khả năng thi đỗ vào trường hoặc ngành mình muốn hay không</h4>
+  <input id = "searchInput" placeholder="Nhập bất cứ thứ gì bạn cần tìm "/>
+
+</div>
+<div id="example_wrapper" class="dataTables_wrapper">
+  <table id="myTable" class="display nowrap dataTable dtr-inline collapsed table table-striped table-bordered" style="width: 100%; position: relative;" aria-describedby="example_info">
+  </table>
+</div>
+
+  <div class="container">
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog" data-keyboard="false" data-backdrop="static">
+      <div class="modal-dialog">
+      
+        <!-- Modal content-->
+        <div class="modal-content" >
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" style="color:red" >&Chi;	</button>
+            <h4 class="modal-title">Chi tiết</h4>
+          </div>
+          <div class="modal-body">
+            
+           
+            <div id = "ajaxDiv">
+              Đang tải...
+            </div>
+
+
+          </div>
+          <div class="modal-footer">
+            <!-- <button type="button" class="btn btn-danger" data-dismiss="modal">Thoát</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+<script  type = "text/javascript" src = "./script.js"></script>
+ 
+</body>
 </html>
