@@ -75,14 +75,18 @@
 </div>
 <div class="form-group form-check"></div>   
 <div id="example_wrapper" class="dataTables_wrapper" style="margin: 1% 1% 1% 1%">
-  <input id = "searchInput" placeholder="Tìm kiếm, mọi thứ"/>  <div class="form-group form-check"></div>   
+ 
+    <label for="searchInput">Tìm ngành, trường hoặc mọi thứ</label>
+  <input id = "searchInput" name="searchInput" type="search" placeholder="Tìm kiếm, mọi thứ"/> 
+   <div class="form-group form-check"></div>   
+
   <table id="myTable" class="display nowrap dataTable dtr-inline collapsed table table-striped table-bordered" style="width: 100%; position: relative;" aria-describedby="example_info">
   </table>
 </div>
 
   <div class="container">
     <!-- Modal -->
-    <div class="modal fade" id="myModal" role="dialog" data-keyboard="false" data-backdrop="static">
+    <div class="modal fade " id="myModal" role="dialog" data-keyboard="false" data-backdrop="static">
       <div class="modal-dialog">
       
         <!-- Modal content-->
