@@ -131,7 +131,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script src="https://xettuyen.online/wp-content/plugins/gutena-lightbox/build/play-button/view.js?ver=68ac5a6dd1eeb27d33c4" id="gutena-play-button-script-js"></script>
-<script id="gutena-newsletter-field-script-js-extra">var gutenaNewsletterBlockLegacy = {"ajax_url":"https:\/\/xettuyen.online\/wp-admin\/admin-ajax.php","nonce":"1ce9a6d4a3","in_process":"Processing...","email_invalid":"Email is not valid!"};</script>
+<script id="gutena-newsletter-field-script-js-extra">var gutenaNewsletterBlockLegacy = {"ajax_url":"https:\/\/xettuyen.online\/wp-admin\/admin-ajax.php","nonce":"c4ac27096c","in_process":"Processing...","email_invalid":"Email is not valid!"};</script>
 <script src="https://xettuyen.online/wp-content/plugins/newsletter-block-by-gutena/build/newsletter-field/view.js?ver=8d80bb955d8f30620635" id="gutena-newsletter-field-script-js"></script>
 <script id="jquery-core-js-extra">var tpgb_load = {"ajaxUrl":"https:\/\/xettuyen.online\/wp-admin\/admin-ajax.php"};
 var smoothAllowedBrowsers = [];</script>
@@ -548,7 +548,7 @@ var Tawk_LoadStart=new Date();
 	})
      .then(response=>response.json())
     .then(function(data) {
-		if (data.error) throw new Error("");
+		//if (data.error) throw new Error("");
       document.getElementById(result_display_div_id).innerHTML=data.html;  
 		if (data.alert) alert(data.alert)
      })
@@ -563,21 +563,22 @@ var Tawk_LoadStart=new Date();
 	})
      .then(response=>response.json())
     .then(function(data) {
-		if (data.error) throw new Error("");
+		//if (data.error) throw new Error("");
       document.getElementById(result_display_div_id).innerHTML=data.html;  
-		if (data.alert) alert(data.alert)
+		if (data.alert) alert(data.alert);
+	
      })
     .catch(function(error) {
 		  target.style.display='block';
 		//submitButtonClicked(target);
      });
-	}, 2000); // 2 seconds delay
+	}, 4000); // 2 seconds delay
 		
      });
 };</script>	<div id="fb-root"></div>
 	<script id="google_cse_v2-js-extra">var scriptParams = {"google_search_engine_id":"3092576ad19ea441f"};</script>
 <script src="https://xettuyen.online/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1" id="google_cse_v2-js"></script>
-<script id="neve-script-js-extra">var NeveProperties = {"ajaxurl":"https:\/\/xettuyen.online\/wp-admin\/admin-ajax.php","nonce":"7c71dba4fd","isRTL":"","isCustomize":""};</script>
+<script id="neve-script-js-extra">var NeveProperties = {"ajaxurl":"https:\/\/xettuyen.online\/wp-admin\/admin-ajax.php","nonce":"93ee4f2217","isRTL":"","isCustomize":""};</script>
 <script src="https://xettuyen.online/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=3.8.2" id="neve-script-js" async></script>
 <script id="neve-script-js-after">
 	var html = document.documentElement;

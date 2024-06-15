@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/web-tinh-diem-bk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/web-tinh-diem-bk/</link>
 	<description>.online</description>
-	<lastBuildDate>Fri, 12 Apr 2024 15:00:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Jun 2024 03:04:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -118,7 +118,7 @@
 
 
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><div class="wp-block-group__inner-container">
-<form id="qsb_form" action="tinhdiem" onsubmit="return false;">
+<form id="qsb_form" action="tinhdiemQSB" onsubmit="return false;">
 
 
 
@@ -148,7 +148,7 @@
 <label for="thitn_anh">Anh*:</label><input id="thitn_anh" name="thitn_anh" type="number" inputmode="decimal"/>
 </div>
 <div class="form-row">
-<label for="thitn_li">Lí:</label><input id="thitn_li" name="thitn_li" type="number" inputmode="decimal"/>
+<label for="thitn_li">Lí:</label><input id="thitn_li" name="thitn_vl" type="number" inputmode="decimal"/>
 <label for="thitn_hoa">Hoá:</label><input id="thitn_hoa" name="thitn_hoa" type="number" inputmode="decimal"/>
 <label for="thitn_sinh">Sinh:</label><input id="thitn_sinh" name="thitn_sinh" type="number" inputmode="decimal"/>
 </div>
@@ -181,9 +181,9 @@
 <label for="hocba_anh_11_5" style="flex-basis:80%">Anh 11:</label><input id="hocba_anh_11_5" name="hocba_anh_11_5" type="number" inputmode="decimal"/>
 <label for="hocba_anh_12_5" style="flex-basis:80%">Anh 12:</label><input id="hocba_anh_12_5" name="hocba_anh_12_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_li_10_5" style="flex-basis:80%">Lí 10:</label><input id="hocba_li_10_5" name="hocba_li_10_5" type="number" inputmode="decimal" />
-<label for="hocba_li_11_5" style="flex-basis:80%">Lí 11:</label><input id="hocba_li_11_5" name="hocba_li_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_li_12_5" style="flex-basis:80%">Lí 12:</label><input id="hocba_li_12_5" name="hocba_li_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_vl_10_5" style="flex-basis:80%">Lí 10:</label><input id="hocba_vl_10_5" name="hocba_vl_10_5" type="number" inputmode="decimal" />
+<label for="hocba_vl_11_5" style="flex-basis:80%">Lí 11:</label><input id="hocba_vl_11_5" name="hocba_vl_11_5" type="number" inputmode="decimal"/>
+<label for="hocba_vl_12_5" style="flex-basis:80%">Lí 12:</label><input id="hocba_vl_12_5" name="hocba_vl_12_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
 <label for="hocba_hoa_10_5" style="flex-basis:80%">Hoá 10:</label><input id="hocba_hoa_10_5" name="hocba_hoa_10_5" type="number" inputmode="decimal" />
 <label for="hocba_hoa_11_5" style="flex-basis:80%">Hoá 11:</label><input id="hocba_hoa_11_5" name="hocba_hoa_11_5" type="number" inputmode="decimal"/>
@@ -211,7 +211,7 @@
 </div>
 <div class="form-row">
 <label for="chungchi_anh_toeic_lr_score"> TOEIC LR:</label><input id="chungchi_anh_toeic_lr_score" name="chungchi_anh_toeic_lr_score"  type="number" inputmode="numeric" pattern="\d*"/>
-<label for="chungchi_anh_toeic_ws_score">TOEIC SW:</label><input id="chungchi_anh_toeic_ws_score" name="chungchi_anh_toeic_ws_score" type="number" inputmode="numeric" pattern="\d*"/>
+<label for="chungchi_anh_toeic_sw_score">TOEIC SW:</label><input id="chungchi_anh_toeic_sw_score" name="chungchi_anh_toeic_sw_score" type="number" inputmode="numeric" pattern="\d*"/>
 </div>
 </div>
 
