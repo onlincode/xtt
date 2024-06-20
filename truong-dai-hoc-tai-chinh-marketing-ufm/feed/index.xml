@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Trường Đại học Tài chính &#8211; Marketing (UFM)	</title>
+	Các bình luận về: Trường Đại học Tài chính &#8211; Marketing (UFM)	</title>
 	<atom:link href="https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/</link>
 	<description>.online</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 </channel>
 </rss>

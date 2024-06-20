@@ -12,13 +12,13 @@
 	<atom:link href="https://xettuyen.online/tag/web-tinh-diem-bk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/web-tinh-diem-bk/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 15 Jun 2024 03:04:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 08:23:13 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
@@ -60,65 +60,25 @@
 
 
 
-<figure data-wp-context="{ &quot;core&quot;:
-				{ &quot;image&quot;:
-					{   &quot;imageLoaded&quot;: false,
-						&quot;initialized&quot;: false,
-						&quot;lightboxEnabled&quot;: false,
-						&quot;hideAnimationEnabled&quot;: false,
-						&quot;preloadInitialized&quot;: false,
-						&quot;lightboxAnimation&quot;: &quot;zoom&quot;,
-						&quot;imageUploadedSrc&quot;: &quot;https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-scaled.jpg&quot;,
-						&quot;imageCurrentSrc&quot;: &quot;&quot;,
-						&quot;targetWidth&quot;: &quot;2560&quot;,
-						&quot;targetHeight&quot;: &quot;1849&quot;,
-						&quot;scaleAttr&quot;: &quot;&quot;,
-						&quot;dialogLabel&quot;: &quot;Enlarged image&quot;
-					}
-				}
-			}" data-wp-interactive class="wp-block-image size-large wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1024" height="739" data-wp-effect--setStylesOnResize="effects.core.image.setStylesOnResize" data-wp-effect="effects.core.image.setButtonStyles" data-wp-init="effects.core.image.initOriginImage" data-wp-on--click="actions.core.image.showLightbox" data-wp-on--load="actions.core.image.handleLoad" src="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923" srcset="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg 1024w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-300x217.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-768x555.jpg 768w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1536x1109.jpg 1536w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-2048x1479.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/xettuyen.online\/wp-content\/uploads\/2024\/04\/dai-hoc-bach-khoa-tphcm-scaled.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-large&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-923&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2560,&quot;targetHeight&quot;:1849,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;H\u00ecnh \u1ea3nh ph\u00f3ng to: Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa TPHCM&quot;,&quot;alt&quot;:&quot;Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa TPHCM&quot;}" data-wp-interactive="core/image" class="wp-block-image size-large wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1024" height="739" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923" srcset="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg 1024w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-300x217.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-768x555.jpg 768w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1536x1109.jpg 1536w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-2048x1479.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
-			aria-label="Enlarge image: Trường Đại học Bách Khoa TPHCM"
-			data-wp-on--click="actions.core.image.showLightbox"
-			data-wp-style--right="context.core.image.imageButtonRight"
-			data-wp-style--top="context.core.image.imageButtonTop"
+			aria-label="Hình ảnh phóng to: Trường Đại học Bách Khoa TPHCM"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on--click="actions.showLightbox"
+			data-wp-style--right="context.imageButtonRight"
+			data-wp-style--top="context.imageButtonTop"
 		>
 			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
 			</svg>
-		</button>        <div data-wp-body="" class="wp-lightbox-overlay zoom"
-            data-wp-bind--role="selectors.core.image.roleAttribute"
-            data-wp-bind--aria-label="selectors.core.image.dialogLabel"
-            data-wp-class--initialized="context.core.image.initialized"
-            data-wp-class--active="context.core.image.lightboxEnabled"
-            data-wp-class--hideAnimationEnabled="context.core.image.hideAnimationEnabled"
-            data-wp-bind--aria-modal="selectors.core.image.ariaModal"
-            data-wp-effect="effects.core.image.initLightbox"
-            data-wp-on--keydown="actions.core.image.handleKeydown"
-            data-wp-on--touchstart="actions.core.image.handleTouchStart"
-            data-wp-on--touchmove="actions.core.image.handleTouchMove"
-            data-wp-on--touchend="actions.core.image.handleTouchEnd"
-            data-wp-on--click="actions.core.image.hideLightbox"
-            tabindex="-1"
-            >
-                <button type="button" aria-label="Đóng" style="fill: #000" class="close-button" data-wp-on--click="actions.core.image.hideLightbox">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg>
-                </button>
-                <div class="lightbox-image-container">
-<figure class="wp-block-image size-large responsive-image"><img decoding="async" data-wp-bind--src="context.core.image.imageCurrentSrc" data-wp-style--object-fit="selectors.core.image.lightboxObjectFit" src="" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923"/></figure>
-</div>
-                <div class="lightbox-image-container">
-<figure class="wp-block-image size-large enlarged-image"><img decoding="async" data-wp-bind--src="selectors.core.image.enlargedImgSrc" data-wp-style--object-fit="selectors.core.image.lightboxObjectFit" src="" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923"/></figure>
-</div>
-                <div class="scrim" style="background-color: #fff" aria-hidden="true"></div>
-        </div></figure>
+		</button></figure>
 
 
 
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><div class="wp-block-group__inner-container">
-<form id="qsb_form" action="tinhdiemQSB" onsubmit="return false;">
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<form id="qsb_form" action="QSB" onsubmit="return false;">
 
 
 
@@ -241,7 +201,7 @@
 
 
 
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><div class="wp-block-group__inner-container"></form>
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained"></form>
 <div id = 'result'>
 <div class="wp-block-btn-button free  align" id="btnButton-6fe496b9-7"><style> #btnButton-6fe496b9-7 .btnButton{ font-weight: 600; font-size: 20px; font-style: normal; text-transform: none; text-decoration: none; line-height: 135%; letter-spacing: 0px; } @media (max-width: 768px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } @media (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } #btnButton-6fe496b9-7{ text-align: center; } @media only screen and (min-width: 769px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 768px) and (min-width: 577px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } #btnButton-6fe496b9-7 .btnButton{ color: #fff; background: linear-gradient(90deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); width: auto; padding: 14px 30px; border-radius: 15px; box-shadow: none; } #btnButton-6fe496b9-7 .btnButton:hover{ color: #fff; background: linear-gradient(135deg, #00ff8f, #00a1ff); } </style> <a  onclick="submitButtonClicked(this)" form_id="qsb_form" result_display_div_id="result" class="btnButton aos-init aos-animate" target="_self" tooltip="" tooltip-pos="top" data-aos="" data-aos-duration="400" id=""><span class="btnText">Xem điểm</span></a></div>  
 </div>
@@ -254,6 +214,115 @@
 
 
 <p>Chú ý: điểm số này chỉ nên <strong>dùng để tham khảo</strong> bởi trường ĐH Bách Khoa sẽ&nbsp;<strong>không công bố điểm xét tuyển cho thí sinh biết</strong>, mà sẽ chỉ công bố nếu thí sinh đó trúng tuyển và nhập học. </p>
+
+
+<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
+<script  >
+ 
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+      details: {
+        display: $.fn.dataTable.Responsive.display.childRowImmediate,
+        type: "column",
+        target: "" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script>
+
+
+<script>function submitButtonClicked(target) {
+  target.style.display='none'
+  var form_id = target.getAttribute("form_id");
+  var result_display_div_id = target.getAttribute("result_display_div_id");
+  var form = document.getElementById(form_id);
+  var formData = new FormData(form);
+  var jsonData = {};
+  for (var pair of formData.entries()) {
+      jsonData[pair[0]] = pair[1];
+  }
+    return fetch('https://thunghiem.xettuyen.online/tinhdiem/'+form.getAttribute("action"), {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(jsonData)
+	})
+     .then(response=>response.json())
+    .then(function(data) {
+		//if (data.error) throw new Error("");
+      document.getElementById(result_display_div_id).innerHTML=data.html;  
+		if (data.alert) alert(data.alert);
+		Object.keys(data.tables).map(k => {
+			$(k).DataTable(data.tables[k])
+		})
+     })
+    .catch(function(error) {
+		  target.style.display='block';
+		alert(error+"Vui lòng tải lại trang và thử lại sau!");
+     });
+};
+ </script>
 <p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
 ]]></content:encoded>
 					

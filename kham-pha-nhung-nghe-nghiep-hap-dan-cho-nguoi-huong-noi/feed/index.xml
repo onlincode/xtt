@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Khám phá những Nghề Nghiệp Hấp Dẫn cho Người Hướng Nội	</title>
+	Các bình luận về: Khám phá những Nghề Nghiệp Hấp Dẫn cho Người Hướng Nội	</title>
 	<atom:link href="https://xettuyen.online/kham-pha-nhung-nghe-nghiep-hap-dan-cho-nguoi-huong-noi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/kham-pha-nhung-nghe-nghiep-hap-dan-cho-nguoi-huong-noi/</link>
 	<description>.online</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 </channel>
 </rss>

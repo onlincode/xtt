@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)	</title>
+	Các bình luận về: TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)	</title>
 	<atom:link href="https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/</link>
 	<description>.online</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 </channel>
 </rss>

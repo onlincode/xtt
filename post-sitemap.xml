@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://xettuyen.online/</loc>
-		<lastmod>2024-06-15T03:04:51+00:00</lastmod>
+		<lastmod>2024-06-19T08:23:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/kham-pha-nhung-nghe-nghiep-hap-dan-cho-nguoi-huong-noi/</loc>
@@ -28,13 +28,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/</loc>
-		<lastmod>2024-04-06T13:20:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/</loc>
 		<lastmod>2024-04-11T17:12:17+00:00</lastmod>
 		<image:image>
@@ -56,8 +49,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/</loc>
+		<lastmod>2024-06-19T08:02:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/</loc>
-		<lastmod>2024-06-15T03:04:51+00:00</lastmod>
+		<lastmod>2024-06-19T08:23:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-scaled.jpg</image:loc>
 		</image:image>
