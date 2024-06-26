@@ -12,13 +12,13 @@
 	<atom:link href="https://xettuyen.online/tag/tinh-diem-bach-khoa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/tinh-diem-bach-khoa/</link>
 	<description>.online</description>
-	<lastBuildDate>Wed, 19 Jun 2024 08:23:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Jun 2024 08:06:11 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
@@ -78,13 +78,13 @@
 
 
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<form id="qsb_form" action="QSB" onsubmit="return false;">
+<form id="qsb_form" action="QSB/pt5" onsubmit="return false;">
 
 
 
 <div class="wp-block-gutena-tabs gutena-tabs-block gutena-tabs-block-85d0c9-f9"><ul class="gutena-tabs-tab tab-center"><li class="gutena-tab-title active" data-tab="1"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>ĐGNL</div></div></div></li><li class="gutena-tab-title inactive" data-tab="2"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Thi tốt nghiệp</div></div></div></li><li class="gutena-tab-title inactive" data-tab="3"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Học lực</div></div></div></li><li class="gutena-tab-title inactive" data-tab="4"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Thành tích</div></div></div></li><li class="gutena-tab-title inactive" data-tab="5"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Ưu tiên</div></div></div></li></ul><div class="gutena-tabs-content is-layout-flow wp-block-tabs-is-layout-flow">
 <div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-b83586-79 active" data-tab="1"><label for="dgnl_vnuhcm_tong">Cột điểm ĐGNL không tính điểm cộng ưu tiên:</label>
-<input id="dgnl_vnuhcm_tong" name="dgnl_vnuhcm_tong" type="number" max="1200" style="width:25%">
+<input id="dgnl_vnuhcm_tong" name="dgnl_vnuhcm_tong" type="number" inputmode="numeric" pattern="\d*" max="1200" style="width:25%">
 <p/>
 
 
@@ -129,29 +129,29 @@
 
 
 <div class="form-row">
-<label for="hocba_toan_10_5" style="flex-basis:80%">Toán 10:</label><input  id="hocba_toan_10_5" name="hocba_toan_10_5" type="number" inputmode="decimal"/>
-<label for="hocba_toan_11_5" style="flex-basis:80%">Toán 11:</label><input id="hocba_toan_11_5" name="hocba_toan_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_toan_12_5" style="flex-basis:80%">Toán 12:</label><input id="hocba_toan_12_5" name="hocba_toan_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_toan_5" style="flex-basis:80%">Toán 10:</label><input  id="hocba_10_toan_5" name="hocba_10_toan_5" type="number" inputmode="decimal"/>
+<label for="hocba_11_toan_5" style="flex-basis:80%">Toán 11:</label><input id="hocba_11_toan_5" name="hocba_11_toan_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_toan_5" style="flex-basis:80%">Toán 12:</label><input id="hocba_12_toan_5" name="hocba_12_toan_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_van_10_5" style="flex-basis:80%">Văn 10:</label><input id="hocba_van_10_5" name="hocba_van_10_5" type="number" inputmode="decimal" />
-<label for="hocba_van_11_5" style="flex-basis:80%">Văn 11:</label><input id="hocba_van_11_5" name="hocba_van_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_van_12_5" style="flex-basis:80%">Văn 12:</label><input id="hocba_van_12_5" name="hocba_van_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_van_5" style="flex-basis:80%">Văn 10:</label><input id="hocba_10_van_5" name="hocba_10_van_5" type="number" inputmode="decimal" />
+<label for="hocba_11_van_5" style="flex-basis:80%">Văn 11:</label><input id="hocba_11_van_5" name="hocba_11_van_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_van_5" style="flex-basis:80%">Văn 12:</label><input id="hocba_12_van_5" name="hocba_12_van_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_anh_10_5" style="flex-basis:80%">Anh 10:</label><input id="hocba_anh_10_5" name="hocba_anh_10_5" type="number" inputmode="decimal"/>
-<label for="hocba_anh_11_5" style="flex-basis:80%">Anh 11:</label><input id="hocba_anh_11_5" name="hocba_anh_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_anh_12_5" style="flex-basis:80%">Anh 12:</label><input id="hocba_anh_12_5" name="hocba_anh_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_anh_5" style="flex-basis:80%">Anh 10:</label><input id="hocba_10_anh_5" name="hocba_10_anh_5" type="number" inputmode="decimal"/>
+<label for="hocba_11_anh_5" style="flex-basis:80%">Anh 11:</label><input id="hocba_11_anh_5" name="hocba_11_anh_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_anh_5" style="flex-basis:80%">Anh 12:</label><input id="hocba_12_anh_5" name="hocba_12_anh_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_vl_10_5" style="flex-basis:80%">Lí 10:</label><input id="hocba_vl_10_5" name="hocba_vl_10_5" type="number" inputmode="decimal" />
-<label for="hocba_vl_11_5" style="flex-basis:80%">Lí 11:</label><input id="hocba_vl_11_5" name="hocba_vl_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_vl_12_5" style="flex-basis:80%">Lí 12:</label><input id="hocba_vl_12_5" name="hocba_vl_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_vl_5" style="flex-basis:80%">Lí 10:</label><input id="hocba_10_vl_5" name="hocba_10_vl_5" type="number" inputmode="decimal" />
+<label for="hocba_11_vl_5" style="flex-basis:80%">Lí 11:</label><input id="hocba_11_vl_5" name="hocba_11_vl_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_vl_5" style="flex-basis:80%">Lí 12:</label><input id="hocba_12_vl_5" name="hocba_12_vl_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_hoa_10_5" style="flex-basis:80%">Hoá 10:</label><input id="hocba_hoa_10_5" name="hocba_hoa_10_5" type="number" inputmode="decimal" />
-<label for="hocba_hoa_11_5" style="flex-basis:80%">Hoá 11:</label><input id="hocba_hoa_11_5" name="hocba_hoa_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_hoa_12_5" style="flex-basis:80%">Hoá 12:</label><input id="hocba_hoa_12_5" name="hocba_hoa_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_hoa_5" style="flex-basis:80%">Hoá 10:</label><input id="hocba_10_hoa_5" name="hocba_10_hoa_5" type="number" inputmode="decimal" />
+<label for="hocba_11_hoa_5" style="flex-basis:80%">Hoá 11:</label><input id="hocba_11_hoa_5" name="hocba_11_hoa_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_hoa_5" style="flex-basis:80%">Hoá 12:</label><input id="hocba_12_hoa_5" name="hocba_12_hoa_5" type="number" inputmode="decimal"/>
 </div><div class="form-row">
-<label for="hocba_sinh_10_5" style="flex-basis:80%">Sinh 10:</label><input id="hocba_sinh_10_5" name="hocba_sinh_10_5" type="number" inputmode="decimal" />
-<label for="hocba_sinh_11_5" style="flex-basis:80%">Sinh 11:</label><input id="hocba_sinh_11_5" name="hocba_sinh_11_5" type="number" inputmode="decimal"/>
-<label for="hocba_sinh_12_5" style="flex-basis:80%">Sinh 12:</label><input id="hocba_sinh_12_5" name="hocba_sinh_12_5" type="number" inputmode="decimal"/>
+<label for="hocba_10_sinh_5" style="flex-basis:80%">Sinh 10:</label><input id="hocba_10_sinh_5" name="hocba_10_sinh_5" type="number" inputmode="decimal" />
+<label for="hocba_11_sinh_5" style="flex-basis:80%">Sinh 11:</label><input id="hocba_11_sinh_5" name="hocba_11_sinh_5" type="number" inputmode="decimal"/>
+<label for="hocba_12_sinh_5" style="flex-basis:80%">Sinh 12:</label><input id="hocba_12_sinh_5" name="hocba_12_sinh_5" type="number" inputmode="decimal"/>
 </div>
 </div>
 
@@ -184,16 +184,16 @@
 <div class="form-row">
 <label for="uutien_nhomdoituong">Nhóm đối tượng:</label>
 <select id="uutien_nhomdoituong" name="uutien_nhomdoituong">
-<option value="khong"> Không</option>
-<option value="nhomdoituong1"> Nhóm ưu tiên 1 (đối tượng 1-4)</option>
-<option value="nhomdoituong2"> Nhóm ưu tiên 2 (đối tượng 5-7)</option>
+<option value="0"> Không</option>
+<option value="1"> Nhóm ưu tiên 1 (đối tượng 1-4)</option>
+<option value="2"> Nhóm ưu tiên 2 (đối tượng 5-7)</option>
 </select></div><div class="form-row">
 <label for="uutien_khuvuc">Khu vực:</label>
 <select id="uutien_khuvuc" name="uutien_khuvuc">
-<option value="khuvuc3"> Khu vực 3 (không được ưu tiên)</option>
-<option value="khuvuc1"> Khu vực 1 </option>
-<option value="khuvuc2"> Khu vực 2 </option>
-<option value="khuvuc2nt"> Khu vực 2-NT</option>
+<option value="3"> Khu vực 3 (không được ưu tiên)</option>
+<option value="1"> Khu vực 1 </option>
+<option value="2"> Khu vực 2 </option>
+<option value="4"> Khu vực 2-NT</option>
 </select></div>
 </div>
 </div></div>
@@ -319,7 +319,7 @@ function parseRenderString (str, variables){
      })
     .catch(function(error) {
 		  target.style.display='block';
-		alert(error+"Vui lòng tải lại trang và thử lại sau!");
+		alert(error+"\nVui lòng tải lại trang hoặc thử lại sau!");
      });
 };
  </script>
