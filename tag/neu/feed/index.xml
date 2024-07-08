@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/neu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/neu/</link>
 	<description>.online</description>
-	<lastBuildDate>Tue, 16 Apr 2024 08:06:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jul 2024 10:05:14 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -143,10 +143,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,

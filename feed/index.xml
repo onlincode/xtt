@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/</link>
 	<description>.online</description>
-	<lastBuildDate>Mon, 24 Jun 2024 08:06:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jul 2024 09:38:09 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -143,10 +143,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,
@@ -299,10 +312,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,
@@ -437,10 +463,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,
@@ -654,16 +693,16 @@ function parseRenderString (str, variables){
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained"></form>
 <div id = 'result'>
 <div class="wp-block-btn-button free  align" id="btnButton-6fe496b9-7"><style> #btnButton-6fe496b9-7 .btnButton{ font-weight: 600; font-size: 20px; font-style: normal; text-transform: none; text-decoration: none; line-height: 135%; letter-spacing: 0px; } @media (max-width: 768px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } @media (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } #btnButton-6fe496b9-7{ text-align: center; } @media only screen and (min-width: 769px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 768px) and (min-width: 577px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } #btnButton-6fe496b9-7 .btnButton{ color: #fff; background: linear-gradient(90deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); width: auto; padding: 14px 30px; border-radius: 15px; box-shadow: none; } #btnButton-6fe496b9-7 .btnButton:hover{ color: #fff; background: linear-gradient(135deg, #00ff8f, #00a1ff); } </style> <a  onclick="submitButtonClicked(this)" form_id="qsb_form" result_display_div_id="result" class="btnButton aos-init aos-animate" target="_self" tooltip="" tooltip-pos="top" data-aos="" data-aos-duration="400" id=""><span class="btnText">Xem điểm</span></a></div>  
-</div>
+<p><div class="wp-block-btn-button free  align" id="btnButton-22d74f5c-a"><style> #btnButton-22d74f5c-a .btnButton{ font-weight: 600; font-size: 20px; font-style: normal; text-transform: none; text-decoration: none; line-height: 135%; letter-spacing: 0px; } @media (max-width: 768px) { #btnButton-22d74f5c-a .btnButton{ font-size: 20px; } } @media (max-width: 576px) { #btnButton-22d74f5c-a .btnButton{ font-size: 20px; } } #btnButton-22d74f5c-a{ text-align: center; } @media only screen and (min-width: 769px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display:block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 768px) and (min-width: 577px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display: block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 576px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display: block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } #btnButton-22d74f5c-a .btnButton{ color: rgba(255, 255, 255, 1); background: linear-gradient(90deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); width: 100%; padding: 14px 30px; border-radius: 15px; box-shadow: none; } #btnButton-22d74f5c-a .btnButton:hover{ color: #fff; background: linear-gradient(135deg, #00ff8f, #00a1ff); } </style> <a onclick="restoreButtonClicked(this)" form_id="qsb_form" class="btnButton aos-init aos-animate" target="_self" tooltip="" tooltip-pos="top" data-aos="" data-aos-duration="400" id=""><span class="btnText">Khôi phục điểm</span></a></div></div>
 </div></div>
 
 
 
-<p>Xem ngay <a href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/"><strong>các ngành tuyển sinh của trường Đại học Bách Khoa</strong> năm 2024 có thêm ngành mới</a> </p>
+<p>Xem ngay <a href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/"><strong>các ngành tuyển sinh của trường Đại học Bách Khoa</strong> năm 2024 có thêm ngành mới</a></p>
 
 
 
-<p>Chú ý: điểm số này chỉ nên <strong>dùng để tham khảo</strong> bởi trường ĐH Bách Khoa sẽ&nbsp;<strong>không công bố điểm xét tuyển cho thí sinh biết</strong>, mà sẽ chỉ công bố nếu thí sinh đó trúng tuyển và nhập học. </p>
+<p>Chú ý: điểm số này chỉ nên <strong>dùng để tham khảo</strong> bởi trường ĐH Bách Khoa sẽ&nbsp;<strong>không công bố điểm xét tuyển cho thí sinh biết</strong>, mà sẽ chỉ công bố nếu thí sinh đó trúng tuyển và nhập học.</p>
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
@@ -715,10 +754,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,
@@ -748,15 +800,19 @@ function parseRenderString (str, variables){
   var form = document.getElementById(form_id);
   var formData = new FormData(form);
   var jsonData = {};
+ 
   for (var pair of formData.entries()) {
       jsonData[pair[0]] = pair[1];
   }
+  var jsonString = JSON.stringify(jsonData);
+	localStorage.setItem(form_id, jsonString);
     return fetch('https://thunghiem.xettuyen.online/tinhdiem/'+form.getAttribute("action"), {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify(jsonData)
+		  credentials: 'include', 
+      body: jsonString
 	})
      .then(response=>response.json())
     .then(function(data) {
@@ -771,6 +827,34 @@ function parseRenderString (str, variables){
 		  target.style.display='block';
 		alert(error+"\nVui lòng tải lại trang hoặc thử lại sau!");
      });
+};
+
+function restoreButtonClicked(target) {
+  target.style.display='none'
+  var form_id = target.getAttribute("form_id"); 
+  var form = document.getElementById(form_id);
+  try{
+	  var formData = localStorage.getItem(form_id);
+	  var jsonData = JSON.parse(formData);
+	       // Loop through each input field in the form
+        for (var key in jsonData) {
+            if (jsonData.hasOwnProperty(key)) {
+                // Find the corresponding input element in the form
+                var inputElement = form.elements[key];
+                
+                // Check if the input element exists in the form
+                if (inputElement) {
+                    // Populate the input element with the stored value
+                    inputElement.value = jsonData[key];
+                } else {
+                    console.warn('Input element with name ' + key + ' not found in form.');
+                }
+            }
+        }
+  }
+	catch (err){
+		
+	}
 };
  </script>
 <p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
@@ -862,10 +946,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,

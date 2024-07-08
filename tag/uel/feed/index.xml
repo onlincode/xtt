@@ -125,10 +125,23 @@ function parseRenderString (str, variables){
 	
 	$.extend( $.fn.dataTable.defaults, {
     responsive: {
-      details: {
-        display: $.fn.dataTable.Responsive.display.childRowImmediate,
-        type: "column",
-        target: "" 
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
     }
   },  columnDefs : [{ targets: '_all', render , orderable:false}],
 // scrollToTop:true,
