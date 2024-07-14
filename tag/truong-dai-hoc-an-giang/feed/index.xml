@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trường Đại Học An Giang Archives - Xét tuyển</title>
+	<atom:link href="https://xettuyen.online/tag/truong-dai-hoc-an-giang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xettuyen.online/tag/truong-dai-hoc-an-giang/</link>
+	<description>.online</description>
+	<lastBuildDate>Sat, 13 Jul 2024 09:50:17 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
+	<title>Trường Đại Học An Giang Archives - Xét tuyển</title>
+	<link>https://xettuyen.online/tag/truong-dai-hoc-an-giang/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trường Đại học An Giang (AGU)- ĐHQG TPHCM</title>
+		<link>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/</link>
+					<comments>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Sat, 13 Jul 2024 09:48:07 +0000</pubDate>
+				<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[XÉT TUYỂN]]></category>
+		<category><![CDATA[Đại học Quốc Gia TPHCM]]></category>
+		<category><![CDATA[ĐHQG TPHCM]]></category>
+		<category><![CDATA[Trường Đại Học An Giang]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1080</guid>
+
+					<description><![CDATA[<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</span></a></p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học tập và nghiên cứu hiện đại, đảm bảo chất lượng giáo dục theo tiêu chuẩn quốc tế.</p>
+
+
+
+<p><strong>Đào tạo đa dạng và chất lượng</strong>: Trường cung cấp các chương trình đào tạo phong phú từ bậc đại học đến sau đại học, bao gồm Kinh tế, Quản trị kinh doanh, Khoa học xã hội và Nhân văn, Khoa học tự nhiên, Nông nghiệp và Sinh học ứng dụng. Đội ngũ giảng viên có trình độ cao, nhiều người từ nước ngoài, cam kết mang đến cho sinh viên kiến thức sâu rộng và kỹ năng thực tiễn.</p>
+
+
+
+<h2 class="wp-block-heading">Các ngành đào tạo của trường Đại học An Giang</h2>
+
+
+<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
+<script  >
+ 
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+
+
+
+<p><strong>Môi trường học tập tiên tiến</strong> Với các cơ sở vật chất hiện đại, thư viện và phòng lab được trang bị đầy đủ, <a href="https://www.agu.edu.vn/vi/tuyen-sinh/thong-tin-tuyen-sinh-dai-hoc">Trường Đại học An Giang</a> tạo điều kiện thuận lợi cho sinh viên tiếp cận và nghiên cứu các công nghệ mới nhất. Môi trường học tập thân thiện và đa dạng văn hóa, khuyến khích sự sáng tạo và trao đổi kiến thức giữa các sinh viên.</p>
+
+
+
+<p><strong>Hoạt động nghiên cứu và hợp tác quốc tế</strong>: trường cũng thúc đẩy hoạt động nghiên cứu ứng dụng, hợp tác chặt chẽ với các doanh nghiệp và tổ chức quốc tế. Sinh viên được khuyến khích tham gia vào các dự án nghiên cứu, giúp họ áp dụng kiến thức vào thực tế và chuẩn bị cho sự nghiệp sau này.</p>
+
+
+
+<p><strong>Cam kết phát triển bền vững</strong> Với cam kết mang lại giá trị gia tăng cho cộng đồng và xã hội, AGU không chỉ là nơi đào tạo mà còn là trung tâm phát triển nhân lực chất lượng cao. Hãy khám phá và lựa chọn AGU là điểm khởi đầu hoàn hảo cho tương lai nghề nghiệp của bạn!</p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

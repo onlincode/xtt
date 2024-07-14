@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/tinh-diem-bach-khoa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/tinh-diem-bach-khoa/</link>
 	<description>.online</description>
-	<lastBuildDate>Mon, 08 Jul 2024 09:38:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jul 2024 14:34:11 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -89,7 +89,7 @@
 
 
 
-<p>Nếu <strong>không dự thi</strong>, nhà trường sẽ xem như cột điểm ĐGNL của bạn <strong>bằng 0</strong>.</p>
+<p>Nếu <strong>không dự thi</strong>, hãy nhập cột điểm ĐGNL của bạn <strong>bằng 0</strong>.</p>
 
 
 
@@ -367,7 +367,13 @@ function restoreButtonClicked(target) {
 		
 	}
 };
- </script>
+ function loginButtonClicked(target){
+    var currentPageUrl = window.location.href;
+    // Construct the URL to redirect to, adding currentPageUrl as a query parameter
+    var redirectTo = 'https://thunghiem.xettuyen.online/auth/google?url=' + encodeURIComponent(currentPageUrl);
+    // Redirect the user
+    window.location.href = redirectTo;
+ }</script>
 <p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
 ]]></content:encoded>
 					
