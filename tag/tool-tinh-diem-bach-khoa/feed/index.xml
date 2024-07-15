@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/tool-tinh-diem-bach-khoa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/tool-tinh-diem-bach-khoa/</link>
 	<description>.online</description>
-	<lastBuildDate>Mon, 08 Jul 2024 14:34:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 14:38:21 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -158,7 +158,7 @@
 
 
 <div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-60cd68-b9 inactive" data-tab="4">
-<p>Điểm IELTS 6.0 sẽ được quy đổi sang 10 điểm <strong>môn tiếng Anh</strong> trong cột điểm thi tốt nghiệp và 10 điểm <strong>môn tiếng Anh</strong> trong các cột điểm học bạ (nếu xét tổ hợp A01,  B08, D01, D07)</p>
+<p>Điểm chứng chỉ ngoại ngữ sau đây sẽ được quy đổi sang điểm <strong>môn tiếng Anh</strong> trong cột điểm thi tốt nghiệp và điểm <strong>môn tiếng Anh</strong> trong các cột điểm học bạ (nếu xét tổ hợp A01, B08, D01, D07)</p>
 
 
 
@@ -173,6 +173,10 @@
 <label for="chungchi_anh_toeic_lr_score"> TOEIC LR:</label><input id="chungchi_anh_toeic_lr_score" name="chungchi_anh_toeic_lr_score"  type="number" inputmode="numeric" pattern="\d*"/>
 <label for="chungchi_anh_toeic_sw_score">TOEIC SW:</label><input id="chungchi_anh_toeic_sw_score" name="chungchi_anh_toeic_sw_score" type="number" inputmode="numeric" pattern="\d*"/>
 </div>
+
+
+
+<p>Giữa điểm quy đổi và điểm gốc, điểm nào cao hơn sẽ được hệ thống tự động sử dụng</p>
 </div>
 
 
@@ -375,7 +379,14 @@ function restoreButtonClicked(target) {
     var redirectTo = 'https://thunghiem.xettuyen.online/auth/google?url=' + encodeURIComponent(currentPageUrl);
     // Redirect the user
     window.location.href = redirectTo;
- }</script>
+ }
+
+function silentFetchButtonClicked(url){
+	return fetch(url, {method:"get", credentials: 'include'}).then(r => r.json()).then(r => {
+		if (r.alert) alert(r.alert);
+		
+	})
+}</script>
 <p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
 ]]></content:encoded>
 					
