@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/uit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/uit/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 13 Jul 2024 08:29:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 03:52:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -61,12 +61,14 @@
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -145,7 +147,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Thương mại điện tử (7340122)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)"],["Kỹ thuật máy tính (7480106)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)"],["Khoa học dữ liệu (7460108)"],["Trí tuệ nhân tạo (7480107)"],["Công nghệ thông tin (7480201)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)"],["An toàn thông tin (7480202)"],["Khoa học máy tính (7480101)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)"],["Mạng máy tính và truyền thông dữ liệu (7480102)"],["Hệ thống thông tin (7480104)"],["Kỹ thuật phần mềm (7480103)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Thương mại điện tử (7340122)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)"],["Kỹ thuật máy tính (7480106)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)"],["Khoa học dữ liệu (7460108)"],["Trí tuệ nhân tạo (7480107)"],["Công nghệ thông tin (7480201)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)"],["An toàn thông tin (7480202)"],["Khoa học máy tính (7480101)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)"],["Mạng máy tính và truyền thông dữ liệu (7480102)"],["Hệ thống thông tin (7480104)"],["Kỹ thuật phần mềm (7480103)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 

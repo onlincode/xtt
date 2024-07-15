@@ -1,48 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://xettuyen.online/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://xettuyen.online/tag/an-toan-thong-tin/</loc>
+		<lastmod>2024-07-15T08:38:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/attt/</loc>
+		<lastmod>2024-07-15T08:38:24+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://xettuyen.online/tag/bach-khoa/</loc>
-		<lastmod>2024-07-08T14:34:11+00:00</lastmod>
+		<lastmod>2024-07-15T03:49:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/cntt/</loc>
+		<lastmod>2024-07-15T08:39:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/dai-hoc-quoc-gia-tphcm/</loc>
-		<lastmod>2024-07-13T09:50:17+00:00</lastmod>
+		<lastmod>2024-07-15T03:51:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/dh-quoc-gia-tphcm/</loc>
-		<lastmod>2024-07-13T08:14:21+00:00</lastmod>
+		<lastmod>2024-07-15T03:47:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/dhqg-tphcm/</loc>
-		<lastmod>2024-07-13T09:50:17+00:00</lastmod>
+		<lastmod>2024-07-15T03:52:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/hcmus/</loc>
-		<lastmod>2024-07-13T08:13:43+00:00</lastmod>
+		<lastmod>2024-07-15T03:50:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/hcmut/</loc>
-		<lastmod>2024-07-08T14:34:11+00:00</lastmod>
+		<lastmod>2024-07-15T03:49:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/huong-nghiep/</loc>
 		<lastmod>2023-09-24T09:46:47+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://xettuyen.online/tag/it/</loc>
+		<lastmod>2024-07-15T08:38:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/khoa-hoc-may-tinh/</loc>
+		<lastmod>2024-07-15T09:04:25+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://xettuyen.online/tag/kinh-te/</loc>
-		<lastmod>2024-07-13T08:00:07+00:00</lastmod>
+		<lastmod>2024-07-15T03:50:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/kinh-te-tphcm/</loc>
 		<lastmod>2024-03-13T16:50:10+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://xettuyen.online/tag/ky-thuat-may-tinh/</loc>
+		<lastmod>2024-07-15T09:04:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/ky-thuat-phan-mem/</loc>
+		<lastmod>2024-07-15T08:38:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/mang-may-tinh/</loc>
+		<lastmod>2024-07-15T09:04:25+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://xettuyen.online/tag/marketing/</loc>
-		<lastmod>2024-04-16T07:24:50+00:00</lastmod>
+		<lastmod>2024-07-15T03:49:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/neu/</loc>
-		<lastmod>2024-07-13T08:00:07+00:00</lastmod>
+		<lastmod>2024-07-15T03:50:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://xettuyen.online/tag/nganh-cong-nghe-thong-tin/</loc>
+		<lastmod>2024-07-15T08:38:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/nganh-marketing/</loc>
@@ -58,7 +94,7 @@
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/tai-chinh/</loc>
-		<lastmod>2024-07-13T08:00:07+00:00</lastmod>
+		<lastmod>2024-07-15T03:50:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/tinh-diem-bach-khoa/</loc>
@@ -74,35 +110,35 @@
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/truong-dai-hoc-an-giang/</loc>
-		<lastmod>2024-07-13T09:50:17+00:00</lastmod>
+		<lastmod>2024-07-15T03:51:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/truong-dai-hoc-bach-khoa-tp-hcm/</loc>
-		<lastmod>2024-07-08T14:34:11+00:00</lastmod>
+		<lastmod>2024-07-15T03:49:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/truong-dai-hoc-cong-nghe-thong-tin/</loc>
-		<lastmod>2024-07-13T08:29:45+00:00</lastmod>
+		<lastmod>2024-07-15T03:52:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/truong-dai-hoc-khoa-hoc-tu-nhien/</loc>
-		<lastmod>2024-07-13T08:13:43+00:00</lastmod>
+		<lastmod>2024-07-15T03:50:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/truong-dai-hoc-kinh-te-luat/</loc>
-		<lastmod>2024-07-13T08:14:21+00:00</lastmod>
+		<lastmod>2024-07-15T03:47:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/uel/</loc>
-		<lastmod>2024-07-13T08:14:21+00:00</lastmod>
+		<lastmod>2024-07-15T03:47:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/ufm/</loc>
-		<lastmod>2024-04-16T07:24:50+00:00</lastmod>
+		<lastmod>2024-07-15T03:49:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/uit/</loc>
-		<lastmod>2024-07-13T08:29:45+00:00</lastmod>
+		<lastmod>2024-07-15T03:52:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://xettuyen.online/tag/web-tinh-diem-bk/</loc>

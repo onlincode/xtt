@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kỹ thuật phần mềm Archives - Xét tuyển</title>
+	<atom:link href="https://xettuyen.online/tag/ky-thuat-phan-mem/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xettuyen.online/tag/ky-thuat-phan-mem/</link>
+	<description>.online</description>
+	<lastBuildDate>Mon, 15 Jul 2024 08:38:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
+	<title>kỹ thuật phần mềm Archives - Xét tuyển</title>
+	<link>https://xettuyen.online/tag/ky-thuat-phan-mem/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:23:15 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[kỹ thuật phần mềm]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1120</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/">Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC AN GIANG  - ĐH QG TP. HCM (QSA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ VÀ QUẢN LÝ HỮU NGHỊ(*) (DCQ)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KHOA HỌC, ĐH HUẾ (DHT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KINH TẾ - KỸ THUẬT BÌNH DƯƠNG (DKB)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC QUY NHƠN (DQN)"],["Kỹ thuật phần mềm liên kết quốc tế - KNU (7480103_KNU)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật phần mềm - Chương trình Chất lượng cao (F7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm - Chương trình đại học bằng tiếng Anh (FA7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm - Chương trình học tại phân hiệu Khánh Hòa (N7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC QUỐC TẾ MIỀN ĐÔNG (EIU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Nhóm ngành Công nghệ thông tin gồm 04 ngành và 02 chuyên ngành: Công nghệ thông tin; Khoa học máy tính; Kỹ thuật phần mềm; Hệ thống TT;   chuyên ngành  QL đô thị thông minh và bền vững và Khoa học DL. (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC XÂY DỰNG MIỀN TÂY (MTU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Kỹ thuật phần mềm (Một số môn chuyên ngành học bằng Tiếng Anh) (ICT2)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Kỹ thuật phần mềm (03 chuyên ngành: Công nghệ Web, Công nghệ di động, Kiểm thử và Đảm bảo chất lượng phần mềm) (7480103)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT HƯNG YÊN (SKH)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Kỹ thuật phần mềm (chương trình chất lượng cao) (7480103C)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC THỦ DẦU MỘT (TDM)"],["Kỹ thuật phần mềm (TLA117)","TRƯỜNG ĐẠI HỌC THUỶ LỢI (TLA)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/">Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

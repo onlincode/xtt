@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IT Archives - Xét tuyển</title>
+	<atom:link href="https://xettuyen.online/tag/it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xettuyen.online/tag/it/</link>
+	<description>.online</description>
+	<lastBuildDate>Mon, 15 Jul 2024 08:38:29 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
+	<title>IT Archives - Xét tuyển</title>
+	<link>https://xettuyen.online/tag/it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 07:41:48 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[ngành công nghệ thông tin]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1113</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/">Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Công nghệ thông tin ứng dụng (QHQ10)","TRƯỜNG QUỐC TẾ - ĐH QG HÀ NỘI (QHQ)"],["Công nghệ thông tin định  hướng thị trường Nhật Bản (CN16)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Công nghệ thông tin (CN1)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Công nghệ Thông tin Global ICT (CT tiên tiến) (IT-E7)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ Thông tin Việt – Nhật (tăng cường tiếng Nhật) (IT-E6)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp) (IT-EP)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (2+2) (7480201_DK2)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (2.5+1.5) (7480201_DK25)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (3+1) (7480201_DK3)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH West of England) (4+0) (7480201_WE4)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Nottingham) (2+2) (7480201_UN)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC AN GIANG  - ĐH QG TP. HCM (QSA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Nhóm ngành máy tính và Công nghệ thông tin (7480201_NN)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG TP.HCM (QST)"],["Công nghệ thông tin (Chương trình Chất lượng cao) (7480201_CLC)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG TP.HCM (QST)"],["Công nghệ thông tin (Cử nhân, định hướng ứng dụng) (7480201_UDU)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (7480201)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (chất lượng cao) (7480201_CLC)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (7480201)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG - CƠ SỞ TẠI TP. HỒ CHÍ MINH (BVS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BÀ RỊA - VŨNG TÀU (BVU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ NGHỆ AN (CEA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CMC (CMC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ thông tin (Phân hiệu tại Đăk Lăk) (7480201 DL)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG (DBD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ BẮC HÀ (DBH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BẠC LIÊU (DBL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CHU VĂN AN(*) (DCA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐỒNG NAI (DCD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CỬU LONG (DCL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ VÀ QUẢN LÝ HỮU NGHỊ(*) (DCQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH (DCT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VINH (DCV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á (DDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÀNH ĐÔNG(*) (DDB)"],["Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp) (7480201)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo (7480201B)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (ngoại ngữ Nhật) (7480201A)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐIỆN LỰC (DDL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP QUẢNG NINH (DDM)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐẠI NAM (DDN)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU ĐHĐN TẠI KONTUM (DDP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM - ĐH ĐÀ NẴNG (DDS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÔNG ĐÔ (DDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KHOA HỌC, ĐH HUẾ (DHT)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG - TP. HỒ CHÍ MINH (DHV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - KỸ THUẬT BÌNH DƯƠNG (DKB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["Công nghệ thông tin_ĐH Mở Malaysia (OM_7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["Công nghệ thông tin (Cơ sở Hà Nội) (7480201DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ thông tin (Cơ sở Nam Định) (7480201DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ thông tin (74802010)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802011)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802012)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802013)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ CÔNG NGHIỆP LONG AN (DLA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LẠC HỒNG (DLH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LAO ĐỘNG - XÃ HỘI (TRỤ SỞ CHÍNH) (DLX)"],["Công nghệ thông tin (Phân hiệu Thanh Hóa) (7480201PH)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG HÀ NỘI (DMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG HÀ NỘI (DMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOA LƯ (DNB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NGOẠI NGỮ - TIN HỌC TP.HCM (DNT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC DÂN LẬP PHƯƠNG ĐÔNG (DPD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHẠM VĂN ĐỒNG (DPQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHAN THIẾT (DPT)"],["Công nghệ thông tin (7480201CD)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ thông tin (7480201TC)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHÚ YÊN (DPY)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢNG BÌNH (DQB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH DOANH VÀ CÔNG NGHỆ HÀ NỘI (DQK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUY NHƠN (DQN)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUANG TRUNG(*) (DQT)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢNG NAM (DQU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ SÀI GÒN (DSG)"],["Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin) (7140214)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐH ĐÀ NẴNG (DSK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐH ĐÀ NẴNG (DSK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÁI BÌNH (DTB)"],["Công nghệ thông tin chất lượng cao (7480201_CLC)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin quốc tế (7480201_QT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY ĐÔ (DTD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THĂNG LONG (DTL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG TP. HỒ CHÍ MINH (DTM)"],["Công nghệ thông tin (song bằng, 2+2) - Chương trình liên kết Đại học La Trobe (Úc) (K7480101L)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LƯƠNG THẾ VINH(*) (DTV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - CÔNG NGHỆ THÁI NGUYÊN (DVB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VĂN HIẾN (DVH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TRƯNG VƯƠNG(*) (DVP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TRÀ VINH (DVT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT (DYD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOÀ BÌNH(*) (ETU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI CHÍNH - NGÂN HÀNG HÀ NỘI (FBU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC FPT (FPT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI (GHA)"],["Công nghệ thông tin (Chương trình chất lượng cao Công nghệ thông tin Việt - Anh) (7480201 QT)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI (GHA)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TẠI TP. HỒ CHÍ MINH (GSA)"],["Công nghệ thông tin (GTADCTT2)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI (GTA)"],["Công nghệ thông tin (học tại Vĩnh Phúc) (GTADCTT1)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI (GTA)"],["Công nghệ thông tin - chương trình chất lượng cao (7480201H)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HỒNG ĐỨC (HDT)"],["Công nghệ thông tin (D114)","TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM (HHA)"],["Công nghệ thông tin (CLC) (H114)","TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM (HHA)"],["Công nghệ thông tin (7480201)","HỌC VIỆN HÀNG KHÔNG VIỆT NAM (HHK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÀ TĨNH (HHT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ HỒNG BÀNG (HIU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HẠ LONG (HLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THỦ ĐÔ HÀ NỘI (HNM)"],["Công nghệ thông tin (7480201)","HỌC VIỆN PHỤ NỮ VIỆT NAM (HPN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢN LÝ VÀ CÔNG NGHỆ HẢI PHÒNG (HPU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Công nghệ thông tin (7480201DTTX)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Công nghệ thông tin và Kỹ thuật số (HVN14)","HỌC VIỆN NÔNG NGHIỆP VIỆT NAM (HVN)"],["Nhóm ngành Công nghệ thông tin gồm 04 ngành và 02 chuyên ngành: Công nghệ thông tin; Khoa học máy tính; Kỹ thuật phần mềm; Hệ thống TT;   chuyên ngành  QL đô thị thông minh và bền vững và Khoa học DL. (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU ĐH CÔNG NGHIỆP TP. HCM TẠI QUẢNG NGÃI (IUQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Công nghệ thông tin - Truyền thông (7480201)","TRƯỜNG ĐẠI HỌC KHOA HỌC VÀ CÔNG NGHỆ HÀ NỘI (KCN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN (KHA)"],["Công nghệ thông tin (7480201KMA)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC HÀ NỘI (KTA)"],["Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện) (7480201_1)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC HÀ NỘI (KTA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC ĐÀ NẴNG(*) (KTD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỞ TP. HỒ CHÍ MINH (MBS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỎ - ĐỊA CHẤT (MDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỞ HÀ NỘI (MHN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ MIỀN ĐÔNG (MIT)"],["Công nghệ Thông tin (dạy bằng tiếng Anh) (7480201)","TRƯỜNG ĐẠI HỌC HÀ NỘI (NHF)"],["Công nghệ thông tin (dạy bằng tiếng Anh) (7480201 CLC)","TRƯỜNG ĐẠI HỌC HÀ NỘI (NHF)"],["Công nghệ thông tin (IT01)","HỌC VIỆN NGÂN HÀNG (NHH)"],["Công nghệ thông tin (7480201N)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH TẠI NINH THUẬN (NLN)"],["Công nghệ thông tin (Phân hiệu Ninh Thuận) (7480201N)","TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH (NLS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH (NLS)"],["Công nghệ thông tin * (7480201)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Công nghệ thông tin QT (7480201_QT)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NGUYỄN TRÃI (NTU)"],["Công nghệ thông tin Việt Nhật (ICT-VJ)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Công nghệ thông tin (ICT1)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SAO ĐỎ (SDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Công nghệ thông tin (7480201CLC)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Công nghệ thông tin (03 chuyên ngành: Đồ họa Đa phương tiện; Mạng máy tính và Truyền thông; Phát triển ứng dụng IoT) (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT HƯNG YÊN (SKH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT NAM ĐỊNH (SKN)"],["Công nghệ thông tin (Chuyên ngành Đồ họa máy tính) (7480201_1)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT NAM ĐỊNH (SKN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI 2 (SP2)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐỒNG THÁP (SPD)"],["Công nghệ thông tin (7480201A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201B)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM TP. HỒ CHÍ MINH (SPS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÁI BÌNH DƯƠNG (TBD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (chương trình chất lượng cao) (7480201C)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (học tại Khu Hòa An) (7480201H)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÀNH ĐÔ (TDD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÀ LẠT (TDL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THỦ DẦU MỘT (TDM)"],["Công nghệ thông tin chất lượng cao (7480201C)","TRƯỜNG ĐẠI HỌC VINH (TDV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VINH (TDV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HẢI PHÒNG (THP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG (Phú Thọ) (THV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIÊN GIANG (TKG)"],["Công nghệ thông tin (TLA106)","TRƯỜNG ĐẠI HỌC THUỶ LỢI (TLA)"],["Công nghệ thông tin (TLS106)","TRƯỜNG ĐẠI HỌC THUỶ LỢI - CƠ SỞ 2 Ở PHÍA NAM (TLS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂN TRÀO (TQU)"],["Công nghệ thông tin (3 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính) (7480201)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"],["Công nghệ thông tin (chương trình định hướng nghề nghiệp, song ngữ Anh - Việt) (7480201PHE)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY BẮC (TTB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TIỀN GIANG (TTG)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY NGUYÊN (TTN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - TÀI CHÍNH TP. HỒ CHÍ MINH (UEF)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢN LÝ VÀ CÔNG NGHỆ TP. HỒ CHÍ MINH (UMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VIỆT - HUNG (VHD)"],["Công nghệ thông tin (kỹ sư) (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (cử nhân) (7480201B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (cử nhân - Hợp tác doanh nghiệp) (7480201DT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin - Chuyên ngành Mạng và An toàn thông tin (kỹ sư) (7480201NS)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin - Chuyên ngành Thiết kế Mỹ thuật số (kỹ sư) (7480201DA)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Quản trị kinh doanh - Chuyên ngành Quản trị dự án Công nghệ thông tin (7340101IM)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (7480201_CLC)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VÕ TRƯỜNG TOẢN (VTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VIỆT TRÌ (VUI)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI (XDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC XÂY DỰNG MIỀN TRUNG (XDT)"],["Công nghệ thông tin (7480201)","Trường Thị Anh Test (AA1)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/">Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

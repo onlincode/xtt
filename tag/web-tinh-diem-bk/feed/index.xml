@@ -217,12 +217,14 @@
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;

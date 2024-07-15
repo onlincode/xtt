@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/dh-quoc-gia-tphcm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/dh-quoc-gia-tphcm/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 13 Jul 2024 08:14:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 03:47:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -77,12 +77,14 @@
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -161,7 +163,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Kinh tế (Chuyên ngành Kinh tế học) (7310101_401)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (Tiếng Anh) (7340101_407E)"],["Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành) (7340101_415)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (7340101_407)"],["Marketing (Chuyên ngành Marketing) (Tiếng Anh) (7340115_410E)"],["Marketing (Chuyên ngành Digital Marketing) (7340115_417)"],["Marketing (Chuyên ngành Marketing) (7340115_410)"],["Kinh doanh quốc tế (Tiếng Anh) (7340120_408E)"],["Kinh doanh quốc tế (7340120_408)"],["Thương mại điện tử (Tiếng Anh) (7340122_411E)"],["Tài chính - Ngân hàng (7340201_404)"],["Công nghệ tài chính (7340205_414)"],["Kế toán (7340301_405)"],["Kế toán (Tiếng Anh) (Tích hợp chứng chỉ quốc tế ICAEW) (7340301_405E)"],["Kiểm toán (7340302_409)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)"],["Luật (Chuyên ngành Luật Dân sự) (7380101_503)"],["Luật (Chuyên ngành Luật Tài chính - Ngân hàng) (7380101_504)"],["Luật (Chuyên ngành Luật và Chính sách công) (7380101_505)"],["Luật Kinh tế (Chuyên ngành Luật Kinh doanh) (7380107_501)"],["Luật Kinh tế (Chuyên ngành Luật Thương mại quốc tế) (7380107_502)"],["Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế) (Tiếng Anh) (7380107_502E)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh) (7310108_413E)"],["Thương mại điện tử (7340122_411)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (7310108_413)"],["Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại) (7310106_402)"],["Kinh tế (Chuyên ngành Kinh tế và Quản lý công) (7310101_403)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Kinh tế (Chuyên ngành Kinh tế học) (7310101_401)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (Tiếng Anh) (7340101_407E)"],["Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành) (7340101_415)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (7340101_407)"],["Marketing (Chuyên ngành Marketing) (Tiếng Anh) (7340115_410E)"],["Marketing (Chuyên ngành Digital Marketing) (7340115_417)"],["Marketing (Chuyên ngành Marketing) (7340115_410)"],["Kinh doanh quốc tế (Tiếng Anh) (7340120_408E)"],["Kinh doanh quốc tế (7340120_408)"],["Thương mại điện tử (Tiếng Anh) (7340122_411E)"],["Tài chính - Ngân hàng (7340201_404)"],["Công nghệ tài chính (7340205_414)"],["Kế toán (7340301_405)"],["Kế toán (Tiếng Anh) (Tích hợp chứng chỉ quốc tế ICAEW) (7340301_405E)"],["Kiểm toán (7340302_409)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)"],["Luật (Chuyên ngành Luật Dân sự) (7380101_503)"],["Luật (Chuyên ngành Luật Tài chính - Ngân hàng) (7380101_504)"],["Luật (Chuyên ngành Luật và Chính sách công) (7380101_505)"],["Luật Kinh tế (Chuyên ngành Luật Kinh doanh) (7380107_501)"],["Luật Kinh tế (Chuyên ngành Luật Thương mại quốc tế) (7380107_502)"],["Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế) (Tiếng Anh) (7380107_502E)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh) (7310108_413E)"],["Thương mại điện tử (7340122_411)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (7310108_413)"],["Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại) (7310106_402)"],["Kinh tế (Chuyên ngành Kinh tế và Quản lý công) (7310101_403)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 

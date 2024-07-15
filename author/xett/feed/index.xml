@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/author/xett/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/author/xett/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 13 Jul 2024 09:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 09:04:25 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,41 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Trường Đại học An Giang (AGU)- ĐHQG TPHCM</title>
-		<link>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/</link>
-					<comments>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/#respond</comments>
+		<title>Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/#respond</comments>
 		
 		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Sat, 13 Jul 2024 09:48:07 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[Đại học Quốc Gia TPHCM]]></category>
-		<category><![CDATA[ĐHQG TPHCM]]></category>
-		<category><![CDATA[Trường Đại Học An Giang]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=1080</guid>
+		<pubDate>Mon, 15 Jul 2024 09:04:21 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<category><![CDATA[Mạng máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1126</guid>
 
-					<description><![CDATA[<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học tập và nghiên cứu hiện đại, đảm bảo chất lượng giáo dục theo tiêu chuẩn quốc tế.</p>
-
-
-
-<p><strong>Đào tạo đa dạng và chất lượng</strong>: Trường cung cấp các chương trình đào tạo phong phú từ bậc đại học đến sau đại học, bao gồm Kinh tế, Quản trị kinh doanh, Khoa học xã hội và Nhân văn, Khoa học tự nhiên, Nông nghiệp và Sinh học ứng dụng. Đội ngũ giảng viên có trình độ cao, nhiều người từ nước ngoài, cam kết mang đến cho sinh viên kiến thức sâu rộng và kỹ năng thực tiễn.</p>
-
-
-
-<h2 class="wp-block-heading">Các ngành đào tạo của trường Đại học An Giang</h2>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -141,7 +130,938 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Công nghệ kỹ thuật máy tính (Cơ sở Hà Nội) (7480108DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (Cơ sở Nam Định) (7480108DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính hệ Chất lượng cao (7480108C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ kỹ thuật máy tính (7480108D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (kỹ sư) (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ kỹ thuật máy tính (cử nhân) (7480108B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 09:01:05 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<category><![CDATA[Mạng máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1124</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/">Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Mạng máy tính và truyền thông dữ liệu (CN15)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu) (7480102)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Mạng máy tính và truyền thông dữ liệu (Cơ sở Nam Định) (7480102DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Mạng máy tính và truyền thông dữ liệu (Cơ sở Hà Nội) (7480102DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC QUỐC TẾ MIỀN ĐÔNG (EIU)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/">Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Hệ Thống Thông Tin</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-he-thong-thong-tin/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-he-thong-thong-tin/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:37:27 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1122</guid>
+
+					<description><![CDATA[<p>Khám phá các trường đào tạo Hệ Thống Thông Tin hàng đầu, nơi bạn sẽ được trang bị kiến thức và kỹ năng cần thiết để thành công trong ngành công nghệ thông tin đầy thách thức và tiềm năng.</p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-he-thong-thong-tin/">Tất cả các trường đào tạo ngành Hệ Thống Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Khám phá các trường đào tạo Hệ Thống Thông Tin hàng đầu, nơi bạn sẽ được trang bị kiến thức và kỹ năng cần thiết để thành công trong ngành công nghệ thông tin đầy thách thức và tiềm năng.</p>
+
+
+<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Hệ thống thông tin quản lý (QHQ03)","TRƯỜNG QUỐC TẾ - ĐH QG HÀ NỘI (QHQ)"],["Hệ thống thông tin (CN14)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Hệ thống Thông tin quản lý (MI2)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)","TRƯỜNG ĐẠI HỌC KINH TẾ - LUẬT - ĐH QG TP.HCM (QSK)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)","TRƯỜNG ĐẠI HỌC KINH TẾ - LUẬT - ĐH QG TP.HCM (QSK)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC KINH TẾ - ĐH ĐÀ NẴNG (DDQ)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC TÀI CHÍNH - QUẢN TRỊ KINH DOANH (DFA)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC KINH TẾ, ĐH HUẾ (DHK)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC SƯ PHẠM, ĐH HUẾ (DHS)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC LAO ĐỘNG - XÃ HỘI (CƠ SỞ II TP.HCM) (DLS)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC LAO ĐỘNG - XÃ HỘI (TRỤ SỞ CHÍNH) (DLX)"],["Hệ thống thông tin quản lý (Chương trình chuẩn) (7340405)","TRƯỜNG ĐẠI HỌC TÀI CHÍNH - MARKETING (DMS)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC THĂNG LONG (DTL)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG TP. HỒ CHÍ MINH (DTM)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Hệ thống thông tin (GTADCHT2)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI (GTA)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Hệ thống thông tin quản lý - chương trình chất lượng cao (7340405H)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Hệ thống thông tin (7480104-Ha Noi)","HỌC VIỆN HÀNH CHÍNH QUỐC GIA (HCH)"],["Chuyên ngành Hệ thống thông tin thương mại điện tử thuộc ngành Hệ thống thông tin (7480104-01-Ha Noi)","HỌC VIỆN HÀNH CHÍNH QUỐC GIA (HCH)"],["Hệ thống thông tin quản lý (7340405)","HỌC VIỆN TÀI CHÍNH (HTC)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN (KHA)"],["Hệ thống thông tin kinh doanh (7340405_01)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNH)"],["Hệ thống thông tin (7480104)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104 LTCQ1)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104 LTCQ2)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104 LTCQ3)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104VLVH)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104LTVL1)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104LTVL2)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin (7480104LTVL3)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC LÂM NGHIỆP (LNS)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC MỞ TP. HỒ CHÍ MINH (MBS)"],["Hệ thống thông tin quản lý (MIS01)","HỌC VIỆN NGÂN HÀNG (NHH)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC NGÂN HÀNG TP. HỒ CHÍ MINH (NHS)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH (NLS)"],["Hệ thống thông tin (7480104)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Hệ thống thông tin (TLA116)","TRƯỜNG ĐẠI HỌC THUỶ LỢI (TLA)"],["Hệ thống thông tin quản lý (Quản trị Hệ thống thông tin - chương trình định hướng nghề nghiệp) (TM26)","TRƯỜNG ĐẠI HỌC THƯƠNG MẠI (TMU)"],["Hệ thống thông tin quản lý (Quản trị Hệ thống thông tin) (TM22)","TRƯỜNG ĐẠI HỌC THƯƠNG MẠI (TMU)"],["Hệ thống thông tin quản lý (7340405)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"],["Công nghệ thông tin (3 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính) (7480201)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-he-thong-thong-tin/">Tất cả các trường đào tạo ngành Hệ Thống Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-he-thong-thong-tin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:23:15 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[kỹ thuật phần mềm]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1120</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/">Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC AN GIANG  - ĐH QG TP. HCM (QSA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ VÀ QUẢN LÝ HỮU NGHỊ(*) (DCQ)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KHOA HỌC, ĐH HUẾ (DHT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KINH TẾ - KỸ THUẬT BÌNH DƯƠNG (DKB)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC QUY NHƠN (DQN)"],["Kỹ thuật phần mềm liên kết quốc tế - KNU (7480103_KNU)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật phần mềm - Chương trình Chất lượng cao (F7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm - Chương trình đại học bằng tiếng Anh (FA7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm - Chương trình học tại phân hiệu Khánh Hòa (N7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC QUỐC TẾ MIỀN ĐÔNG (EIU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Nhóm ngành Công nghệ thông tin gồm 04 ngành và 02 chuyên ngành: Công nghệ thông tin; Khoa học máy tính; Kỹ thuật phần mềm; Hệ thống TT;   chuyên ngành  QL đô thị thông minh và bền vững và Khoa học DL. (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC XÂY DỰNG MIỀN TÂY (MTU)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Kỹ thuật phần mềm (Một số môn chuyên ngành học bằng Tiếng Anh) (ICT2)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Kỹ thuật phần mềm (03 chuyên ngành: Công nghệ Web, Công nghệ di động, Kiểm thử và Đảm bảo chất lượng phần mềm) (7480103)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT HƯNG YÊN (SKH)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Kỹ thuật phần mềm (chương trình chất lượng cao) (7480103C)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Kỹ thuật phần mềm (7480103)","TRƯỜNG ĐẠI HỌC THỦ DẦU MỘT (TDM)"],["Kỹ thuật phần mềm (TLA117)","TRƯỜNG ĐẠI HỌC THUỶ LỢI (TLA)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/">Tất cả các trường đào tạo ngành Kỹ Thuật Phần Mềm</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-phan-mem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:12:57 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1118</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Tin học và kỹ thuật máy tính (QHQ04)","TRƯỜNG QUỐC TẾ - ĐH QG HÀ NỘI (QHQ)"],["Kỹ thuật máy tính (CN2)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["CNTT: Kỹ thuật Máy tính (IT2)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Kỹ thuật máy tính (Chương trình liên kết với ĐH Suny Binghamton) (2+2) (7480106_SB)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ Thuật Máy Tính (Chương trình giảng dạy bằng tiếng Anh) (207)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật Máy Tính (107)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật Máy tính (Chương trình Chuyển tiếp Quốc tế) (307)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Kỹ thuật máy tính (Phân hiệu tại Đăk Lăk) (7480106 DL)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Khoa học  Máy tính - Chuyên ngành Khoa học và Kỹ thuật Máy tính (7480101-CSE)","VIỆN NGHIÊN CỨU VÀ ĐÀO TẠO VIỆT - ANH - ĐH ĐÀ NẴNG (DDV)"],["Công nghệ kỹ thuật máy tính (Cơ sở Hà Nội) (7480108DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (Cơ sở Nam Định) (7480108DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật máy tính (KMT)","TRƯỜNG ĐẠI HỌC KỸ THUẬT CÔNG NGHIỆP - ĐH THÁI NGUYÊN (DTK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính hệ Chất lượng cao (7480108C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ kỹ thuật máy tính (7480108D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ kỹ thuật máy tính (kỹ sư) (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ kỹ thuật máy tính (cử nhân) (7480108B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành An Toàn Thông Tin</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 07:48:51 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[An toàn thông tin]]></category>
+		<category><![CDATA[ATTT]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1115</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/">Tất cả các trường đào tạo ngành An Toàn Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["An toàn thông tin (7480202)","HỌC VIỆN AN NINH NHÂN DÂN (ANH)"],["An toàn thông tin (7480202)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["An toàn thông tin (7480202)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG - CƠ SỞ TẠI TP. HỒ CHÍ MINH (BVS)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH (DCT)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC KHOA HỌC VÀ CÔNG NGHỆ HÀ NỘI (KCN)"],["An toàn thông tin (7480202KMP)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["An toàn thông tin (7480202KMA)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["An toàn thông tin (7480202D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin - Chuyên ngành Mạng và An toàn thông tin (kỹ sư) (7480201NS)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/">Tất cả các trường đào tạo ngành An Toàn Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 07:41:48 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[ngành công nghệ thông tin]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1113</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/">Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Công nghệ thông tin ứng dụng (QHQ10)","TRƯỜNG QUỐC TẾ - ĐH QG HÀ NỘI (QHQ)"],["Công nghệ thông tin định  hướng thị trường Nhật Bản (CN16)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Công nghệ thông tin (CN1)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Công nghệ Thông tin Global ICT (CT tiên tiến) (IT-E7)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ Thông tin Việt – Nhật (tăng cường tiếng Nhật) (IT-E6)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp) (IT-EP)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (2+2) (7480201_DK2)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (2.5+1.5) (7480201_DK25)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Deakin) (3+1) (7480201_DK3)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH West of England) (4+0) (7480201_WE4)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (Chương trình liên kết với ĐH Nottingham) (2+2) (7480201_UN)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC AN GIANG  - ĐH QG TP. HCM (QSA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Nhóm ngành máy tính và Công nghệ thông tin (7480201_NN)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG TP.HCM (QST)"],["Công nghệ thông tin (Chương trình Chất lượng cao) (7480201_CLC)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG TP.HCM (QST)"],["Công nghệ thông tin (Cử nhân, định hướng ứng dụng) (7480201_UDU)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (7480201)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (chất lượng cao) (7480201_CLC)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Công nghệ thông tin (7480201)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG - CƠ SỞ TẠI TP. HỒ CHÍ MINH (BVS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BÀ RỊA - VŨNG TÀU (BVU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ NGHỆ AN (CEA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CMC (CMC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ thông tin (Phân hiệu tại Đăk Lăk) (7480201 DL)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG (DBD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ BẮC HÀ (DBH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC BẠC LIÊU (DBL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CHU VĂN AN(*) (DCA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐỒNG NAI (DCD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CỬU LONG (DCL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ VÀ QUẢN LÝ HỮU NGHỊ(*) (DCQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH (DCT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VINH (DCV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á (DDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÀNH ĐÔNG(*) (DDB)"],["Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp) (7480201)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo (7480201B)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (ngoại ngữ Nhật) (7480201A)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐIỆN LỰC (DDL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP QUẢNG NINH (DDM)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐẠI NAM (DDN)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU ĐHĐN TẠI KONTUM (DDP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM - ĐH ĐÀ NẴNG (DDS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÔNG ĐÔ (DDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KHOA HỌC, ĐH HUẾ (DHT)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG - TP. HỒ CHÍ MINH (DHV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - KỸ THUẬT BÌNH DƯƠNG (DKB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["Công nghệ thông tin_ĐH Mở Malaysia (OM_7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["Công nghệ thông tin (Cơ sở Hà Nội) (7480201DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ thông tin (Cơ sở Nam Định) (7480201DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ thông tin (74802010)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802011)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802012)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (74802013)","TRƯỜNG ĐẠI HỌC HẢI DƯƠNG (DKT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ CÔNG NGHIỆP LONG AN (DLA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LẠC HỒNG (DLH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LAO ĐỘNG - XÃ HỘI (TRỤ SỞ CHÍNH) (DLX)"],["Công nghệ thông tin (Phân hiệu Thanh Hóa) (7480201PH)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG HÀ NỘI (DMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG HÀ NỘI (DMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOA LƯ (DNB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NGOẠI NGỮ - TIN HỌC TP.HCM (DNT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC DÂN LẬP PHƯƠNG ĐÔNG (DPD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHẠM VĂN ĐỒNG (DPQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHAN THIẾT (DPT)"],["Công nghệ thông tin (7480201CD)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ thông tin (7480201TC)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHÚ XUÂN (DPX)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC PHÚ YÊN (DPY)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢNG BÌNH (DQB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH DOANH VÀ CÔNG NGHỆ HÀ NỘI (DQK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUY NHƠN (DQN)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUANG TRUNG(*) (DQT)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢNG NAM (DQU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ SÀI GÒN (DSG)"],["Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin) (7140214)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐH ĐÀ NẴNG (DSK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐH ĐÀ NẴNG (DSK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÁI BÌNH (DTB)"],["Công nghệ thông tin chất lượng cao (7480201_CLC)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin quốc tế (7480201_QT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY ĐÔ (DTD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THĂNG LONG (DTL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG TP. HỒ CHÍ MINH (DTM)"],["Công nghệ thông tin (song bằng, 2+2) - Chương trình liên kết Đại học La Trobe (Úc) (K7480101L)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC LƯƠNG THẾ VINH(*) (DTV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - CÔNG NGHỆ THÁI NGUYÊN (DVB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VĂN HIẾN (DVH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TRƯNG VƯƠNG(*) (DVP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TRÀ VINH (DVT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT (DYD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOÀ BÌNH(*) (ETU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÀI CHÍNH - NGÂN HÀNG HÀ NỘI (FBU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC FPT (FPT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI (GHA)"],["Công nghệ thông tin (Chương trình chất lượng cao Công nghệ thông tin Việt - Anh) (7480201 QT)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI (GHA)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TẠI TP. HỒ CHÍ MINH (GSA)"],["Công nghệ thông tin (GTADCTT2)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI (GTA)"],["Công nghệ thông tin (học tại Vĩnh Phúc) (GTADCTT1)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI (GTA)"],["Công nghệ thông tin - chương trình chất lượng cao (7480201H)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HỒNG ĐỨC (HDT)"],["Công nghệ thông tin (D114)","TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM (HHA)"],["Công nghệ thông tin (CLC) (H114)","TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM (HHA)"],["Công nghệ thông tin (7480201)","HỌC VIỆN HÀNG KHÔNG VIỆT NAM (HHK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÀ TĨNH (HHT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUỐC TẾ HỒNG BÀNG (HIU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HẠ LONG (HLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THỦ ĐÔ HÀ NỘI (HNM)"],["Công nghệ thông tin (7480201)","HỌC VIỆN PHỤ NỮ VIỆT NAM (HPN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢN LÝ VÀ CÔNG NGHỆ HẢI PHÒNG (HPU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Công nghệ thông tin (7480201DTTX)","TRƯỜNG ĐẠI HỌC HOA SEN (HSU)"],["Công nghệ thông tin và Kỹ thuật số (HVN14)","HỌC VIỆN NÔNG NGHIỆP VIỆT NAM (HVN)"],["Nhóm ngành Công nghệ thông tin gồm 04 ngành và 02 chuyên ngành: Công nghệ thông tin; Khoa học máy tính; Kỹ thuật phần mềm; Hệ thống TT;   chuyên ngành  QL đô thị thông minh và bền vững và Khoa học DL. (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ thông tin (7480201)","PHÂN HIỆU ĐH CÔNG NGHIỆP TP. HCM TẠI QUẢNG NGÃI (IUQ)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Công nghệ thông tin - Truyền thông (7480201)","TRƯỜNG ĐẠI HỌC KHOA HỌC VÀ CÔNG NGHỆ HÀ NỘI (KCN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN (KHA)"],["Công nghệ thông tin (7480201KMA)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC HÀ NỘI (KTA)"],["Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện) (7480201_1)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC HÀ NỘI (KTA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIẾN TRÚC ĐÀ NẴNG(*) (KTD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỞ TP. HỒ CHÍ MINH (MBS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỎ - ĐỊA CHẤT (MDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC MỞ HÀ NỘI (MHN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ MIỀN ĐÔNG (MIT)"],["Công nghệ Thông tin (dạy bằng tiếng Anh) (7480201)","TRƯỜNG ĐẠI HỌC HÀ NỘI (NHF)"],["Công nghệ thông tin (dạy bằng tiếng Anh) (7480201 CLC)","TRƯỜNG ĐẠI HỌC HÀ NỘI (NHF)"],["Công nghệ thông tin (IT01)","HỌC VIỆN NGÂN HÀNG (NHH)"],["Công nghệ thông tin (7480201N)","PHÂN HIỆU TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH TẠI NINH THUẬN (NLN)"],["Công nghệ thông tin (Phân hiệu Ninh Thuận) (7480201N)","TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH (NLS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HỒ CHÍ MINH (NLS)"],["Công nghệ thông tin * (7480201)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Công nghệ thông tin QT (7480201_QT)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC NGUYỄN TRÃI (NTU)"],["Công nghệ thông tin Việt Nhật (ICT-VJ)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Công nghệ thông tin (ICT1)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SAO ĐỎ (SDU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Công nghệ thông tin (7480201CLC)","TRƯỜNG ĐẠI HỌC SÀI GÒN (SGD)"],["Công nghệ thông tin (03 chuyên ngành: Đồ họa Đa phương tiện; Mạng máy tính và Truyền thông; Phát triển ứng dụng IoT) (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT HƯNG YÊN (SKH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT NAM ĐỊNH (SKN)"],["Công nghệ thông tin (Chuyên ngành Đồ họa máy tính) (7480201_1)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT NAM ĐỊNH (SKN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI 2 (SP2)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐỒNG THÁP (SPD)"],["Công nghệ thông tin (7480201A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201B)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM HÀ NỘI (SPH)"],["Công nghệ thông tin (7480201D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM TP. HỒ CHÍ MINH (SPS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÁI BÌNH DƯƠNG (TBD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (chương trình chất lượng cao) (7480201C)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (học tại Khu Hòa An) (7480201H)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THÀNH ĐÔ (TDD)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC ĐÀ LẠT (TDL)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC THỦ DẦU MỘT (TDM)"],["Công nghệ thông tin chất lượng cao (7480201C)","TRƯỜNG ĐẠI HỌC VINH (TDV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VINH (TDV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HẢI PHÒNG (THP)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG (Phú Thọ) (THV)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KIÊN GIANG (TKG)"],["Công nghệ thông tin (TLA106)","TRƯỜNG ĐẠI HỌC THUỶ LỢI (TLA)"],["Công nghệ thông tin (TLS106)","TRƯỜNG ĐẠI HỌC THUỶ LỢI - CƠ SỞ 2 Ở PHÍA NAM (TLS)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂN TRÀO (TQU)"],["Công nghệ thông tin (3 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính) (7480201)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"],["Công nghệ thông tin (chương trình định hướng nghề nghiệp, song ngữ Anh - Việt) (7480201PHE)","TRƯỜNG ĐẠI HỌC NHA TRANG (TSN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY BẮC (TTB)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TIỀN GIANG (TTG)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC TÂY NGUYÊN (TTN)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC KINH TẾ - TÀI CHÍNH TP. HỒ CHÍ MINH (UEF)"],["Công nghệ Thông tin (7480201)","TRƯỜNG ĐẠI HỌC QUẢN LÝ VÀ CÔNG NGHỆ TP. HỒ CHÍ MINH (UMT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VIỆT - HUNG (VHD)"],["Công nghệ thông tin (kỹ sư) (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (cử nhân) (7480201B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (cử nhân - Hợp tác doanh nghiệp) (7480201DT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin - Chuyên ngành Mạng và An toàn thông tin (kỹ sư) (7480201NS)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin - Chuyên ngành Thiết kế Mỹ thuật số (kỹ sư) (7480201DA)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Quản trị kinh doanh - Chuyên ngành Quản trị dự án Công nghệ thông tin (7340101IM)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ thông tin (7480201_CLC)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC VÕ TRƯỜNG TOẢN (VTT)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VIỆT TRÌ (VUI)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI (XDA)"],["Công nghệ thông tin (7480201)","TRƯỜNG ĐẠI HỌC XÂY DỰNG MIỀN TRUNG (XDT)"],["Công nghệ thông tin (7480201)","Trường Thị Anh Test (AA1)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/">Tất cả các trường đào tạo ngành Công Nghệ Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-thong-tin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Khoa Học Máy Tính</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 07:23:51 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1088</guid>
+
+					<description><![CDATA[<p>Ngành Khoa Học Máy Tính là một trong những lĩnh vực nổi bật trong thế giới công nghệ hiện đại, đóng vai trò quan trọng trong mọi khía cạnh của đời sống từ kinh tế đến giải trí và giáo dục. Việc học tập và nghiên cứu trong ngành này mang đến cho sinh viên&#8230;&#160;<a href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Tất cả các trường đào tạo ngành Khoa Học Máy Tính</span></a></p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/">Tất cả các trường đào tạo ngành Khoa Học Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Ngành Khoa Học Máy Tính là một trong những lĩnh vực nổi bật trong thế giới công nghệ hiện đại, đóng vai trò quan trọng trong mọi khía cạnh của đời sống từ kinh tế đến giải trí và giáo dục. Việc học tập và nghiên cứu trong ngành này mang đến cho sinh viên một cơ hội tuyệt vời để khám phá sự phát triển và ứng dụng của các công nghệ tiên tiến như trí tuệ nhân tạo, học máy, và khoa học dữ liệu.</p>
+
+
+<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Khoa học máy tính và thông tin* (QHT98)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG HÀ NỘI (QHT)"],["Khoa học máy tính (CN8)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["CNTT: Khoa học Máy tính (IT1)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Khoa học Máy tính - ĐH Troy (Hoa Kỳ) (TROY-IT)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Khoa học máy tính (Chương trình liên kết với ĐH West of England) (2+2) (7480101_WE2)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Khoa học máy tính (Chương trình Tiên tiến) (7480101_TT)","TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐH QG TP.HCM (QST)"],["Khoa học Máy Tính (106)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Khoa Học Máy tính (Chương trình giảng dạy bằng tiếng Anh) (206)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Khoa Học Máy Tính (Chương trình Định hướng Nhật Bản) (266)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Khoa học Máy tính (Chương trình Chuyển tiếp Quốc tế) (306)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Khoa học máy tính (định hướng Khoa học dữ liệu) (7480101)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC CMC (CMC)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC ĐẠI NAM (DDN)"],["Khoa học máy tính - Liên kết (7480101LK)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC THĂNG LONG (DTL)"],["Khoa học máy tính - Chương trình Chất lượng cao (F7480101)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Khoa học máy tính - Chương trình đại học bằng tiếng Anh (FA7480101)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (CH Séc) (K7480101T)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC VĂN HIẾN (DVH)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI (GHA)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC HẠ LONG (HLU)"],["Nhóm ngành Công nghệ thông tin gồm 04 ngành và 02 chuyên ngành: Công nghệ thông tin; Khoa học máy tính; Kỹ thuật phần mềm; Hệ thống TT;   chuyên ngành  QL đô thị thông minh và bền vững và Khoa học DL. (7480201)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Khoa học máy tính (Chương trình liên kết Quốc tế, 2 năm học tại Mỹ) (7480101K)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Nhóm ngành Công nghệ thông tin hệ Chất lượng cao gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin. (7480201C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ (KCC)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN (KHA)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["Khoa học máy tính Chất lượng cao (7480101C)","TRƯỜNG ĐẠI HỌC MỞ TP. HỒ CHÍ MINH (MBS)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC MỞ TP. HỒ CHÍ MINH (MBS)"],["Tài năng Khoa học máy tính (ICT-TN)","TRƯỜNG ĐẠI HỌC PHENIKAA (PKA)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC TƯ THỤC QUỐC TẾ SÀI GÒN (SIU)"],["Khoa học máy tính (03 chuyên ngành: Trí tuệ nhân tạo và Khoa học dữ liệu; Trí tuệ nhân tạo và Xử lý ngôn ngữ tự nhiên; Trí tuệ nhân tạo và Nhận dạng hình ảnh) (7480101)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT HƯNG YÊN (SKH)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT NAM ĐỊNH (SKN)"],["Khoa học Máy tính (7480101)","TRƯỜNG ĐẠI HỌC ĐỒNG THÁP (SPD)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC VINH (TDV)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC TÂN TẠO(*) (TTU)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC VIỆT ĐỨC (VGU)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC VINUNI (VIN)"],["Khoa học máy tính (7480101_CLC)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Khoa học máy tính (7480101)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG (VLU)"],["Khoa học Máy tính (*) (7480101)","TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI (XDA)"],["Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ) (7480101_QT)","TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI (XDA)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+
+
+
+<p>Các chương trình đào tạo ngành Khoa Học Máy Tính thường bao gồm các môn học về lập trình, cơ sở dữ liệu, mạng máy tính, và thuật toán. Sinh viên có cơ hội tiếp cận với các dự án thực tế và các công nghệ mới nhất do các giáo sư và chuyên gia trong ngành hướng dẫn.</p>
+
+
+
+<p>Mỗi trường đại học có những điểm mạnh riêng về ngành Khoa Học Máy Tính, từ chương trình giảng dạy đến cơ sở vật chất và mối liên kết với các doanh nghiệp công nghệ. Những người học ngành này có thể mong đợi một sự nghiệp đa dạng và thú vị với nhiều lựa chọn việc làm từ phát triển phần mềm, khoa học dữ liệu, đến an ninh mạng và nghiên cứu.</p>
+
+
+
+<p>Với tầm quan trọng ngày càng tăng của công nghệ trong xã hội hiện đại, ngành Khoa Học Máy Tính hứa hẹn sẽ tiếp tục phát triển mạnh mẽ và mang đến những cơ hội nghề nghiệp hấp dẫn cho các tân binh muốn tham gia vào cuộc cách mạng công nghệ này.</p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/">Tất cả các trường đào tạo ngành Khoa Học Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-khoa-hoc-may-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trường Đại học An Giang (AGU)- ĐHQG TPHCM</title>
+		<link>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/</link>
+					<comments>https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Sat, 13 Jul 2024 09:48:07 +0000</pubDate>
+				<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[XÉT TUYỂN]]></category>
+		<category><![CDATA[Đại học Quốc Gia TPHCM]]></category>
+		<category><![CDATA[ĐHQG TPHCM]]></category>
+		<category><![CDATA[Trường Đại Học An Giang]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1080</guid>
+
+					<description><![CDATA[<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</span></a></p>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-an-giang-dhqg-tphcm/">Trường Đại học An Giang (AGU)- ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Trường Đại học An Giang (AGU) là một trong những trường thành viên mới của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm tại trung tâm tỉnh An Giang với sứ mệnh đào tạo và nghiên cứu đa ngành, đa lĩnh vực. AGU tự hào là trường có môi trường học tập và nghiên cứu hiện đại, đảm bảo chất lượng giáo dục theo tiêu chuẩn quốc tế.</p>
+
+
+
+<p><strong>Đào tạo đa dạng và chất lượng</strong>: Trường cung cấp các chương trình đào tạo phong phú từ bậc đại học đến sau đại học, bao gồm Kinh tế, Quản trị kinh doanh, Khoa học xã hội và Nhân văn, Khoa học tự nhiên, Nông nghiệp và Sinh học ứng dụng. Đội ngũ giảng viên có trình độ cao, nhiều người từ nước ngoài, cam kết mang đến cho sinh viên kiến thức sâu rộng và kỹ năng thực tiễn.</p>
+
+
+
+<h2 class="wp-block-heading">Các ngành đào tạo của trường Đại học An Giang</h2>
+
+
+<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -193,12 +1113,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -277,7 +1199,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Ngôn ngữ Anh (7220201)"],["Ngôn ngữ Anh_Chất lượng cao (7220201_CLC)"],["Ngôn ngữ Nga (7220202)"],["Ngôn ngữ Pháp (7220203)"],["Ngôn ngữ Trung Quốc (7220204)"],["Ngôn Ngữ Trung Quốc_Chất lượng cao (7220204_CLC)"],["Quản lý giáo dục (7140114)"],["Ngôn ngữ Đức_Chất lượng cao (7220205_CLC)"],["Ngôn ngữ Tây Ban Nha (7220206)"],["Ngôn ngữ Italia (7220208)"],["Triết học (7229001)"],["Tôn giáo học (7229009)"],["Lịch sử (7229010)"],["Ngôn ngữ học (7229020)"],["Văn học (7229030)"],["Văn hoá học (7229040)"],["Đô thị học (7580112)"],["Quan hệ quốc tế _Chất lượng cao (7310206_CLC)"],["Xã hội học (7310301)"],["Nhân học (7310302)"],["Tâm lý học (7310401)"],["Tâm lý học giáo dục (7310403)"],["Địa lý học (7310501)"],["Giáo dục học (7140101)"],["Nhật Bản học (7310613)"],["Nhật Bản học_Chất lượng cao (7310613_CLC)"],["Hàn Quốc học (7310614)"],["Việt Nam học (7310630)"],["Báo chí (7320101)"],["Báo chí_Chất lượng cao (7320101_CLC)"],["Đông phương học (7310608)"],["Thông tin - thư viện (7320201)"],["Quản lý thông tin (7320205)"],["Lưu trữ học (7320303)"],["Công tác xã hội (7760101)"],["Quản trị văn phòng (7340406)"],["Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao (7810103_CLC)"],["Quan hệ quốc tế (7310206)"],["Truyền thông đa phương tiện (7320104)"],["Ngôn ngữ Đức (7220205)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Ngôn ngữ Anh (7220201)"],["Ngôn ngữ Anh_Chất lượng cao (7220201_CLC)"],["Ngôn ngữ Nga (7220202)"],["Ngôn ngữ Pháp (7220203)"],["Ngôn ngữ Trung Quốc (7220204)"],["Ngôn Ngữ Trung Quốc_Chất lượng cao (7220204_CLC)"],["Quản lý giáo dục (7140114)"],["Ngôn ngữ Đức_Chất lượng cao (7220205_CLC)"],["Ngôn ngữ Tây Ban Nha (7220206)"],["Ngôn ngữ Italia (7220208)"],["Triết học (7229001)"],["Tôn giáo học (7229009)"],["Lịch sử (7229010)"],["Ngôn ngữ học (7229020)"],["Văn học (7229030)"],["Văn hoá học (7229040)"],["Đô thị học (7580112)"],["Quan hệ quốc tế _Chất lượng cao (7310206_CLC)"],["Xã hội học (7310301)"],["Nhân học (7310302)"],["Tâm lý học (7310401)"],["Tâm lý học giáo dục (7310403)"],["Địa lý học (7310501)"],["Giáo dục học (7140101)"],["Nhật Bản học (7310613)"],["Nhật Bản học_Chất lượng cao (7310613_CLC)"],["Hàn Quốc học (7310614)"],["Việt Nam học (7310630)"],["Báo chí (7320101)"],["Báo chí_Chất lượng cao (7320101_CLC)"],["Đông phương học (7310608)"],["Thông tin - thư viện (7320201)"],["Quản lý thông tin (7320205)"],["Lưu trữ học (7320303)"],["Công tác xã hội (7760101)"],["Quản trị văn phòng (7340406)"],["Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao (7810103_CLC)"],["Quan hệ quốc tế (7310206)"],["Truyền thông đa phương tiện (7320104)"],["Ngôn ngữ Đức (7220205)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -290,1445 +1212,6 @@ function parseRenderString (str, variables){
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-hcmussh-dhqg-tphcm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Trường Đại học Công nghệ Thông tin (UIT) &#8211; ĐHQG TPHCM</title>
-		<link>https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/</link>
-					<comments>https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Sat, 13 Jul 2024 08:29:43 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[ĐHQG TPHCM]]></category>
-		<category><![CDATA[Trường Đại học Công nghệ Thông tin]]></category>
-		<category><![CDATA[UIT]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=1074</guid>
-
-					<description><![CDATA[<p>Đại học Công nghệ Thông tin (UIT), là một trong những trường thành viên uy tín của Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM), nằm trong số ít các cơ sở giáo dục tại Việt Nam chuyên sâu về lĩnh vực Công nghệ thông tin và Truyền thông. Với sứ mệnh&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học Công nghệ Thông tin (UIT) &#8211; ĐHQG TPHCM</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/">Trường Đại học Công nghệ Thông tin (UIT) &#8211; ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Đại học Công nghệ Thông tin (UIT), là một trong những trường thành viên uy tín của Đại học Quốc gia Thành phố Hồ Chí Minh (<a href="https://xettuyen.online/tag/dhqg-tphcm/">ĐHQG TPHCM</a>), nằm trong số ít các cơ sở giáo dục tại Việt Nam chuyên sâu về lĩnh vực Công nghệ thông tin và Truyền thông. Với sứ mệnh cung cấp giáo dục chất lượng cao, UIT đã từng bước khẳng định vị thế và uy tín trong cộng đồng học thuật cũng như doanh nghiệp.</p>
-
-
-
-<p>UIT tự hào là trường có đội ngũ giảng viên giàu kinh nghiệm và năng động, đồng thời sở hữu các cơ sở vật chất hiện đại, đảm bảo cho sinh viên môi trường học tập và nghiên cứu tiên tiến. <mark class="annotation-text annotation-text-yoast" id="annotation-text-3b15db39-25ec-4a04-bffe-20fef3cc975e">Trường Đại học Công nghệ Thông tin</mark> <a href="https://www.uit.edu.vn/">đào tạo các ngành</a> như Kỹ thuật Phần mềm, Hệ thống <mark class="annotation-text annotation-text-yoast" id="annotation-text-3235157d-fbc3-44ce-bf18-2151be0044b9">thông tin</mark>, An ninh mạng, Đồ họa và Đa phương tiện, Mạng máy tính và Truyền <mark class="annotation-text annotation-text-yoast" id="annotation-text-dec2aae7-0131-4caf-b46e-a8c463d31102">thông</mark>, các chương trình <mark class="annotation-text annotation-text-yoast" id="annotation-text-f0a72fc0-736c-48a2-b7d9-2f0d4fa3b9ab">học</mark> cả bậc <mark class="annotation-text annotation-text-yoast" id="annotation-text-423b255d-7560-4f67-b8d4-ecc1098f5b70">đại học</mark> và sau <mark class="annotation-text annotation-text-yoast" id="annotation-text-c4e9a74d-9390-4054-a057-179454a005a6">đại học</mark>, nhằm đáp ứng nhu cầu ngày càng cao của xã hội và thị <mark class="annotation-text annotation-text-yoast" id="annotation-text-d1454361-3d95-4646-a87d-1a62afa179f7">trường</mark> lao động.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="376" src="https://xettuyen.online/wp-content/uploads/2024/07/image-2-1024x376.png" alt="Trường Đại học Công Nghệ Thông Tin" class="wp-image-1075" srcset="https://xettuyen.online/wp-content/uploads/2024/07/image-2-1024x376.png 1024w, https://xettuyen.online/wp-content/uploads/2024/07/image-2-300x110.png 300w, https://xettuyen.online/wp-content/uploads/2024/07/image-2-768x282.png 768w, https://xettuyen.online/wp-content/uploads/2024/07/image-2.png 1090w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Các ngành đào tạo của trường Đại học Công nghệ thông tin</h2>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Thương mại điện tử (7340122)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)"],["Kỹ thuật máy tính (7480106)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)"],["Khoa học dữ liệu (7460108)"],["Trí tuệ nhân tạo (7480107)"],["Công nghệ thông tin (7480201)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)"],["An toàn thông tin (7480202)"],["Khoa học máy tính (7480101)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)"],["Mạng máy tính và truyền thông dữ liệu (7480102)"],["Hệ thống thông tin (7480104)"],["Kỹ thuật phần mềm (7480103)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Với mạng lưới hợp tác quốc tế rộng khắp và các hoạt động nghiên cứu khoa học mang tính ứng dụng cao, UIT là môi trường lý tưởng cho sinh viên phát triển năng lực chuyên môn cũng như kỹ năng mềm. Chương trình đào tạo tại UIT luôn được cập nhật, đảm bảo tính khả thi và thực tiễn để học sinh có thể áp dụng trực tiếp vào thực tế công việc sau khi tốt nghiệp.</p>
-
-
-
-<p>Ngoài ra, UIT cũng chú trọng đến việc xây dựng mối quan hệ chặt chẽ với các doanh nghiệp và tổ chức trong và ngoài nước, từ đó giúp sinh viên dễ dàng tiếp cận và tham gia vào các dự án thực tế, tăng cường kinh nghiệm và cơ hội việc làm sau khi ra trường.</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/">Trường Đại học Công nghệ Thông tin (UIT) &#8211; ĐHQG TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-cong-nghe-thong-tin-uit-dhqg-tphcm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Trường Đại học Khoa học Tự nhiên &#8211; ĐHQG TPHCM (HCMUS)</title>
-		<link>https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/</link>
-					<comments>https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Sat, 13 Jul 2024 08:11:15 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[Đại học Quốc Gia TPHCM]]></category>
-		<category><![CDATA[ĐHQG TPHCM]]></category>
-		<category><![CDATA[HCMUS]]></category>
-		<category><![CDATA[Trường Đại học Khoa Học Tự Nhiên]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=1064</guid>
-
-					<description><![CDATA[<p>Trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM, là điểm đến hàng đầu cho sinh viên tìm kiếm một môi trường học tập và nghiên cứu vững chắc trong lĩnh vực khoa học tự nhiên tại Việt Nam. Với hơn 45 năm thành lập và phát triển, trường tự hào là nơi cung cấp&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học Khoa học Tự nhiên &#8211; ĐHQG TPHCM (HCMUS)</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/">Trường Đại học Khoa học Tự nhiên &#8211; ĐHQG TPHCM (HCMUS)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM, là điểm đến hàng đầu cho sinh viên tìm kiếm một môi trường học tập và nghiên cứu vững chắc trong lĩnh vực khoa học tự nhiên tại Việt Nam. Với hơn 45 năm thành lập và phát triển, trường tự hào là nơi cung cấp các <a href="https://hcmus.edu.vn/">chương trình đào tạo đa dạng</a>, từ bậc đại học đến sau đại học, trong các ngành như Toán học, Vật lý, Hóa học, Sinh học và Công nghệ thông tin.</p>
-
-
-
-<p>Các trường Đại học trong khối <a href="https://xettuyen.online/tag/dai-hoc-quoc-gia-tphcm/">ĐHQG TPHCM</a> không chỉ chú trọng vào việc trang bị kiến thức chuyên môn mà còn khuyến khích sinh viên phát triển kỹ năng sáng tạo và khả năng giải quyết vấn đề. Đội ngũ giảng viên tại đây đều là những chuyên gia hàng đầu trong các lĩnh vực của mình, cam kết mang đến cho sinh viên một môi trường học thuật sôi nổi và tiên tiến.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://xettuyen.online/wp-content/uploads/2024/07/image-1-1024x410.png" alt="Trường Đại học Khoa học tự nhiên" class="wp-image-1068" srcset="https://xettuyen.online/wp-content/uploads/2024/07/image-1-1024x410.png 1024w, https://xettuyen.online/wp-content/uploads/2024/07/image-1-300x120.png 300w, https://xettuyen.online/wp-content/uploads/2024/07/image-1-768x308.png 768w, https://xettuyen.online/wp-content/uploads/2024/07/image-1-1536x615.png 1536w, https://xettuyen.online/wp-content/uploads/2024/07/image-1.png 1922w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Các ngành đào tạo của trường ĐH Khoa Học Tự Nhiên ĐHQG TPHCM</h2>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Khoa học máy tính (Chương trình Tiên tiến) (7480101_TT)"],["Kỹ thuật điện tử - viễn thông (7520207)"],["Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao) (7520207_CLC)"],["Kỹ thuật hạt nhân (7520402)"],["Vật lý Y khoa (7520403)"],["Kỹ thuật địa chất (7520501)"],["Trí tuệ nhân tạo (7480107)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sinh học (7420101)"],["Sinh học (Chương trình Chất lượng cao) (7420101_CLC)"],["Công nghệ Sinh học (7420201)"],["Công nghệ Sinh học (Chương trình Chất lượng cao) (7420201_CLC)"],["Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học (7440102_NN)"],["Hoá học (7440112)"],["Công nghệ Kỹ thuật Môi trường (7510406)"],["Khoa học Vật liệu (7440122)"],["Địa chất học (7440201)"],["Hải dương học (7440228)"],["Khoa học Môi trường (7440301)"],["Khoa học Môi trường (Chương trình Chất lượng cao) (7440301_CLC)"],["Hóa học (Chương trình Chất lượng cao) (7440112_CLC)"],["Nhóm Ngành Toán học, Toán tin, Toán ứng dụng (7460101_NN)"],["Khoa học dữ liệu (7460108)"],["Công nghệ Vật liệu (7510402)"],["Nhóm ngành máy tính và Công nghệ thông tin (7480201_NN)"],["Công nghệ thông tin (Chương trình Chất lượng cao) (7480201_CLC)"],["Công nghệ kỹ thuật Hoá học (Chương trình Chất lượng cao) (7510401_CLC)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Ngoài ra, trường cũng rất coi trọng hoạt động nghiên cứu khoa học với nhiều dự án nghiên cứu mang tính ứng dụng cao và quan trọng cho sự phát triển của xã hội và nền kinh tế. Việc hợp tác quốc tế và liên kết với các tổ chức nghiên cứu hàng đầu trên thế giới cũng là một trong những điểm mạnh của trường.</p>
-
-
-
-<p>Nếu bạn đang tìm kiếm một nơi để nuôi dưỡng tài năng và phát triển bản thân trong lĩnh vực khoa học tự nhiên, trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM, là lựa chọn không thể bỏ qua. Hãy cùng chúng tôi chắp cánh cho ước mơ và tương lai sáng lạng của bạn!</p>
-
-
-
-<p></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/">Trường Đại học Khoa học Tự nhiên &#8211; ĐHQG TPHCM (HCMUS)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-tphcm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Trường Đại Học Kinh Tế Quốc Dân (NEU)</title>
-		<link>https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/</link>
-					<comments>https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 08:06:53 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[Kinh tế]]></category>
-		<category><![CDATA[NEU]]></category>
-		<category><![CDATA[Tài chính]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=972</guid>
-
-					<description><![CDATA[<p>Trong hơn nửa thế kỷ tồn tại và phát triển, Trường Đại học Kinh tế Quốc dân không ngừng khẳng định mình là một địa chỉ hấp dẫn cho sinh viên và những người muốn nghiên cứu, phát triển sự nghiệp trong lĩnh vực Kinh tế, Quản lý và Quản trị kinh doanh. Các ngành&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại Học Kinh Tế Quốc Dân (NEU)</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/">Trường Đại Học Kinh Tế Quốc Dân (NEU)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Trong hơn nửa thế kỷ tồn tại và phát triển, Trường Đại học Kinh tế Quốc dân không ngừng khẳng định mình là một địa chỉ hấp dẫn cho sinh viên và những người muốn nghiên cứu, phát triển sự nghiệp trong lĩnh vực Kinh tế, Quản lý và Quản trị kinh doanh.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1-1024x683.jpg" alt="trường đại học kinh tế quốc dân" class="wp-image-974" srcset="https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1-1024x683.jpg 1024w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1-300x200.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1-768x512.jpg 768w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1-930x620.jpg 930w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-quoc-dan-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<ul>
-<li>Trường Đại học Kinh tế Quốc dân (NEU) là trường đại học hàng đầu về Kinh tế, Quản lý và Quản trị kinh doanh tại Việt Nam.</li>
-
-
-
-<li>NEU có đội ngũ giảng viên giàu kinh nghiệm và tận tâm.</li>
-
-
-
-<li>Chương trình đào tạo linh hoạt và cập nhật theo xu hướng mới nhất trong ngành.</li>
-
-
-
-<li>NEU là trung tâm nghiên cứu và tư vấn uy tín, đóng góp vào phát triển tri thức và chính sách kinh tế của Việt Nam.</li>
-
-
-
-<li>Môi trường học tập và rèn luyện chuyên nghiệp.</li>
-
-
-
-<li>Phát triển kỹ năng mềm và tư duy sáng tạo cho sinh viên.</li>
-
-
-
-<li>Các hoạt động ngoại khóa, hội thảo và sự kiện văn hóa, thể thao.</li>
-
-
-
-<li>NEU nhằm trở thành trường đại học hàng đầu khu vực và quốc tế.</li>
-
-
-
-<li>Cơ hội phát triển cá nhân và sự nghiệp trong ngành Kinh tế và Quản trị kinh doanh.</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading">Các ngành của trường Đại học Kinh tế Quốc Dân (NEU) 2024</h2>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Kinh tế quốc tế (7310106)"],["Kế toán (7340301)"],["Kiểm toán (7340302)"],["Quản trị kinh doanh (7340101)"],["Thương mại điện tử (7340122)"],["Tài chính-Ngân hàng (7340201)"],["Quản trị nhân lực (7340404)"],["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Kinh doanh thương mại (7340121)"],["Kinh tế và quản lý đô thị (ngành Kinh tế) (7310101_2)"],["Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế) (7310101_3)"],["Kinh tế phát triển (7310105)"],["Quản trị khách sạn (7810201)"],["Hệ thống thông tin quản lý (7340405)"],["Công nghệ thông tin (7480201)"],["Khoa học máy tính (7480101)"],["Luật kinh tế (7380107)"],["Luật (7380101)"],["Thống kê kinh tế (7310107)"],["Bất động sản (7340116)"],["Toán kinh tế (7310108)"],["Quản lý công (7340403)"],["Bảo hiểm (7340204)"],["Quản lý tài nguyên và môi trường (7850101)"],["Khoa học quản lý (7340401)"],["Kinh tế đầu tư (7310104)"],["Quản lý dự án (7340409)"],["Kinh doanh quốc tế (7340120)"],["Quản lý đất đai (7850103)"],["Kinh tế tài nguyên thiên nhiên (7850102)"],["Quan hệ công chúng (7320108)"],["Marketing (7340115)"],["POHE-Quản trị khách sạn (POHE1)"],["POHE-Quản trị lữ hành (POHE2)"],["POHE-Truyền thông Marketing (POHE3)"],["POHE-Luật kinh doanh (POHE4)"],["POHE-Quản trị kinh doanh thương mại (POHE5)"],["POHE-Quản lý thị trường (POHE6)"],["POHE-Thẩm định giá (POHE7)"],["Quản trị kinh doanh (E-BBA) (EBBA)"],["Quản lý công và Chính sách (E-PMP) (EPMP)"],["Định phí Bảo hiểm & Quản trị rủi ro (Actuary) (EP02)"],["Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB) (EP03)"],["Kinh doanh số (E-BDB) (EP05)"],["Kinh tế học (ngành Kinh tế) (7310101_1)"],["Quản trị điều hành thông minh (E-SOM) (EP07)"],["Quản trị chất lượng và Đổi mới (E-MQI) (EP08)"],["Ngôn ngữ Anh (tiếng Anh hệ số 2) (7220201)"],["Kế toán tích hợp chứng chỉ quốc tế (ACT-ICAEW) (EP04)"],["Kiểm toán tích hợp chứng chỉ quốc tế (AUD-ICAEW) (EP12)"],["Kinh tế học tài chính (FE) (EP13)"],["Khởi nghiệp và phát triển kinh doanh (BBAE) (EP01)"],["Quản trị khách sạn quốc tế (IHME) (EP11)"],["Đầu tư tài chính (BFI) (EP10)"],["Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC) (EP14)"],["Phân tích kinh doanh (BA) (EP06)"],["Kinh tế nông nghiệp (7620115)"],["Kinh doanh nông nghiệp (7620114)"],["Logistics và Quản lý chuỗi cung ứng (7510605)"],["Công nghệ tài chính (BFT) (EP09)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Với tầm nhìn và mục tiêu trở thành một trường đại học hàng đầu khu vực và quốc tế, NEU không ngừng đổi mới và cải tiến để đáp ứng yêu cầu ngày càng cao của xã hội và thị trường. Trường hy vọng trở thành điểm đến lý tưởng cho những ai đam mê và khát khao thành công trong lĩnh vực Kinh tế và Quản trị kinh doanh.</p>
-
-
-
-<p>Hãy tham gia NEU và khám phá cơ hội tuyệt vời cho sự phát triển cá nhân và sự nghiệp của bạn trong ngành Kinh tế và Quản trị kinh doanh.</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/">Trường Đại Học Kinh Tế Quốc Dân (NEU)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-kinh-te-quoc-dan-neu/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Trường Đại học Tài chính &#8211; Marketing (UFM)</title>
-		<link>https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/</link>
-					<comments>https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 07:22:22 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[Marketing]]></category>
-		<category><![CDATA[Tài chính]]></category>
-		<category><![CDATA[UFM]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=965</guid>
-
-					<description><![CDATA[<p>Dưới đây là bảng tóm tắt về trường Đại học Tài chính &#8211; Marketing: Các ngành của trường Trường Đại học Tài chính &#8211; Marketing (UFM) 2024 Cuối cùng, Đại học Tài chính &#8211; Marketing cam kết mang đến cho bạn một tương lai đầy triển vọng. Với mạng lưới rộng lớn của chúng tôi,&#8230;&#160;<a href="https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường Đại học Tài chính &#8211; Marketing (UFM)</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/">Trường Đại học Tài chính &#8211; Marketing (UFM)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Dưới đây là bảng tóm tắt về <a href="https://ufm.edu.vn/">trường Đại học Tài chính &#8211; Marketing</a>:</p>
-
-
-
-<ul>
-<li>Trường đại học công lập hàng đầu về tài chính và quản lý ở miền Nam Việt Nam.</li>
-
-
-
-<li>Tiếng tăm về chất lượng giáo dục và đào tạo nhân sự trình độ cao.</li>
-
-
-
-<li>Áp dụng mô hình tự chủ tài chính, tạo điều kiện cho sự sáng tạo và đổi mới.</li>
-
-
-
-<li>Vị trí địa lý thuận lợi tại số 778 Nguyễn Kiệm, quận Phú Nhuận, TP. Hồ Chí Minh.</li>
-
-
-
-<li>Cơ sở vật chất hiện đại và tiện nghi.</li>
-
-
-
-<li>Cung cấp nhiều ký túc xá tại các địa điểm khác nhau, tạo môi trường sống và học tập thoải mái.</li>
-
-
-
-<li>Môi trường học tập đa dạng và tương tác, giúp phát triển tư duy sáng tạo và kỹ năng thực tiễn.</li>
-
-
-
-<li>Đội ngũ giảng viên chất lượng và giàu kinh nghiệm. Nổi bật nhất ở hai ngành Tài chính và ngành Marketing.</li>
-
-
-
-<li>Cựu sinh viên được các nhà tuyển dụng hàng đầu trong cả nước săn đón và tin tưởng.</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="900" height="537" src="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-tai-chinh-marketing.jpg" alt="Trường ĐH Tài chính Marketing" class="wp-image-969" srcset="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-tai-chinh-marketing.jpg 900w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-tai-chinh-marketing-300x179.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-tai-chinh-marketing-768x458.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Các ngành của trường Trường Đại học Tài chính &#8211; Marketing (UFM) 2024</h2>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Quản trị kinh doanh (Chương trình chuẩn) (7340101)"],["Kế toán (Chương trình chuẩn) (7340301)"],["Kinh tế (Chương trình chuẩn) (7310101)"],["Luật Kinh tế (Chương trình chuẩn) (7380107)"],["Toán kinh tế (Chương trình chuẩn) (7310108)"],["Ngôn ngữ Anh (Chương trình chuẩn) (7220201)"],["Hệ thống thông tin quản lý (Chương trình chuẩn) (7340405)"],["Tài chính - Ngân hàng (Chương trình chuẩn) (7340201)"],["Quản trị khách sạn (Chương trình đặc thù) (7810201_DT)"],["Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù) (7810202_DT)"],["Bất động sản (Chương trình chuẩn) (7340116)"],["Marketing (Chương trình tích hợp) (7340115_TH)"],["Kế toán (Chương trình tích hợp) (7340301_TH)"],["Tài chính - Ngân hàng (Chương trình tích hợp) (7340201_TH)"],["Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù) (7810103_DT)"],["Bất động sản (Chương trình tích hợp) (7340116_TH)"],["Quản trị kinh doanh (Chương trình tiếng Anh toàn phần) (7340101_TATP)"],["Marketing (Chương trình tiếng Anh toàn phần) (7340115_TATP)"],["Kinh doanh tiếng Anh toàn phần  (Chương trình tiếng Anh toàn phần) (7340120_TATP)"],["Kinh doanh quốc tế  (Chương trình tích hợp) (7340120_TH)"],["Quản trị kinh doanh (Chương trình tích hợp) (7340101_TH)"],["Công nghệ tài chính (Chương trình chuẩn) (7340205)"],["Kinh doanh quốc tế (Chương trình chuẩn) (7340120)"],["Marketing (Chương trình chuẩn) (7340115)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Cuối cùng, Đại học Tài chính &#8211; Marketing cam kết mang đến cho bạn một tương lai đầy triển vọng. Với mạng lưới rộng lớn của chúng tôi, bạn sẽ có cơ hội tiếp cận với các doanh nghiệp hàng đầu trong ngành tài chính và marketing, tạo điều kiện thuận lợi cho việc tìm kiếm việc làm và phát triển sự nghiệp sau khi tốt nghiệp.</p>
-
-
-
-<p>Đại học Tài chính &#8211; Marketing sẽ là nơi bạn khám phá đam mê của mình, học tập và trưởng thành. Hãy cùng chúng tôi chắp cánh cho tương lai tuyệt vời của bạn!</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/">Trường Đại học Tài chính &#8211; Marketing (UFM)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dai-hoc-tai-chinh-marketing-ufm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)</title>
-		<link>https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/</link>
-					<comments>https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Thu, 11 Apr 2024 17:12:14 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[ĐH Quốc gia tphcm]]></category>
-		<category><![CDATA[Trường Đại học Kinh tế Luật]]></category>
-		<category><![CDATA[UEL]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=933</guid>
-
-					<description><![CDATA[<p>Trong thế giới ngày càng cạnh tranh và phát triển, việc có một nền giáo dục chất lượng và các trường đại học hàng đầu đóng vai trò quan trọng trong việc phát triển tài năng và năng lực của một quốc gia. Trong bài viết này, chúng ta sẽ tìm hiểu về một trong&#8230;&#160;<a href="https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/">TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Trong thế giới ngày càng cạnh tranh và phát triển, việc có một nền giáo dục chất lượng và các trường đại học hàng đầu đóng vai trò quan trọng trong việc phát triển tài năng và năng lực của một quốc gia. Trong bài viết này, chúng ta sẽ tìm hiểu về một trong những trường đại học hàng đầu tại Việt Nam và khu vực phía Nam về lĩnh vực kinh tế.</p>
-
-
-
-<h2 class="wp-block-heading">Tìm hiểu về Trường Đại học Kinh tế Luật</h2>
-
-
-
-<p>Trường Đại học Kinh tế – Luật đã khẳng định vị thế của mình như một trường đại học uy tín và có tầm ảnh hưởng lớn trong lĩnh vực đào tạo và nghiên cứu kinh tế, kinh doanh và luật. Với đội ngũ giảng viên giàu kinh nghiệm và đẳng cấp, trường mang đến cho sinh viên những khóa học chất lượng cao và cung cấp cho họ kiến thức và kỹ năng cần thiết để thành công trong sự nghiệp.</p>
-
-
-
-<p>Một điểm đáng tự hào của UEL là việc nó được xếp vào nhóm trường <a href="https://xettuyen.online/tag/dai-hoc-quoc-gia-tphcm/">đại học trọng điểm quốc gia tại Việt Nam</a>. Điều này chứng tỏ sự công nhận và đánh giá cao về chất lượng giáo dục và đào tạo mà trường mang lại. Nhờ vào sự cam kết không ngừng nâng cao chất lượng, trường đã trở thành một điểm đến hàng đầu cho những người muốn theo đuổi kinh tế và luật.</p>
-
-
-
-<p>Trước khi trở thành Trường Đại học Kinh tế – Luật, trường có nguồn gốc từ Khoa Kinh tế thuộc <a href="https://tuyensinh.vnuhcm.edu.vn/index.php?route=catalog/diemchuan/truong&amp;truong_id=5">Đại học Quốc gia Thành phố Hồ Chí Minh</a>. Sự phát triển và tiến bộ của trường từ lúc đó cho thấy cam kết không ngừng của trường trong việc cung cấp môi trường học tập và nghiên cứu tốt nhất cho sinh viên và giảng viên.</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="820" height="461" src="https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-luat.jpeg" alt="Cổng trường Kinh tế luật" class="wp-image-943" srcset="https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-luat.jpeg 820w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-luat-300x169.jpeg 300w, https://xettuyen.online/wp-content/uploads/2024/04/truong-dai-hoc-kinh-te-luat-768x432.jpeg 768w" sizes="(max-width: 820px) 100vw, 820px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Các ngành đại học UEL (Kinh tế &#8211; luật) 2024</h2>
-
-
-
-<p>Đây không chỉ là nơi đào tạo những chuyên gia kinh tế và luật sư giỏi mà còn là một trung tâm nghiên cứu hàng đầu trong lĩnh vực kinh tế và luật. Các dự án nghiên cứu và hoạt động hợp tác quốc tế của trường đã tạo điều kiện cho giảng viên và sinh viên tham gia vào các dự án nghiên cứu quan trọng và đóng góp vào sự phát triển của ngành kinh tế và luật.</p>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Kinh tế (Chuyên ngành Kinh tế học) (7310101_401)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (Tiếng Anh) (7340101_407E)"],["Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành) (7340101_415)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (7340101_407)"],["Marketing (Chuyên ngành Marketing) (Tiếng Anh) (7340115_410E)"],["Marketing (Chuyên ngành Digital Marketing) (7340115_417)"],["Marketing (Chuyên ngành Marketing) (7340115_410)"],["Kinh doanh quốc tế (Tiếng Anh) (7340120_408E)"],["Kinh doanh quốc tế (7340120_408)"],["Thương mại điện tử (Tiếng Anh) (7340122_411E)"],["Tài chính - Ngân hàng (7340201_404)"],["Công nghệ tài chính (7340205_414)"],["Kế toán (7340301_405)"],["Kế toán (Tiếng Anh) (Tích hợp chứng chỉ quốc tế ICAEW) (7340301_405E)"],["Kiểm toán (7340302_409)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)"],["Luật (Chuyên ngành Luật Dân sự) (7380101_503)"],["Luật (Chuyên ngành Luật Tài chính - Ngân hàng) (7380101_504)"],["Luật (Chuyên ngành Luật và Chính sách công) (7380101_505)"],["Luật Kinh tế (Chuyên ngành Luật Kinh doanh) (7380107_501)"],["Luật Kinh tế (Chuyên ngành Luật Thương mại quốc tế) (7380107_502)"],["Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế) (Tiếng Anh) (7380107_502E)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh) (7310108_413E)"],["Thương mại điện tử (7340122_411)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (7310108_413)"],["Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại) (7310106_402)"],["Kinh tế (Chuyên ngành Kinh tế và Quản lý công) (7310101_403)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Với vị trí địa lý thuận lợi tại khu vực phía Nam của Việt Nam, Trường Đại học Kinh tế – Luật không chỉ hướng đến việc đào tạo những chuyên gia tại địa phương mà còn thu hút sinh viên và giảng viên quốc tế. Sự đa dạng về nguồn nhân lực và quan điểm đã tạo nên một môi trường học tập và giao lưu quốc tế, làm cho trường trở thành một điểm đến hấp dẫn cho những người muốn tiếp cận với kiến thức và trải nghiệm quốc tế.</p>
-
-
-
-<p>Trường Đại học Kinh tế – Luật cũng đáng tự hào về mạng lưới cựu sinh viên và cựu giảng viên rộng lớn. Các cựu sinh viên của trường đã đạt được thành công đáng kể trong các lĩnh vực kinh doanh, tài chính, luật pháp và nhiều ngành nghề khác. Mạng lưới này không chỉ mang lại lợi ích cho cựu sinh viên mà còn tạo điều kiện tốt cho sinh viên hiện tại kết nối và học hỏi từ những người đi trước.</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/">TRƯỜNG ĐH KINH TẾ – LUẬT (UEL)</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dh-kinh-te-luat-uel-dhqg-tphcm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</title>
-		<link>https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/</link>
-					<comments>https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Sat, 06 Apr 2024 13:29:24 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[XÉT TUYỂN]]></category>
-		<category><![CDATA[Bách Khoa]]></category>
-		<category><![CDATA[hcmut]]></category>
-		<category><![CDATA[tính điểm bách khoa]]></category>
-		<category><![CDATA[tool tính điểm bách khoa]]></category>
-		<category><![CDATA[Trường Đại học Bách Khoa TP.HCM]]></category>
-		<category><![CDATA[web tính điểm bk]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=671</guid>
-
-					<description><![CDATA[<p>TÍNH ĐIỂM XÉT TUYỂN BKHCM PHƯƠNG THỨC KẾT HỢP Phương thức xét tuyển kết hợp nhiều tiêu chí đã được nhà trường áp dụng từ năm 2022. Công thức này gồm&#160;có ba cột điểm chính và hai cột điểm cộng thêm: trong đó điểm thi ĐGNL là quan trọng nhất (chiếm hệ số 75%). Cột&#8230;&#160;<a href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p></p>
-
-
-
-<h2 class="wp-block-heading">TÍNH ĐIỂM XÉT TUYỂN BKHCM PHƯƠNG THỨC KẾT HỢP </h2>
-
-
-
-<p>Phương thức xét tuyển kết hợp nhiều tiêu chí đã được nhà trường áp dụng từ năm 2022. Công thức này gồm&nbsp;có ba cột điểm chính và hai cột điểm cộng thêm: trong đó điểm thi ĐGNL là  <strong>quan trọng nhất</strong> (chiếm hệ số 75%). Cột điểm thi tốt nghiệp chiếm 20% và cột điểm học lực chiếm 5%. Trong đó, điểm tối thiểu cho mỗi cột điểm được quy định <a href="https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-cong-bo-diem-san-4629119.html">như sau</a>, tối đa là 100 điểm.</p>
-
-
-
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/xettuyen.online\/wp-content\/uploads\/2024\/04\/dai-hoc-bach-khoa-tphcm-scaled.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-large&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-923&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2560,&quot;targetHeight&quot;:1849,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;H\u00ecnh \u1ea3nh ph\u00f3ng to: Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa TPHCM&quot;,&quot;alt&quot;:&quot;Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa TPHCM&quot;}" data-wp-interactive="core/image" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1024" height="739" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923" srcset="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg 1024w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-300x217.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-768x555.jpg 768w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1536x1109.jpg 1536w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-2048x1479.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			aria-label="Hình ảnh phóng to: Trường Đại học Bách Khoa TPHCM"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="context.imageButtonRight"
-			data-wp-style--top="context.imageButtonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
-
-
-
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<form id="qsb_form" action="QSB/pt5" onsubmit="return false;">
-
-
-
-<div class="wp-block-gutena-tabs gutena-tabs-block gutena-tabs-block-85d0c9-f9"><ul class="gutena-tabs-tab tab-center"><li class="gutena-tab-title active" data-tab="1"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>ĐGNL</div></div></div></li><li class="gutena-tab-title inactive" data-tab="2"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Thi tốt nghiệp</div></div></div></li><li class="gutena-tab-title inactive" data-tab="3"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Học lực</div></div></div></li><li class="gutena-tab-title inactive" data-tab="4"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Thành tích</div></div></div></li><li class="gutena-tab-title inactive" data-tab="5"><div class="gutena-tab-title-content icon-top"><div class="gutena-tab-title-text"><div>Ưu tiên</div></div></div></li></ul><div class="gutena-tabs-content is-layout-flow wp-block-tabs-is-layout-flow">
-<div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-b83586-79 active" data-tab="1"><label for="dgnl_vnuhcm_tong">Cột điểm ĐGNL không tính điểm cộng ưu tiên:</label>
-<input id="dgnl_vnuhcm_tong" name="dgnl_vnuhcm_tong" type="number" inputmode="numeric" pattern="\d*" max="1200" style="width:25%">
-<p/>
-
-
-
-<p>Nếu <strong>không dự thi</strong>, hãy nhập cột điểm ĐGNL của bạn <strong>bằng 0</strong>.</p>
-
-
-
-<p>Trường hợp từng thi nhiều lần, chỉ cần&nbsp;<strong>nhập điểm ĐGNL cao nhất</strong>.</p>
-</div>
-
-
-
-<div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-7bd16f-fc inactive" data-tab="2">
-<p>Nhập điểm thi tốt nghiệp (không cộng điểm ưu tiên) của các môn vào dưới đây. Bạn muốn xét tổ hợp nào chỉ cần nhập điểm các môn của tổ hợp đó: </p>
-
-
-<div class="form-row">
-<label for="thitn_toan">Toán:</label><input id="thitn_toan" name="thitn_toan" type="number" inputmode="decimal"/>
-<label for="thitn_van">Văn:</label><input id="thitn_van" name="thitn_van" type="number" inputmode="decimal"/>
-<label for="thitn_anh">Anh*:</label><input id="thitn_anh" name="thitn_anh" type="number" inputmode="decimal"/>
-</div>
-<div class="form-row">
-<label for="thitn_li">Lí:</label><input id="thitn_li" name="thitn_vl" type="number" inputmode="decimal"/>
-<label for="thitn_hoa">Hoá:</label><input id="thitn_hoa" name="thitn_hoa" type="number" inputmode="decimal"/>
-<label for="thitn_sinh">Sinh:</label><input id="thitn_sinh" name="thitn_sinh" type="number" inputmode="decimal"/>
-</div>
-
-
-
-<p>* Điểm môn Tiếng Anh được phép quy đổi từ điểm chứng chỉ ngoại ngữ</p>
-</div>
-
-
-
-<div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-41d365-3e inactive" data-tab="3">
-<p>Nhập điểm TRUNG BÌNH MÔN CẢ NĂM theo từng lớp như trong học bạ ghi:</p>
-
-
-
-<p>* Điểm môn Tiếng Anh được phép quy đổi từ điểm chứng chỉ ngoại ngữ</p>
-
-
-<div class="form-row">
-<label for="hocba_10_toan_5" style="flex-basis:80%">Toán 10:</label><input  id="hocba_10_toan_5" name="hocba_10_toan_5" type="number" inputmode="decimal"/>
-<label for="hocba_11_toan_5" style="flex-basis:80%">Toán 11:</label><input id="hocba_11_toan_5" name="hocba_11_toan_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_toan_5" style="flex-basis:80%">Toán 12:</label><input id="hocba_12_toan_5" name="hocba_12_toan_5" type="number" inputmode="decimal"/>
-</div><div class="form-row">
-<label for="hocba_10_van_5" style="flex-basis:80%">Văn 10:</label><input id="hocba_10_van_5" name="hocba_10_van_5" type="number" inputmode="decimal" />
-<label for="hocba_11_van_5" style="flex-basis:80%">Văn 11:</label><input id="hocba_11_van_5" name="hocba_11_van_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_van_5" style="flex-basis:80%">Văn 12:</label><input id="hocba_12_van_5" name="hocba_12_van_5" type="number" inputmode="decimal"/>
-</div><div class="form-row">
-<label for="hocba_10_anh_5" style="flex-basis:80%">Anh 10:</label><input id="hocba_10_anh_5" name="hocba_10_anh_5" type="number" inputmode="decimal"/>
-<label for="hocba_11_anh_5" style="flex-basis:80%">Anh 11:</label><input id="hocba_11_anh_5" name="hocba_11_anh_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_anh_5" style="flex-basis:80%">Anh 12:</label><input id="hocba_12_anh_5" name="hocba_12_anh_5" type="number" inputmode="decimal"/>
-</div><div class="form-row">
-<label for="hocba_10_vl_5" style="flex-basis:80%">Lí 10:</label><input id="hocba_10_vl_5" name="hocba_10_vl_5" type="number" inputmode="decimal" />
-<label for="hocba_11_vl_5" style="flex-basis:80%">Lí 11:</label><input id="hocba_11_vl_5" name="hocba_11_vl_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_vl_5" style="flex-basis:80%">Lí 12:</label><input id="hocba_12_vl_5" name="hocba_12_vl_5" type="number" inputmode="decimal"/>
-</div><div class="form-row">
-<label for="hocba_10_hoa_5" style="flex-basis:80%">Hoá 10:</label><input id="hocba_10_hoa_5" name="hocba_10_hoa_5" type="number" inputmode="decimal" />
-<label for="hocba_11_hoa_5" style="flex-basis:80%">Hoá 11:</label><input id="hocba_11_hoa_5" name="hocba_11_hoa_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_hoa_5" style="flex-basis:80%">Hoá 12:</label><input id="hocba_12_hoa_5" name="hocba_12_hoa_5" type="number" inputmode="decimal"/>
-</div><div class="form-row">
-<label for="hocba_10_sinh_5" style="flex-basis:80%">Sinh 10:</label><input id="hocba_10_sinh_5" name="hocba_10_sinh_5" type="number" inputmode="decimal" />
-<label for="hocba_11_sinh_5" style="flex-basis:80%">Sinh 11:</label><input id="hocba_11_sinh_5" name="hocba_11_sinh_5" type="number" inputmode="decimal"/>
-<label for="hocba_12_sinh_5" style="flex-basis:80%">Sinh 12:</label><input id="hocba_12_sinh_5" name="hocba_12_sinh_5" type="number" inputmode="decimal"/>
-</div>
-</div>
-
-
-
-<div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-60cd68-b9 inactive" data-tab="4">
-<p>Điểm IELTS 6.0 sẽ được quy đổi sang 10 điểm <strong>môn tiếng Anh</strong> trong cột điểm thi tốt nghiệp và 10 điểm <strong>môn tiếng Anh</strong> trong các cột điểm học bạ (nếu xét tổ hợp A01,  B08, D01, D07)</p>
-
-
-
-<p>Nhập điểm các chứng chỉ ngoại ngữ quốc tế (nếu có):</p>
-
-
-<div class="form-row">
-<label for="chungchi_anh_ielts_score">IELTS:</label><input  id="chungchi_anh_ielts_score" name="chungchi_anh_ielts_score"  type="number"  inputmode="decimal"/>
-<label for="chungchi_anh_toefl_score">TOEFL iBT:</label><input id="chungchi_anh_toefl_score" name="chungchi_anh_toefl_score" type="number"  inputmode="numeric" pattern="\d*"/>
-</div>
-<div class="form-row">
-<label for="chungchi_anh_toeic_lr_score"> TOEIC LR:</label><input id="chungchi_anh_toeic_lr_score" name="chungchi_anh_toeic_lr_score"  type="number" inputmode="numeric" pattern="\d*"/>
-<label for="chungchi_anh_toeic_sw_score">TOEIC SW:</label><input id="chungchi_anh_toeic_sw_score" name="chungchi_anh_toeic_sw_score" type="number" inputmode="numeric" pattern="\d*"/>
-</div>
-</div>
-
-
-
-<div class="wp-block-gutena-tab gutena-tab-block gutena-tab-block-e3e8fc-ee inactive" data-tab="5">
-<p>Xét cả hai yếu tố sau: đối tượng ưu tiên và khu vực ưu tiên. Nếu chưa biết câu trả lời, hãy tham khảo ý kiến từ người thân, giáo viên hoặc đọc hướng dẫn <a href="https://hoatieu.vn/phap-luat/doi-tuong-uu-tien-tuyen-sinh-207038">tại đây</a>.</p>
-
-
-<div class="form-row">
-<label for="uutien_nhomdoituong">Nhóm đối tượng:</label>
-<select id="uutien_nhomdoituong" name="uutien_nhomdoituong">
-<option value="0"> Không</option>
-<option value="1"> Nhóm ưu tiên 1 (đối tượng 1-4)</option>
-<option value="2"> Nhóm ưu tiên 2 (đối tượng 5-7)</option>
-</select></div><div class="form-row">
-<label for="uutien_khuvuc">Khu vực:</label>
-<select id="uutien_khuvuc" name="uutien_khuvuc">
-<option value="3"> Khu vực 3 (không được ưu tiên)</option>
-<option value="1"> Khu vực 1 </option>
-<option value="2"> Khu vực 2 </option>
-<option value="4"> Khu vực 2-NT</option>
-</select></div>
-</div>
-</div></div>
-</div></div>
-
-
-
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained"></form>
-<div id = 'result'>
-<div class="wp-block-btn-button free  align" id="btnButton-6fe496b9-7"><style> #btnButton-6fe496b9-7 .btnButton{ font-weight: 600; font-size: 20px; font-style: normal; text-transform: none; text-decoration: none; line-height: 135%; letter-spacing: 0px; } @media (max-width: 768px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } @media (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton{ font-size: 20px; } } #btnButton-6fe496b9-7{ text-align: center; } @media only screen and (min-width: 769px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 768px) and (min-width: 577px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 576px) { #btnButton-6fe496b9-7 .btnButton:not(.btnEditor){ display: block; } #btnButton-6fe496b9-7 .btnButton.btnEditor{ opacity: 1; } } #btnButton-6fe496b9-7 .btnButton{ color: #fff; background: linear-gradient(90deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); width: auto; padding: 14px 30px; border-radius: 15px; box-shadow: none; } #btnButton-6fe496b9-7 .btnButton:hover{ color: #fff; background: linear-gradient(135deg, #00ff8f, #00a1ff); } </style> <a  onclick="submitButtonClicked(this)" form_id="qsb_form" result_display_div_id="result" class="btnButton aos-init aos-animate" target="_self" tooltip="" tooltip-pos="top" data-aos="" data-aos-duration="400" id=""><span class="btnText">Xem điểm</span></a></div>  
-<p><div class="wp-block-btn-button free  align" id="btnButton-22d74f5c-a"><style> #btnButton-22d74f5c-a .btnButton{ font-weight: 600; font-size: 20px; font-style: normal; text-transform: none; text-decoration: none; line-height: 135%; letter-spacing: 0px; } @media (max-width: 768px) { #btnButton-22d74f5c-a .btnButton{ font-size: 20px; } } @media (max-width: 576px) { #btnButton-22d74f5c-a .btnButton{ font-size: 20px; } } #btnButton-22d74f5c-a{ text-align: center; } @media only screen and (min-width: 769px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display:block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 768px) and (min-width: 577px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display: block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } @media only screen and (max-width: 576px) { #btnButton-22d74f5c-a .btnButton:not(.btnEditor){ display: block; } #btnButton-22d74f5c-a .btnButton.btnEditor{ opacity: 1; } } #btnButton-22d74f5c-a .btnButton{ color: rgba(255, 255, 255, 1); background: linear-gradient(90deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); width: 100%; padding: 14px 30px; border-radius: 15px; box-shadow: none; } #btnButton-22d74f5c-a .btnButton:hover{ color: #fff; background: linear-gradient(135deg, #00ff8f, #00a1ff); } </style> <a onclick="restoreButtonClicked(this)" form_id="qsb_form" class="btnButton aos-init aos-animate" target="_self" tooltip="" tooltip-pos="top" data-aos="" data-aos-duration="400" id=""><span class="btnText">Khôi phục điểm</span></a></div></div>
-</div></div>
-
-
-
-<p>Xem ngay <a href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/"><strong>các ngành tuyển sinh của trường Đại học Bách Khoa</strong> năm 2024 có thêm ngành mới</a></p>
-
-
-
-<p>Chú ý: điểm số này chỉ nên <strong>dùng để tham khảo</strong> bởi trường ĐH Bách Khoa sẽ&nbsp;<strong>không công bố điểm xét tuyển cho thí sinh biết</strong>, mà sẽ chỉ công bố nếu thí sinh đó trúng tuyển và nhập học.</p>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script>
-
-
-<script>function submitButtonClicked(target) {
-  target.style.display='none'
-  var form_id = target.getAttribute("form_id");
-  var result_display_div_id = target.getAttribute("result_display_div_id");
-  var form = document.getElementById(form_id);
-  var formData = new FormData(form);
-  var jsonData = {};
- 
-  for (var pair of formData.entries()) {
-      jsonData[pair[0]] = pair[1];
-  }
-  var jsonString = JSON.stringify(jsonData);
-	localStorage.setItem(form_id, jsonString);
-    return fetch('https://thunghiem.xettuyen.online/tinhdiem/'+form.getAttribute("action"), {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-		  credentials: 'include', 
-      body: jsonString
-	})
-     .then(response=>response.json())
-    .then(function(data) {
-		//if (data.error) throw new Error("");
-      document.getElementById(result_display_div_id).innerHTML=data.html;  
-		if (data.alert) alert(data.alert);
-		Object.keys(data.tables).map(k => {
-			$(k).DataTable(data.tables[k])
-		})
-     })
-    .catch(function(error) {
-		  target.style.display='block';
-		alert(error+"\nVui lòng tải lại trang hoặc thử lại sau!");
-     });
-};
-
-function restoreButtonClicked(target) {
-  target.style.display='none'
-  var form_id = target.getAttribute("form_id"); 
-  var form = document.getElementById(form_id);
-  try{
-	  var formData = localStorage.getItem(form_id);
-	  var jsonData = JSON.parse(formData);
-	       // Loop through each input field in the form
-        for (var key in jsonData) {
-            if (jsonData.hasOwnProperty(key)) {
-                // Find the corresponding input element in the form
-                var inputElement = form.elements[key];
-                
-                // Check if the input element exists in the form
-                if (inputElement) {
-                    // Populate the input element with the stored value
-                    inputElement.value = jsonData[key];
-                } else {
-                    console.warn('Input element with name ' + key + ' not found in form.');
-                }
-            }
-        }
-  }
-	catch (err){
-		
-	}
-};
- function loginButtonClicked(target){
-    var currentPageUrl = window.location.href;
-    // Construct the URL to redirect to, adding currentPageUrl as a query parameter
-    var redirectTo = 'https://thunghiem.xettuyen.online/auth/google?url=' + encodeURIComponent(currentPageUrl);
-    // Redirect the user
-    window.location.href = redirectTo;
- }</script>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/">Công cụ tính điểm xét tuyển Đại học Bách khoa TP HCM (HCMUT) 2024</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Trường ĐH Bách Khoa ĐHQG &#8211; TPHCM gồm những ngành đào tạo nào</title>
-		<link>https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/</link>
-					<comments>https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Tue, 12 Mar 2024 09:31:16 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[Bách Khoa]]></category>
-		<category><![CDATA[hcmut]]></category>
-		<category><![CDATA[Trường Đại học Bách Khoa TP.HCM]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=621</guid>
-
-					<description><![CDATA[<p>Trường Đại học Bách Khoa TP.HCM không chỉ là một trong những trường đào tạo uy tín hàng đầu tại Việt Nam mà còn nổi tiếng với sự đa dạng và phong phú của các ngành học. Từ kỹ thuật đến kinh doanh, từ khoa học máy tính đến quản lý công nghiệp, trường này&#8230;&#160;<a href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Trường ĐH Bách Khoa ĐHQG &#8211; TPHCM gồm những ngành đào tạo nào</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/">Trường ĐH Bách Khoa ĐHQG &#8211; TPHCM gồm những ngành đào tạo nào</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Trường Đại học Bách Khoa TP.HCM không chỉ là một trong những trường đào tạo uy tín hàng đầu tại Việt Nam mà còn nổi tiếng với sự đa dạng và phong phú của các ngành học. Từ kỹ thuật đến kinh doanh, từ khoa học máy tính đến quản lý công nghiệp, trường này cung cấp một loạt các chương trình học thu hút sinh viên không chỉ trong nước mà còn từ nhiều quốc gia khác nhau. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg" alt="Trường Đại học Bách Khoa TPHCM" class="wp-image-923" srcset="https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1024x739.jpg 1024w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-300x217.jpg 300w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-768x555.jpg 768w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-1536x1109.jpg 1536w, https://xettuyen.online/wp-content/uploads/2024/04/dai-hoc-bach-khoa-tphcm-2048x1479.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Danh sách tất cả các ngành của trường Đại học Bách Khoa TPHCM</h2>
-
-
-
-<p>Dưới đây là một số ngành học nổi bật tại Trường Đại học Bách Khoa TP.HCM</p>
-
-
-<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
-<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
-function render(data, type, row, meta){
-let renderString = meta.settings.aoColumns[meta.col].renderString
-if (!renderString) return data;
-if (!data) return ""
-const variables = {data,type,row,meta};
-return parseRenderString(renderString,variables).split(",").join("<br>")
-}
-
-// Add an event listener for the 'popstate' event
- 
-
-function removeBracketString(str){
-return str.replace(/[\[\]]/g, (match) => {
-  if (match === '[') {
-    return '.${'; // replace [ with x
-  } else {
-    return '}'; // replace ] with y
-  } 
-});
-}
-
-function parseRenderString (str, variables){ 
-  str = removeBracketString(str)
-  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
-    const keys = variableName.split('.');
-    let value = variables;
-    keys.forEach(key => {value = value[key];});
-    return value;
-    });
-    if (newStr.indexOf("${") !== -1) {
-      return parseRenderString(newStr, variables)
-    } else {
-      return newStr
-    }
-}
-	$.extend($.fn.dataTableExt.oStdClasses, {
-    "sFilterInput": "dt-input",
-    "sLengthSelect": "dt-input"
-});
-	
-	$.extend( $.fn.dataTable.defaults, {
-    responsive: {
-        details: {
-			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
-            display: DataTable.Responsive.display.modal({
-                header: function (row) {
-                    var data = row.data();
-                    return 'Chi tiết';
-                }
-            }),
-            renderer: DataTable.Responsive.renderer.tableAll({
-                tableClass: 'table'
-            }),
-        
-		
-//       details: {
-//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
-       type: "column",
-       target: "tr" 
-    }
-  },  columnDefs : [{ targets: '_all', render , orderable:false}],
-// scrollToTop:true,
-   language: {
-    buttons: {
-      colvis: 'Hiện/ẩn thông tin'
-    },
-    sSearch: "Tìm kiếm",
-    sEmptyTable: `Không có dữ liệu`,
-    sZeroRecords: "Không có dữ liệu",
-    oPaginate: {
-    sPrevious: "<",
-    sNext: ">",
-    },
-	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
-	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
-	 sInfoEmpty : "Không có dữ liệu"
- }
-} );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Khoa học Máy Tính (106)"],["Kỹ thuật Hóa học; Công nghệ Thực phẩm; Công nghệ Sinh học (Nhóm ngành) (114)"],["Kỹ thuật Xây dựng; Kt Xây dựng Công trình giao thông; Kt Xây dựng Công trình thủy; Kt Xây dựng Công trình biển; Kt Cơ sở hạ tầng; Kt Trắc địa - bản đồ; Công nghệ kt vật liệu xây dựng (Nhóm ngành) (115)"],["Kiến Trúc (117)"],["Kỹ thuật Địa chất; Kỹ thuật Dầu khí (nhóm ngành) (120)"],["Quản Lý Công Nghiệp (123)"],["Kỹ thuật Môi trường; Quản lý Tài nguyên và Môi trường (nhóm ngành) (125)"],["Kỹ thuật Hệ thống Công nghiệp; Logistics và Quản lý chuỗi Cung ứng (nhóm ngành) (128)"],["Kỹ Thuật Vật Liệu (129)"],["Vật Lý Kỹ Thuật (137)"],["Cơ Kỹ Thuật (138)"],["Kỹ Thuật Nhiệt (Nhiệt Lạnh) (140)"],["Bảo Dưỡng Công Nghiệp (141)"],["Kỹ thuật Ô tô (142)"],["Kỹ thuật Tàu thủy; Kỹ thuật Hàng không (Song ngành) (145)"],["Khoa Học Máy tính (Chương trình giảng dạy bằng tiếng Anh) (206)"],["Kỹ Thuật Máy Tính (Chương trình giảng dạy bằng tiếng Anh) (207)"],["Kỹ Thuật Điện - Điện Tử (CT Tiên tiến - GD bằng Tiếng Anh) (208)"],["Kỹ Thuật Cơ Khí (Chương trình giảng dạy bằng tiếng Anh) (209)"],["Kỹ Thuật Cơ Điện Tử (Chương trình giảng dạy bằng tiếng Anh) (210)"],["Kỹ Thuật Cơ Điện Tử (Chuyên ngành Kỹ Thuật Robot) (Chương trình giảng dạy bằng tiếng Anh) (211)"],["Kỹ Thuật Hóa Học (Chương trình giảng dạy bằng tiếng Anh) (214)"],["Nhóm ngành Kỹ thuật Xây dựng, Kỹ thuật Xây dựng Công trình Giao thông; Ngành Kỹ thuật Xây dựng, chuyên ngành Quản lý Xây dựng (Chương trình giảng dạy bằng tiếng Anh) (215)"],["Kiến Trúc (Chuyên ngành Kiến Trúc Cảnh Quan) (Chương trình giảng dạy bằng tiếng Anh) (217)"],["Công nghệ sinh học (Chương trình giảng dạy bằng tiếng Anh) (218)"],["Công Nghệ Thực Phẩm (Chương trình giảng dạy bằng tiếng Anh) (219)"],["Kỹ Thuật Dầu Khí (Chương trình giảng dạy bằng tiếng Anh) (220)"],["Quản Lý Công Nghiệp (Chương trình giảng dạy bằng tiếng Anh) (223)"],["Quản lý Tài nguyên và Môi trường; Kỹ thuật Môi trường (Nhóm ngành) (Chương trình giảng dạy bằng tiếng Anh) (225)"],["Logistics Và Quản Lý Chuỗi Cung Ứng; Kỹ Thuật Hệ thống công nghiệp (Nhóm ngành) (Chương trình giảng dạy bằng tiếng Anh) (228)"],["Kỹ Thuật Vật Liệu (chuyên ngành Kỹ thuật vật liệu công nghệ cao) (Chương trình giảng dạy bằng tiếng Anh) (229)"],["Vật Lý Kỹ Thuật (Chuyên ngành Kỹ Thuật Y Sinh) (Chương trình giảng dạy bằng tiếng Anh) (237)"],["Kỹ Thuật Ô Tô (Chương trình giảng dạy bằng tiếng Anh) (242)"],["Kỹ thuật Dệt; Công nghệ May (Nhóm ngành) (112)"],["Khoa Học Máy Tính (Chương trình Định hướng Nhật Bản) (266)"],["Cơ Kỹ Thuật (Chương trình Định hướng Nhật Bản) (268)"],["Khoa học Máy tính (Chương trình Chuyển tiếp Quốc tế) (306)"],["Kỹ Thuật Cơ Khí (109)"],["Kỹ thuật Điện - Điện tử (Chương trình Chuyển tiếp Quốc tế) (308)"],["Kỹ thuật Cơ khí (Chương trình Chuyển tiếp Quốc tế) (309)"],["Kỹ thuật Cơ Điện tử (Chương trình Chuyển tiếp Quốc tế) (310)"],["Kỹ thuật Hóa học, chuyên ngành Kỹ thuật Hóa Dược (Chương trình Chuyển tiếp Quốc tế) (313)"],["Kỹ Thuật Cơ Điện Tử (110)"],["Kỹ thuật Xây dựng (Chương trình Chuyển tiếp Quốc tế) (315)"],["Công nghệ Thực phẩm (Chương trình Chuyển tiếp Quốc tế) (319)"],["Kỹ thuật Dầu khí (Chương trình Chuyển tiếp Quốc tế) (320)"],["Kỹ thuật Điện; Kỹ thuật Điện tử - Viễn thông; Kỹ thuật Điều khiển và Tự động hóa (Nhóm ngành) (108)"],["Quản lý Tài nguyên & Môi trường; Kỹ thuật Môi trường (Chương trình Chuyển tiếp Quốc tế) (325)"],["Kỹ thuật Ô tô (Chương trình Chuyển tiếp Quốc tế) (342)"],["Kỹ thuật Hàng không (Chương trình Chuyển tiếp Quốc tế) (345)"],["Kỹ thuật Máy Tính (107)"],["Kỹ thuật Hóa học (Chương trình Chuyển tiếp Quốc tế) (314)"],["Kỹ thuật Máy tính (Chương trình Chuyển tiếp Quốc tế) (307)"],["Quản lý Công nghiệp (Chương trình Chuyển tiếp Quốc tế) (323)"],["Kỹ Thuật Hàng Không (Chương trình giảng dạy bằng tiếng Anh) (245)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
-
-
-
-<p>Trong năm 2024, nhà trường dự kiến sẽ tuyển sinh thêm <a href="https://thanhnien.vn/truong-dh-bach-khoa-tphcm-se-tuyen-sinh-7-nganh-chuyen-nganh-moi-185231215184541281.htm">một số ngành mới</a>, trang chúng tôi sẽ cố gắng cập nhật sớm nhất có thể.</p>
-
-
-
-<p>Những ngành học tại Trường Đại học Bách Khoa TP.HCM không chỉ mang lại kiến thức chuyên môn mà còn đào tạo sinh viên với tư duy sáng tạo, khả năng làm việc nhóm và tinh thần sẵn sàng đối mặt với những thách thức trong cuộc sống và sự nghiệp. Điều này giúp các sinh viên ra trường không chỉ trở thành những chuyên gia có năng lực mà còn là những người đóng góp tích cực cho xã hội và nền kinh tế.</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/">Trường ĐH Bách Khoa ĐHQG &#8211; TPHCM gồm những ngành đào tạo nào</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/truong-dh-bach-khoa-dhqg-tphcm-gom-nhung-nganh-dao-tao-nao/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tất cả các trường đào tạo Marketing ở TPHCM</title>
-		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/</link>
-					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/#respond</comments>
-		
-		<dc:creator><![CDATA[xett]]></dc:creator>
-		<pubDate>Sun, 08 Oct 2023 04:09:01 +0000</pubDate>
-				<category><![CDATA[TUYỂN SINH]]></category>
-		<category><![CDATA[kinh tế tphcm]]></category>
-		<category><![CDATA[ngành marketing]]></category>
-		<category><![CDATA[tphcm]]></category>
-		<guid isPermaLink="false">https://xettuyen.online/?p=531</guid>
-
-					<description><![CDATA[<p>Trong thành phố Hồ Chí Minh hiện nay, có nhiều trường đại học đáng chú ý đào tạo ngành Marketing với chất lượng giảng dạy và đội ngũ giảng viên hàng đầu. Các trường đại học dưới đây đều đạt tiêu chuẩn cao về chất lượng giảng dạy và đảm bảo cung cấp cho sinh&#8230;&#160;<a href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Tất cả các trường đào tạo Marketing ở TPHCM</span></a></p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/">Tất cả các trường đào tạo Marketing ở TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Trong thành phố Hồ Chí Minh hiện nay, có nhiều trường đại học đáng chú ý đào tạo ngành Marketing với chất lượng giảng dạy và đội ngũ giảng viên hàng đầu. Các trường đại học dưới đây đều đạt tiêu chuẩn cao về chất lượng giảng dạy và đảm bảo cung cấp cho sinh viên những kiến thức và kỹ năng cần thiết để thành công trong lĩnh vực Marketing. Sinh viên có thể lựa chọn trường phù hợp với mục tiêu và sở thích cá nhân để phát triển sự nghiệp trong ngành này.</p>
-
-
-
-<p>Dưới đây là danh sách 5 trường đào tạo Marketing tốt nhất tại TPHCM, nơi sinh viên có thể học tập và phát triển sự nghiệp trong lĩnh vực này.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-1-trường-dại-học-kinh-tế-luật-dh-qg-tp-hcm">1. TRƯỜNG ĐẠI HỌC KINH TẾ &#8211; LUẬT &#8211; ĐH QG TP.HCM </h2>
-
-
-
-<p>Ngành Marketing của Trường Đại học Kinh tế &#8211; Luật &#8211; Đại học Quốc gia Thành phố Hồ Chí Minh (UEL) là một trong những ngành đào tạo có uy tín và chất lượng hàng đầu tại Việt Nam. Ngành học này được đào tạo dựa trên chương trình khung của Bộ Giáo dục và Đào tạo, kết hợp với các chương trình đào tạo tiên tiến của các trường đại học hàng đầu trên thế giới.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://xettuyen.online/wp-content/uploads/2023/10/image-1024x681.png" alt="" class="wp-image-535" srcset="https://xettuyen.online/wp-content/uploads/2023/10/image-1024x681.png 1024w, https://xettuyen.online/wp-content/uploads/2023/10/image-300x199.png 300w, https://xettuyen.online/wp-content/uploads/2023/10/image-768x511.png 768w, https://xettuyen.online/wp-content/uploads/2023/10/image.png 1256w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Chương trình đào tạo của ngành<a href="https://tuyensinh.uel.edu.vn/chuong-trinh-dao-tao-nganh-marketing/"> Marketing UEL</a> được thiết kế theo hướng tích hợp kiến thức chuyên môn và thực hành. Sinh viên sẽ được trang bị kiến thức về các lĩnh vực Marketing cơ bản như: Marketing căn bản, Marketing nghiên cứu, Marketing chiến lược, Marketing sản phẩm, Marketing dịch vụ, Marketing truyền thông, Marketing bán hàng, Marketing trực tuyến,&#8230; Ngoài ra, sinh viên còn được tham gia các hoạt động thực tế như: thực tập doanh nghiệp, tham gia các cuộc thi Marketing,&#8230;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-2-trường-dại-học-kinh-tế-tp-hồ-chi-minh">2. TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH </h2>
-
-
-
-<p>Ngành <a href="https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/maketing">Marketing của Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH)</a> là một trong những ngành đào tạo có bề dày lịch sử và uy tín nhất tại Việt Nam.  Ngành học này có 3 chuyên ngành: Marketing căn bản, Marketing thương mại và Marketing quốc tế.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="440" src="https://xettuyen.online/wp-content/uploads/2023/10/image-1-1024x440.png" alt="" class="wp-image-536" srcset="https://xettuyen.online/wp-content/uploads/2023/10/image-1-1024x440.png 1024w, https://xettuyen.online/wp-content/uploads/2023/10/image-1-300x129.png 300w, https://xettuyen.online/wp-content/uploads/2023/10/image-1-768x330.png 768w, https://xettuyen.online/wp-content/uploads/2023/10/image-1-1536x660.png 1536w, https://xettuyen.online/wp-content/uploads/2023/10/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Ngành Marketing tại trường này được thiết kế nhằm cung cấp kiến thức và kỹ năng chuyên sâu về việc phân tích, định hình và quản lý các hoạt động tiếp thị của một doanh nghiệp. Sinh viên sẽ được học các môn cơ bản như Quản trị Marketing, Nghiên cứu thị trường, Tiếp thị quốc tế, Quảng cáo và Tổ chức sự kiện, Quản trị kênh phân phối và Quản trị thương hiệu.</p>
-
-
-
-<p>Ngành Marketing tại trường này cũng đặc biệt chú trọng việc kết nối với doanh nghiệp và xây dựng mạng lưới cộng đồng. Sinh viên sẽ có cơ hội gặp gỡ, trò chuyện và học hỏi từ các chuyên gia trong ngành, từ đó nắm bắt được xu hướng mới và áp dụng những phương pháp tiếp thị hiện đại.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-3-trường-dại-học-kinh-tế-tai-chinh-tp-hồ-chi-minh">3. TRƯỜNG ĐẠI HỌC KINH TẾ &#8211; TÀI CHÍNH TP. HỒ CHÍ MINH</h2>
-
-
-
-<p>Trường Đại học Kinh tế &#8211; Tài chính TP. Hồ Chí Minh cũng là một trong những trường đại học hàng đầu tại Việt Nam, nơi mà ngành Marketing được đào tạo với chất lượng cao và phương pháp học hiện đại. Mục tiêu của ngành Marketing UEF là đào tạo ra những cử nhân có kiến thức, kỹ năng và thái độ chuyên nghiệp trong lĩnh vực Marketing, đáp ứng nhu cầu của xã hội trong thời kỳ hội nhập.</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="941" height="606" src="https://xettuyen.online/wp-content/uploads/2023/10/image-2.png" alt="" class="wp-image-537" srcset="https://xettuyen.online/wp-content/uploads/2023/10/image-2.png 941w, https://xettuyen.online/wp-content/uploads/2023/10/image-2-300x193.png 300w, https://xettuyen.online/wp-content/uploads/2023/10/image-2-768x495.png 768w" sizes="(max-width: 941px) 100vw, 941px" /></figure>
-
-
-
-<p>Học viên trong ngành Marketing tại Trường Đại học Kinh tế &#8211; Tài chính TPHCM được trang bị kiến thức về các nguyên tắc cơ bản của marketing, quảng cáo, quan hệ công chúng, nghiên cứu thị trường, quản lý thương hiệu, và các phương pháp tiếp thị hiện đại. Họ cũng được rèn luyện các kỹ năng mềm như giao tiếp, đàm phán, quản lý dự án, và phân tích dữ liệu.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-4-trường-dại-học-tai-chinh-marketing">4. TRƯỜNG ĐẠI HỌC TÀI CHÍNH &#8211; MARKETING</h2>
-
-
-
-<p>Ngành Marketing tại Trường Đại học Tài chính &#8211; Marketing là một ngành học phổ biến và được quan tâm tại trường. Trường Đại học Tài chính &#8211; Marketing nằm trong hệ thống giáo dục đại học tại Việt Nam và đặc biệt chuyên về lĩnh vực tài chính và marketing, đáp ứng nhu cầu của các doanh nghiệp và tổ chức trong việc phát triển kỹ năng và kiến thức về marketing. Sinh viên có nhiều cơ hội thực tập và làm việc tại các doanh nghiệp uy tín.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="617" src="https://xettuyen.online/wp-content/uploads/2023/10/image-4-1024x617.png" alt="" class="wp-image-539" srcset="https://xettuyen.online/wp-content/uploads/2023/10/image-4-1024x617.png 1024w, https://xettuyen.online/wp-content/uploads/2023/10/image-4-300x181.png 300w, https://xettuyen.online/wp-content/uploads/2023/10/image-4-768x463.png 768w, https://xettuyen.online/wp-content/uploads/2023/10/image-4-1536x925.png 1536w, https://xettuyen.online/wp-content/uploads/2023/10/image-4.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Trường Đại học Tài chính &#8211; Marketing đào tạo các chuyên gia trong lĩnh vực tài chính và marketing, và ngành Marketing là một trong những ngành học quan trọng tại trường này. Trường có đội ngũ giảng viên giàu kinh nghiệm và chương trình đào tạo chất lượng, giúp sinh viên phát triển kỹ năng và kiến thức cần thiết để thành công trong lĩnh vực marketing. Bên cạnh đó, trường còn đầu tư cơ sở vật chất hiện đại, đáp ứng nhu cầu học tập và thực hành của sinh viên. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-5-trường-dại-học-cong-thương-tp-hồ-chi-minh">5. TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH</h2>
-
-
-
-<p>Mục tiêu của ngành Marketing HUFI là đào tạo ra những cử nhân có kiến thức, kỹ năng và thái độ chuyên nghiệp trong lĩnh vực Marketing, đáp ứng nhu cầu của xã hội trong thời kỳ hội nhập. Cụ thể, sau khi tốt nghiệp, sinh viên ngành Marketing HUFI có thể:</p>
-
-
-
-<ul>
-<li>Hiểu biết sâu sắc về các nguyên lý và phương pháp Marketing hiện đại</li>
-
-
-
-<li>Có khả năng nghiên cứu, phân tích thị trường và khách hàng một cách khoa học và hiệu quả</li>
-
-
-
-<li>Có khả năng phát triển và triển khai các chương trình Marketing sáng tạo và hiệu quả</li>
-
-
-
-<li>Có khả năng làm việc độc lập và theo nhóm</li>
-
-
-
-<li>Có khả năng thích ứng với môi trường làm việc đa dạng và cạnh tranh</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://xettuyen.online/wp-content/uploads/2023/10/image-5-1024x683.png" alt="" class="wp-image-540" srcset="https://xettuyen.online/wp-content/uploads/2023/10/image-5-1024x683.png 1024w, https://xettuyen.online/wp-content/uploads/2023/10/image-5-300x200.png 300w, https://xettuyen.online/wp-content/uploads/2023/10/image-5-768x512.png 768w, https://xettuyen.online/wp-content/uploads/2023/10/image-5-1536x1024.png 1536w, https://xettuyen.online/wp-content/uploads/2023/10/image-5-930x620.png 930w, https://xettuyen.online/wp-content/uploads/2023/10/image-5.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Sinh viên tốt nghiệp ngành Marketing UHT có thể làm việc tại các vị trí như:</p>
-
-
-
-<ul>
-<li>Chuyên viên Marketing</li>
-
-
-
-<li>Giám đốc Marketing</li>
-
-
-
-<li>Chuyên viên nghiên cứu thị trường</li>
-
-
-
-<li>Chuyên viên truyền thông</li>
-
-
-
-<li>Chuyên viên bán hàng</li>
-
-
-
-<li>Chuyên viên tư vấn Marketing</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-tổng-kết">Tổng kết</h2>
-
-
-
-<p>Trên đây là danh sách 5 trường Đại học tốt nhất đào tạo ngành Marketing tại thành phố Hồ Chí Minh. Các trường này không chỉ cam kết chất lượng giảng dạy mà còn cung cấp cho sinh viên những cơ hội học tập và phát triển sự nghiệp đáng kể trong lĩnh vực tiếp thị và quảng bá sản phẩm.</p>
-
-
-
-<p>Với môi trường học tập đa dạng và chuyên sâu, sinh viên tại các trường này sẽ được trang bị kiến thức vững chắc và kỹ năng cần thiết để đáp ứng yêu cầu của thị trường lao động ngày càng cạnh tranh. Chương trình đào tạo linh hoạt, kết hợp giữa lý thuyết và thực hành, giúp sinh viên áp dụng kiến thức vào thực tế và phát triển khả năng sáng tạo trong việc tư duy tiếp thị.</p>
-
-
-
-<p>Ngoài ra, các trường Đại học tại thành phố Hồ Chí Minh cũng thường xuyên tổ chức các hoạt động ngoại khóa, hội thảo và thực tập tại các doanh nghiệp, mang lại cho sinh viên cơ hội gặp gỡ và học hỏi từ các chuyên gia trong ngành. Điều này giúp sinh viên mở rộng mạng lưới quan hệ và tích luỹ kinh nghiệm thực tiễn quý báu trong quá trình học tập.</p>
-
-
-
-<p>Tổng thể, việc chọn một trong những trường Đại học hàng đầu về Marketing tại thành phố Hồ Chí Minh sẽ tạo nền tảng vững chắc cho sự phát triển nghề nghiệp trong lĩnh vực này. Sinh viên sẽ có cơ hội khám phá và tận dụng tối đa tiềm năng của mình để trở thành những chuyên gia tiếp thị xuất sắc, đóng góp vào sự phát triển của công ty và xã hội.</p>
-
-
-
-<p>Đây là một thời điểm đầy hứa hẹn để theo đuổi sự nghiệp Marketing tại thành phố Hồ Chí Minh, và các trường Đại học được liệt kê ở trên sẽ là nơi lý tưởng để bắt đầu hành trình chinh phục thành công trong lĩnh vực này.</p>
-<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/">Tất cả các trường đào tạo Marketing ở TPHCM</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-marketing-o-tphcm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

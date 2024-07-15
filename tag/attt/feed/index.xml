@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ATTT Archives - Xét tuyển</title>
+	<atom:link href="https://xettuyen.online/tag/attt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xettuyen.online/tag/attt/</link>
+	<description>.online</description>
+	<lastBuildDate>Mon, 15 Jul 2024 08:38:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
+	<title>ATTT Archives - Xét tuyển</title>
+	<link>https://xettuyen.online/tag/attt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tất cả các trường đào tạo ngành An Toàn Thông Tin</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 07:48:51 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[An toàn thông tin]]></category>
+		<category><![CDATA[ATTT]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1115</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/">Tất cả các trường đào tạo ngành An Toàn Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["An toàn thông tin (7480202)","HỌC VIỆN AN NINH NHÂN DÂN (ANH)"],["An toàn thông tin (7480202)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["An toàn thông tin (7480202)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG - CƠ SỞ TẠI TP. HỒ CHÍ MINH (BVS)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH (DCT)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (DKC)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC KHOA HỌC VÀ CÔNG NGHỆ HÀ NỘI (KCN)"],["An toàn thông tin (7480202KMP)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["An toàn thông tin (7480202KMA)","HỌC VIỆN KỸ THUẬT MẬT MÃ (KMA)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC KINH TẾ TP. HỒ CHÍ MINH (KSA)"],["An toàn thông tin (7480202D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["An toàn thông tin (7480202)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ thông tin - Chuyên ngành Mạng và An toàn thông tin (kỹ sư) (7480201NS)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/">Tất cả các trường đào tạo ngành An Toàn Thông Tin</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-an-toan-thong-tin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

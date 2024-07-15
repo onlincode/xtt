@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/category/xet-tuyen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/category/xet-tuyen/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 13 Jul 2024 09:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 03:52:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -57,12 +57,14 @@
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -141,7 +143,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -193,12 +195,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -277,7 +281,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Ngôn ngữ Anh (7220201)"],["Ngôn ngữ Anh_Chất lượng cao (7220201_CLC)"],["Ngôn ngữ Nga (7220202)"],["Ngôn ngữ Pháp (7220203)"],["Ngôn ngữ Trung Quốc (7220204)"],["Ngôn Ngữ Trung Quốc_Chất lượng cao (7220204_CLC)"],["Quản lý giáo dục (7140114)"],["Ngôn ngữ Đức_Chất lượng cao (7220205_CLC)"],["Ngôn ngữ Tây Ban Nha (7220206)"],["Ngôn ngữ Italia (7220208)"],["Triết học (7229001)"],["Tôn giáo học (7229009)"],["Lịch sử (7229010)"],["Ngôn ngữ học (7229020)"],["Văn học (7229030)"],["Văn hoá học (7229040)"],["Đô thị học (7580112)"],["Quan hệ quốc tế _Chất lượng cao (7310206_CLC)"],["Xã hội học (7310301)"],["Nhân học (7310302)"],["Tâm lý học (7310401)"],["Tâm lý học giáo dục (7310403)"],["Địa lý học (7310501)"],["Giáo dục học (7140101)"],["Nhật Bản học (7310613)"],["Nhật Bản học_Chất lượng cao (7310613_CLC)"],["Hàn Quốc học (7310614)"],["Việt Nam học (7310630)"],["Báo chí (7320101)"],["Báo chí_Chất lượng cao (7320101_CLC)"],["Đông phương học (7310608)"],["Thông tin - thư viện (7320201)"],["Quản lý thông tin (7320205)"],["Lưu trữ học (7320303)"],["Công tác xã hội (7760101)"],["Quản trị văn phòng (7340406)"],["Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao (7810103_CLC)"],["Quan hệ quốc tế (7310206)"],["Truyền thông đa phương tiện (7320104)"],["Ngôn ngữ Đức (7220205)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Ngôn ngữ Anh (7220201)"],["Ngôn ngữ Anh_Chất lượng cao (7220201_CLC)"],["Ngôn ngữ Nga (7220202)"],["Ngôn ngữ Pháp (7220203)"],["Ngôn ngữ Trung Quốc (7220204)"],["Ngôn Ngữ Trung Quốc_Chất lượng cao (7220204_CLC)"],["Quản lý giáo dục (7140114)"],["Ngôn ngữ Đức_Chất lượng cao (7220205_CLC)"],["Ngôn ngữ Tây Ban Nha (7220206)"],["Ngôn ngữ Italia (7220208)"],["Triết học (7229001)"],["Tôn giáo học (7229009)"],["Lịch sử (7229010)"],["Ngôn ngữ học (7229020)"],["Văn học (7229030)"],["Văn hoá học (7229040)"],["Đô thị học (7580112)"],["Quan hệ quốc tế _Chất lượng cao (7310206_CLC)"],["Xã hội học (7310301)"],["Nhân học (7310302)"],["Tâm lý học (7310401)"],["Tâm lý học giáo dục (7310403)"],["Địa lý học (7310501)"],["Giáo dục học (7140101)"],["Nhật Bản học (7310613)"],["Nhật Bản học_Chất lượng cao (7310613_CLC)"],["Hàn Quốc học (7310614)"],["Việt Nam học (7310630)"],["Báo chí (7320101)"],["Báo chí_Chất lượng cao (7320101_CLC)"],["Đông phương học (7310608)"],["Thông tin - thư viện (7320201)"],["Quản lý thông tin (7320205)"],["Lưu trữ học (7320303)"],["Công tác xã hội (7760101)"],["Quản trị văn phòng (7340406)"],["Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao (7810103_CLC)"],["Quan hệ quốc tế (7310206)"],["Truyền thông đa phương tiện (7320104)"],["Ngôn ngữ Đức (7220205)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -328,12 +332,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -412,7 +418,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Thương mại điện tử (7340122)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)"],["Kỹ thuật máy tính (7480106)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)"],["Khoa học dữ liệu (7460108)"],["Trí tuệ nhân tạo (7480107)"],["Công nghệ thông tin (7480201)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)"],["An toàn thông tin (7480202)"],["Khoa học máy tính (7480101)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)"],["Mạng máy tính và truyền thông dữ liệu (7480102)"],["Hệ thống thông tin (7480104)"],["Kỹ thuật phần mềm (7480103)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Thương mại điện tử (7340122)"],["Hệ thống thông tin (CT Tiên tiến) (7480104_TT)"],["Kỹ thuật máy tính (7480106)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)"],["Khoa học dữ liệu (7460108)"],["Trí tuệ nhân tạo (7480107)"],["Công nghệ thông tin (7480201)"],["Công nghệ thông tin (Việt Nhật) (7480201_N)"],["An toàn thông tin (7480202)"],["Khoa học máy tính (7480101)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)"],["Mạng máy tính và truyền thông dữ liệu (7480102)"],["Hệ thống thông tin (7480104)"],["Kỹ thuật phần mềm (7480103)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -464,12 +470,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -548,7 +556,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Khoa học máy tính (Chương trình Tiên tiến) (7480101_TT)"],["Kỹ thuật điện tử - viễn thông (7520207)"],["Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao) (7520207_CLC)"],["Kỹ thuật hạt nhân (7520402)"],["Vật lý Y khoa (7520403)"],["Kỹ thuật địa chất (7520501)"],["Trí tuệ nhân tạo (7480107)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sinh học (7420101)"],["Sinh học (Chương trình Chất lượng cao) (7420101_CLC)"],["Công nghệ Sinh học (7420201)"],["Công nghệ Sinh học (Chương trình Chất lượng cao) (7420201_CLC)"],["Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học (7440102_NN)"],["Hoá học (7440112)"],["Công nghệ Kỹ thuật Môi trường (7510406)"],["Khoa học Vật liệu (7440122)"],["Địa chất học (7440201)"],["Hải dương học (7440228)"],["Khoa học Môi trường (7440301)"],["Khoa học Môi trường (Chương trình Chất lượng cao) (7440301_CLC)"],["Hóa học (Chương trình Chất lượng cao) (7440112_CLC)"],["Nhóm Ngành Toán học, Toán tin, Toán ứng dụng (7460101_NN)"],["Khoa học dữ liệu (7460108)"],["Công nghệ Vật liệu (7510402)"],["Nhóm ngành máy tính và Công nghệ thông tin (7480201_NN)"],["Công nghệ thông tin (Chương trình Chất lượng cao) (7480201_CLC)"],["Công nghệ kỹ thuật Hoá học (Chương trình Chất lượng cao) (7510401_CLC)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Khoa học máy tính (Chương trình Tiên tiến) (7480101_TT)"],["Kỹ thuật điện tử - viễn thông (7520207)"],["Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao) (7520207_CLC)"],["Kỹ thuật hạt nhân (7520402)"],["Vật lý Y khoa (7520403)"],["Kỹ thuật địa chất (7520501)"],["Trí tuệ nhân tạo (7480107)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sinh học (7420101)"],["Sinh học (Chương trình Chất lượng cao) (7420101_CLC)"],["Công nghệ Sinh học (7420201)"],["Công nghệ Sinh học (Chương trình Chất lượng cao) (7420201_CLC)"],["Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học (7440102_NN)"],["Hoá học (7440112)"],["Công nghệ Kỹ thuật Môi trường (7510406)"],["Khoa học Vật liệu (7440122)"],["Địa chất học (7440201)"],["Hải dương học (7440228)"],["Khoa học Môi trường (7440301)"],["Khoa học Môi trường (Chương trình Chất lượng cao) (7440301_CLC)"],["Hóa học (Chương trình Chất lượng cao) (7440112_CLC)"],["Nhóm Ngành Toán học, Toán tin, Toán ứng dụng (7460101_NN)"],["Khoa học dữ liệu (7460108)"],["Công nghệ Vật liệu (7510402)"],["Nhóm ngành máy tính và Công nghệ thông tin (7480201_NN)"],["Công nghệ thông tin (Chương trình Chất lượng cao) (7480201_CLC)"],["Công nghệ kỹ thuật Hoá học (Chương trình Chất lượng cao) (7510401_CLC)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -637,12 +645,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -721,7 +731,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Kinh tế quốc tế (7310106)"],["Kế toán (7340301)"],["Kiểm toán (7340302)"],["Quản trị kinh doanh (7340101)"],["Thương mại điện tử (7340122)"],["Tài chính-Ngân hàng (7340201)"],["Quản trị nhân lực (7340404)"],["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Kinh doanh thương mại (7340121)"],["Kinh tế và quản lý đô thị (ngành Kinh tế) (7310101_2)"],["Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế) (7310101_3)"],["Kinh tế phát triển (7310105)"],["Quản trị khách sạn (7810201)"],["Hệ thống thông tin quản lý (7340405)"],["Công nghệ thông tin (7480201)"],["Khoa học máy tính (7480101)"],["Luật kinh tế (7380107)"],["Luật (7380101)"],["Thống kê kinh tế (7310107)"],["Bất động sản (7340116)"],["Toán kinh tế (7310108)"],["Quản lý công (7340403)"],["Bảo hiểm (7340204)"],["Quản lý tài nguyên và môi trường (7850101)"],["Khoa học quản lý (7340401)"],["Kinh tế đầu tư (7310104)"],["Quản lý dự án (7340409)"],["Kinh doanh quốc tế (7340120)"],["Quản lý đất đai (7850103)"],["Kinh tế tài nguyên thiên nhiên (7850102)"],["Quan hệ công chúng (7320108)"],["Marketing (7340115)"],["POHE-Quản trị khách sạn (POHE1)"],["POHE-Quản trị lữ hành (POHE2)"],["POHE-Truyền thông Marketing (POHE3)"],["POHE-Luật kinh doanh (POHE4)"],["POHE-Quản trị kinh doanh thương mại (POHE5)"],["POHE-Quản lý thị trường (POHE6)"],["POHE-Thẩm định giá (POHE7)"],["Quản trị kinh doanh (E-BBA) (EBBA)"],["Quản lý công và Chính sách (E-PMP) (EPMP)"],["Định phí Bảo hiểm & Quản trị rủi ro (Actuary) (EP02)"],["Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB) (EP03)"],["Kinh doanh số (E-BDB) (EP05)"],["Kinh tế học (ngành Kinh tế) (7310101_1)"],["Quản trị điều hành thông minh (E-SOM) (EP07)"],["Quản trị chất lượng và Đổi mới (E-MQI) (EP08)"],["Ngôn ngữ Anh (tiếng Anh hệ số 2) (7220201)"],["Kế toán tích hợp chứng chỉ quốc tế (ACT-ICAEW) (EP04)"],["Kiểm toán tích hợp chứng chỉ quốc tế (AUD-ICAEW) (EP12)"],["Kinh tế học tài chính (FE) (EP13)"],["Khởi nghiệp và phát triển kinh doanh (BBAE) (EP01)"],["Quản trị khách sạn quốc tế (IHME) (EP11)"],["Đầu tư tài chính (BFI) (EP10)"],["Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC) (EP14)"],["Phân tích kinh doanh (BA) (EP06)"],["Kinh tế nông nghiệp (7620115)"],["Kinh doanh nông nghiệp (7620114)"],["Logistics và Quản lý chuỗi cung ứng (7510605)"],["Công nghệ tài chính (BFT) (EP09)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Kinh tế quốc tế (7310106)"],["Kế toán (7340301)"],["Kiểm toán (7340302)"],["Quản trị kinh doanh (7340101)"],["Thương mại điện tử (7340122)"],["Tài chính-Ngân hàng (7340201)"],["Quản trị nhân lực (7340404)"],["Quản trị dịch vụ du lịch và lữ hành (7810103)"],["Kinh doanh thương mại (7340121)"],["Kinh tế và quản lý đô thị (ngành Kinh tế) (7310101_2)"],["Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế) (7310101_3)"],["Kinh tế phát triển (7310105)"],["Quản trị khách sạn (7810201)"],["Hệ thống thông tin quản lý (7340405)"],["Công nghệ thông tin (7480201)"],["Khoa học máy tính (7480101)"],["Luật kinh tế (7380107)"],["Luật (7380101)"],["Thống kê kinh tế (7310107)"],["Bất động sản (7340116)"],["Toán kinh tế (7310108)"],["Quản lý công (7340403)"],["Bảo hiểm (7340204)"],["Quản lý tài nguyên và môi trường (7850101)"],["Khoa học quản lý (7340401)"],["Kinh tế đầu tư (7310104)"],["Quản lý dự án (7340409)"],["Kinh doanh quốc tế (7340120)"],["Quản lý đất đai (7850103)"],["Kinh tế tài nguyên thiên nhiên (7850102)"],["Quan hệ công chúng (7320108)"],["Marketing (7340115)"],["POHE-Quản trị khách sạn (POHE1)"],["POHE-Quản trị lữ hành (POHE2)"],["POHE-Truyền thông Marketing (POHE3)"],["POHE-Luật kinh doanh (POHE4)"],["POHE-Quản trị kinh doanh thương mại (POHE5)"],["POHE-Quản lý thị trường (POHE6)"],["POHE-Thẩm định giá (POHE7)"],["Quản trị kinh doanh (E-BBA) (EBBA)"],["Quản lý công và Chính sách (E-PMP) (EPMP)"],["Định phí Bảo hiểm & Quản trị rủi ro (Actuary) (EP02)"],["Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB) (EP03)"],["Kinh doanh số (E-BDB) (EP05)"],["Kinh tế học (ngành Kinh tế) (7310101_1)"],["Quản trị điều hành thông minh (E-SOM) (EP07)"],["Quản trị chất lượng và Đổi mới (E-MQI) (EP08)"],["Ngôn ngữ Anh (tiếng Anh hệ số 2) (7220201)"],["Kế toán tích hợp chứng chỉ quốc tế (ACT-ICAEW) (EP04)"],["Kiểm toán tích hợp chứng chỉ quốc tế (AUD-ICAEW) (EP12)"],["Kinh tế học tài chính (FE) (EP13)"],["Khởi nghiệp và phát triển kinh doanh (BBAE) (EP01)"],["Quản trị khách sạn quốc tế (IHME) (EP11)"],["Đầu tư tài chính (BFI) (EP10)"],["Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC) (EP14)"],["Phân tích kinh doanh (BA) (EP06)"],["Kinh tế nông nghiệp (7620115)"],["Kinh doanh nông nghiệp (7620114)"],["Logistics và Quản lý chuỗi cung ứng (7510605)"],["Công nghệ tài chính (BFT) (EP09)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -806,12 +816,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -890,7 +902,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Quản trị kinh doanh (Chương trình chuẩn) (7340101)"],["Kế toán (Chương trình chuẩn) (7340301)"],["Kinh tế (Chương trình chuẩn) (7310101)"],["Luật Kinh tế (Chương trình chuẩn) (7380107)"],["Toán kinh tế (Chương trình chuẩn) (7310108)"],["Ngôn ngữ Anh (Chương trình chuẩn) (7220201)"],["Hệ thống thông tin quản lý (Chương trình chuẩn) (7340405)"],["Tài chính - Ngân hàng (Chương trình chuẩn) (7340201)"],["Quản trị khách sạn (Chương trình đặc thù) (7810201_DT)"],["Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù) (7810202_DT)"],["Bất động sản (Chương trình chuẩn) (7340116)"],["Marketing (Chương trình tích hợp) (7340115_TH)"],["Kế toán (Chương trình tích hợp) (7340301_TH)"],["Tài chính - Ngân hàng (Chương trình tích hợp) (7340201_TH)"],["Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù) (7810103_DT)"],["Bất động sản (Chương trình tích hợp) (7340116_TH)"],["Quản trị kinh doanh (Chương trình tiếng Anh toàn phần) (7340101_TATP)"],["Marketing (Chương trình tiếng Anh toàn phần) (7340115_TATP)"],["Kinh doanh tiếng Anh toàn phần  (Chương trình tiếng Anh toàn phần) (7340120_TATP)"],["Kinh doanh quốc tế  (Chương trình tích hợp) (7340120_TH)"],["Quản trị kinh doanh (Chương trình tích hợp) (7340101_TH)"],["Công nghệ tài chính (Chương trình chuẩn) (7340205)"],["Kinh doanh quốc tế (Chương trình chuẩn) (7340120)"],["Marketing (Chương trình chuẩn) (7340115)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Khoa học Máy Tính (106)"],["Kỹ thuật Hóa học; Công nghệ Thực phẩm; Công nghệ Sinh học (Nhóm ngành) (114)"],["Kỹ thuật Xây dựng; Kt Xây dựng Công trình giao thông; Kt Xây dựng Công trình thủy; Kt Xây dựng Công trình biển; Kt Cơ sở hạ tầng; Kt Trắc địa - bản đồ; Công nghệ kt vật liệu xây dựng (Nhóm ngành) (115)"],["Kiến Trúc (117)"],["Kỹ thuật Địa chất; Kỹ thuật Dầu khí (nhóm ngành) (120)"],["Quản Lý Công Nghiệp (123)"],["Kỹ thuật Môi trường; Quản lý Tài nguyên và Môi trường (nhóm ngành) (125)"],["Kỹ thuật Hệ thống Công nghiệp; Logistics và Quản lý chuỗi Cung ứng (nhóm ngành) (128)"],["Kỹ Thuật Vật Liệu (129)"],["Vật Lý Kỹ Thuật (137)"],["Cơ Kỹ Thuật (138)"],["Kỹ Thuật Nhiệt (Nhiệt Lạnh) (140)"],["Bảo Dưỡng Công Nghiệp (141)"],["Kỹ thuật Ô tô (142)"],["Kỹ thuật Tàu thủy; Kỹ thuật Hàng không (Song ngành) (145)"],["Khoa Học Máy tính (Chương trình giảng dạy bằng tiếng Anh) (206)"],["Kỹ Thuật Máy Tính (Chương trình giảng dạy bằng tiếng Anh) (207)"],["Kỹ Thuật Điện - Điện Tử (CT Tiên tiến - GD bằng Tiếng Anh) (208)"],["Kỹ Thuật Cơ Khí (Chương trình giảng dạy bằng tiếng Anh) (209)"],["Kỹ Thuật Cơ Điện Tử (Chương trình giảng dạy bằng tiếng Anh) (210)"],["Kỹ Thuật Cơ Điện Tử (Chuyên ngành Kỹ Thuật Robot) (Chương trình giảng dạy bằng tiếng Anh) (211)"],["Kỹ Thuật Hóa Học (Chương trình giảng dạy bằng tiếng Anh) (214)"],["Nhóm ngành Kỹ thuật Xây dựng, Kỹ thuật Xây dựng Công trình Giao thông; Ngành Kỹ thuật Xây dựng, chuyên ngành Quản lý Xây dựng (Chương trình giảng dạy bằng tiếng Anh) (215)"],["Kiến Trúc (Chuyên ngành Kiến Trúc Cảnh Quan) (Chương trình giảng dạy bằng tiếng Anh) (217)"],["Công nghệ sinh học (Chương trình giảng dạy bằng tiếng Anh) (218)"],["Công Nghệ Thực Phẩm (Chương trình giảng dạy bằng tiếng Anh) (219)"],["Kỹ Thuật Dầu Khí (Chương trình giảng dạy bằng tiếng Anh) (220)"],["Quản Lý Công Nghiệp (Chương trình giảng dạy bằng tiếng Anh) (223)"],["Quản lý Tài nguyên và Môi trường; Kỹ thuật Môi trường (Nhóm ngành) (Chương trình giảng dạy bằng tiếng Anh) (225)"],["Logistics Và Quản Lý Chuỗi Cung Ứng; Kỹ Thuật Hệ thống công nghiệp (Nhóm ngành) (Chương trình giảng dạy bằng tiếng Anh) (228)"],["Kỹ Thuật Vật Liệu (chuyên ngành Kỹ thuật vật liệu công nghệ cao) (Chương trình giảng dạy bằng tiếng Anh) (229)"],["Vật Lý Kỹ Thuật (Chuyên ngành Kỹ Thuật Y Sinh) (Chương trình giảng dạy bằng tiếng Anh) (237)"],["Kỹ Thuật Ô Tô (Chương trình giảng dạy bằng tiếng Anh) (242)"],["Kỹ thuật Dệt; Công nghệ May (Nhóm ngành) (112)"],["Khoa Học Máy Tính (Chương trình Định hướng Nhật Bản) (266)"],["Cơ Kỹ Thuật (Chương trình Định hướng Nhật Bản) (268)"],["Khoa học Máy tính (Chương trình Chuyển tiếp Quốc tế) (306)"],["Kỹ Thuật Cơ Khí (109)"],["Kỹ thuật Điện - Điện tử (Chương trình Chuyển tiếp Quốc tế) (308)"],["Kỹ thuật Cơ khí (Chương trình Chuyển tiếp Quốc tế) (309)"],["Kỹ thuật Cơ Điện tử (Chương trình Chuyển tiếp Quốc tế) (310)"],["Kỹ thuật Hóa học, chuyên ngành Kỹ thuật Hóa Dược (Chương trình Chuyển tiếp Quốc tế) (313)"],["Kỹ Thuật Cơ Điện Tử (110)"],["Kỹ thuật Xây dựng (Chương trình Chuyển tiếp Quốc tế) (315)"],["Công nghệ Thực phẩm (Chương trình Chuyển tiếp Quốc tế) (319)"],["Kỹ thuật Dầu khí (Chương trình Chuyển tiếp Quốc tế) (320)"],["Kỹ thuật Điện; Kỹ thuật Điện tử - Viễn thông; Kỹ thuật Điều khiển và Tự động hóa (Nhóm ngành) (108)"],["Quản lý Tài nguyên & Môi trường; Kỹ thuật Môi trường (Chương trình Chuyển tiếp Quốc tế) (325)"],["Kỹ thuật Ô tô (Chương trình Chuyển tiếp Quốc tế) (342)"],["Kỹ thuật Hàng không (Chương trình Chuyển tiếp Quốc tế) (345)"],["Kỹ thuật Máy Tính (107)"],["Kỹ thuật Hóa học (Chương trình Chuyển tiếp Quốc tế) (314)"],["Kỹ thuật Máy tính (Chương trình Chuyển tiếp Quốc tế) (307)"],["Quản lý Công nghiệp (Chương trình Chuyển tiếp Quốc tế) (323)"],["Kỹ Thuật Hàng Không (Chương trình giảng dạy bằng tiếng Anh) (245)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -957,12 +969,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -1041,7 +1055,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Kinh tế (Chuyên ngành Kinh tế học) (7310101_401)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (Tiếng Anh) (7340101_407E)"],["Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành) (7340101_415)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (7340101_407)"],["Marketing (Chuyên ngành Marketing) (Tiếng Anh) (7340115_410E)"],["Marketing (Chuyên ngành Digital Marketing) (7340115_417)"],["Marketing (Chuyên ngành Marketing) (7340115_410)"],["Kinh doanh quốc tế (Tiếng Anh) (7340120_408E)"],["Kinh doanh quốc tế (7340120_408)"],["Thương mại điện tử (Tiếng Anh) (7340122_411E)"],["Tài chính - Ngân hàng (7340201_404)"],["Công nghệ tài chính (7340205_414)"],["Kế toán (7340301_405)"],["Kế toán (Tiếng Anh) (Tích hợp chứng chỉ quốc tế ICAEW) (7340301_405E)"],["Kiểm toán (7340302_409)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)"],["Luật (Chuyên ngành Luật Dân sự) (7380101_503)"],["Luật (Chuyên ngành Luật Tài chính - Ngân hàng) (7380101_504)"],["Luật (Chuyên ngành Luật và Chính sách công) (7380101_505)"],["Luật Kinh tế (Chuyên ngành Luật Kinh doanh) (7380107_501)"],["Luật Kinh tế (Chuyên ngành Luật Thương mại quốc tế) (7380107_502)"],["Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế) (Tiếng Anh) (7380107_502E)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh) (7310108_413E)"],["Thương mại điện tử (7340122_411)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (7310108_413)"],["Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại) (7310106_402)"],["Kinh tế (Chuyên ngành Kinh tế và Quản lý công) (7310101_403)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Kinh tế (Chuyên ngành Kinh tế học) (7310101_401)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (Tiếng Anh) (7340101_407E)"],["Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành) (7340101_415)"],["Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh) (7340101_407)"],["Marketing (Chuyên ngành Marketing) (Tiếng Anh) (7340115_410E)"],["Marketing (Chuyên ngành Digital Marketing) (7340115_417)"],["Marketing (Chuyên ngành Marketing) (7340115_410)"],["Kinh doanh quốc tế (Tiếng Anh) (7340120_408E)"],["Kinh doanh quốc tế (7340120_408)"],["Thương mại điện tử (Tiếng Anh) (7340122_411E)"],["Tài chính - Ngân hàng (7340201_404)"],["Công nghệ tài chính (7340205_414)"],["Kế toán (7340301_405)"],["Kế toán (Tiếng Anh) (Tích hợp chứng chỉ quốc tế ICAEW) (7340301_405E)"],["Kiểm toán (7340302_409)"],["Hệ thống thông tin quản lý (Chuyên ngành Hệ thống thông tin quản lý) (7340405_406)"],["Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo) (7340405_416)"],["Luật (Chuyên ngành Luật Dân sự) (7380101_503)"],["Luật (Chuyên ngành Luật Tài chính - Ngân hàng) (7380101_504)"],["Luật (Chuyên ngành Luật và Chính sách công) (7380101_505)"],["Luật Kinh tế (Chuyên ngành Luật Kinh doanh) (7380107_501)"],["Luật Kinh tế (Chuyên ngành Luật Thương mại quốc tế) (7380107_502)"],["Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế) (Tiếng Anh) (7380107_502E)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh) (7310108_413E)"],["Thương mại điện tử (7340122_411)"],["Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (7310108_413)"],["Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại) (7310106_402)"],["Kinh tế (Chuyên ngành Kinh tế và Quản lý công) (7310101_403)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 
@@ -1248,12 +1262,14 @@ function parseRenderString (str, variables){
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;

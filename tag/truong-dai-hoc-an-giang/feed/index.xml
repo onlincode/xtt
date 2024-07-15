@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/truong-dai-hoc-an-giang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/truong-dai-hoc-an-giang/</link>
 	<description>.online</description>
-	<lastBuildDate>Sat, 13 Jul 2024 09:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 03:51:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -57,12 +57,14 @@
 
 
 <!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
-<script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
 <script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
-<script  >
- 
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
 function render(data, type, row, meta){
 let renderString = meta.settings.aoColumns[meta.col].renderString
 if (!renderString) return data;
@@ -141,7 +143,7 @@ function parseRenderString (str, variables){
 	 sInfoEmpty : "Không có dữ liệu"
  }
 } );
-</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":false,"data":[["Giáo dục Chính trị (7140205)"],["Sư phạm Địa lý (7140219)"],["Sư phạm Tiếng Anh (7140231)"],["Sư phạm Sinh học (7140213)"],["Quản trị kinh doanh (7340101)"],["Marketing (7340115)"],["Tài chính - Ngân hàng (7340201)"],["Sư phạm Hóa học (7140212)"],["Luật (7380101)"],["Công nghệ sinh học (7420201)"],["Sư phạm Toán học (7140209)"],["Công nghệ thông tin (7480201)"],["Công nghệ kỹ thuật môi trường (7510406)"],["Sư phạm Vật lý (7140211)"],["Công nghệ thực phẩm (7540101)"],["Đảm bảo chất lượng và an toàn thực phẩm (7540106)"],["Chăn nuôi (7620105)"],["Khoa học cây trồng (7620110)"],["Bảo vệ thực vật (7620112)"],["Phát triển nông thôn (7620116)"],["Nuôi trồng thủy sản (7620301)"],["Kinh tế quốc tế (7310106)"],["Việt Nam học (7310630)"],["Ngôn ngữ Anh (7220201)"],["Văn học (7229030)"],["Triết học (7229001)"],["Kế toán (7340301)"],["Thú y (7640101)"],["Giáo dục Mầm non (7140201)"],["Công nghệ kỹ thuật hoá học (7510401)"],["Giáo dục Tiểu học (7140202)"],["Kỹ thuật phần mềm (7480103)"],["Quản lý tài nguyên và môi trường (7850101)"],["Sư phạm Lịch sử (7140218)"],["Sư phạm Ngữ văn (7140217)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
 
 
 

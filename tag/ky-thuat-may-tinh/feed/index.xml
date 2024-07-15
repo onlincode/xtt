@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kỹ thuật máy tính Archives - Xét tuyển</title>
+	<atom:link href="https://xettuyen.online/tag/ky-thuat-may-tinh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xettuyen.online/tag/ky-thuat-may-tinh/</link>
+	<description>.online</description>
+	<lastBuildDate>Mon, 15 Jul 2024 09:04:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://xettuyen.online/wp-content/uploads/2023/10/cropped-DALL_E_2023-10-08_09.14.46_-_a_hardworking_bee_graduated_and_studying_animated_website_logo-removebg-32x32.png</url>
+	<title>Kỹ thuật máy tính Archives - Xét tuyển</title>
+	<link>https://xettuyen.online/tag/ky-thuat-may-tinh/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 09:04:21 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<category><![CDATA[Mạng máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1126</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Công nghệ kỹ thuật máy tính (Cơ sở Hà Nội) (7480108DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (Cơ sở Nam Định) (7480108DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính hệ Chất lượng cao (7480108C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ kỹ thuật máy tính (7480108D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (kỹ sư) (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ kỹ thuật máy tính (cử nhân) (7480108B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Công Nghệ Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-cong-nghe-ky-thuat-may-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 09:01:05 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<category><![CDATA[Mạng máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1124</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/">Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Mạng máy tính và truyền thông dữ liệu (CN15)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu) (7480102)","HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (BVH)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC DUY TÂN (DDT)"],["Mạng máy tính và truyền thông dữ liệu (Cơ sở Nam Định) (7480102DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Mạng máy tính và truyền thông dữ liệu (Cơ sở Hà Nội) (7480102DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC NAM CẦN THƠ (DNC)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (DTT)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC VĂN LANG (DVL)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC QUỐC TẾ MIỀN ĐÔNG (EIU)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC GIA ĐỊNH (GDU)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI TP. HỒ CHÍ MINH (GTS)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH (NTT)"],["Mạng máy tính và truyền thông dữ liệu (7480102)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/">Tất cả trường có ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</title>
+		<link>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/</link>
+					<comments>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/#respond</comments>
+		
+		<dc:creator><![CDATA[xett]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:12:57 +0000</pubDate>
+				<category><![CDATA[NGÀNH ĐÀO TẠO]]></category>
+		<category><![CDATA[TUYỂN SINH]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Khoa học máy tính]]></category>
+		<category><![CDATA[Kỹ thuật máy tính]]></category>
+		<guid isPermaLink="false">https://xettuyen.online/?p=1118</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!-- <script   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+<!-- <script   src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script   src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script   src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-1.13.4/b-2.4.1/b-colvis-2.4.1/fh-4.0.1/r-2.4.1/rg-1.5.0/datatables.min.js"></script> 
+
+<script> 
+
+function render(data, type, row, meta){
+let renderString = meta.settings.aoColumns[meta.col].renderString
+if (!renderString) return data;
+if (!data) return ""
+const variables = {data,type,row,meta};
+return parseRenderString(renderString,variables).split(",").join("<br>")
+}
+
+// Add an event listener for the 'popstate' event
+ 
+
+function removeBracketString(str){
+return str.replace(/[\[\]]/g, (match) => {
+  if (match === '[') {
+    return '.${'; // replace [ with x
+  } else {
+    return '}'; // replace ] with y
+  } 
+});
+}
+
+function parseRenderString (str, variables){ 
+  str = removeBracketString(str)
+  newStr = str.replace(/\${(\w+(\.\w+)*)}/g, (match, variableName) => {
+    const keys = variableName.split('.');
+    let value = variables;
+    keys.forEach(key => {value = value[key];});
+    return value;
+    });
+    if (newStr.indexOf("${") !== -1) {
+      return parseRenderString(newStr, variables)
+    } else {
+      return newStr
+    }
+}
+	$.extend($.fn.dataTableExt.oStdClasses, {
+    "sFilterInput": "dt-input",
+    "sLengthSelect": "dt-input"
+});
+	
+	$.extend( $.fn.dataTable.defaults, {
+    responsive: {
+        details: {
+			// display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            display: DataTable.Responsive.display.modal({
+                header: function (row) {
+                    var data = row.data();
+                    return 'Chi tiết';
+                }
+            }),
+            renderer: DataTable.Responsive.renderer.tableAll({
+                tableClass: 'table'
+            }),
+        
+		
+//       details: {
+//         display: $.fn.dataTable.Responsive.display.childRowImmediate,
+       type: "column",
+       target: "tr" 
+    }
+  },  columnDefs : [{ targets: '_all', render , orderable:false}],
+// scrollToTop:true,
+   language: {
+    buttons: {
+      colvis: 'Hiện/ẩn thông tin'
+    },
+    sSearch: "Tìm kiếm",
+    sEmptyTable: `Không có dữ liệu`,
+    sZeroRecords: "Không có dữ liệu",
+    oPaginate: {
+    sPrevious: "<",
+    sNext: ">",
+    },
+	 sInfo: "Kết quả _START_ đến _END_ trên tổng _TOTAL_",
+	 sInfoFiltered: "(tìm trong tổng số _MAX_)",
+	 sInfoEmpty : "Không có dữ liệu"
+ }
+} );
+</script><div id="example_wrapper" class=" dataTables_wrapper"   xstyle="margin: 1% 1% 1% 1%;   max-width: 700px;">      <table id="myTable" class="tablepress tablepress-id-1" aria-describedby="example_info">  </table></div> <script>$('#myTable').DataTable({"lengthChange":false,"dom":"Bfriptp","pageLength":10,"responsive":true,"fixedColumns":true,"autoWidth":false,"rowGroup":{"dataSrc":1},"data":[["Tin học và kỹ thuật máy tính (QHQ04)","TRƯỜNG QUỐC TẾ - ĐH QG HÀ NỘI (QHQ)"],["Kỹ thuật máy tính (CN2)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ - ĐH QUỐC GIA HÀ NỘI (QHI)"],["CNTT: Kỹ thuật Máy tính (IT2)","ĐẠI HỌC BÁCH KHOA HÀ NỘI (BKA)"],["Kỹ thuật máy tính (Chương trình liên kết với ĐH Suny Binghamton) (2+2) (7480106_SB)","TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐH QG TP.HCM (QSQ)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật máy tính (Hệ thống Nhúng và IOT) (7480106_IOT)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ thuật máy tính (Chuyên ngành Thiết kế vi mạch) (7480106_TKVM)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐH QG TP.HCM (QSC)"],["Kỹ Thuật Máy Tính (Chương trình giảng dạy bằng tiếng Anh) (207)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật Máy Tính (107)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật Máy tính (Chương trình Chuyển tiếp Quốc tế) (307)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH QG TP.HCM (QSB)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Kỹ thuật máy tính (Phân hiệu tại Đăk Lăk) (7480106 DL)","TRƯỜNG ĐẠI HỌC ĐÔNG Á (DAD)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI (DCN)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC BÁCH KHOA - ĐH ĐÀ NẴNG (DDK)"],["Khoa học  Máy tính - Chuyên ngành Khoa học và Kỹ thuật Máy tính (7480101-CSE)","VIỆN NGHIÊN CỨU VÀ ĐÀO TẠO VIỆT - ANH - ĐH ĐÀ NẴNG (DDV)"],["Công nghệ kỹ thuật máy tính (Cơ sở Hà Nội) (7480108DKK)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (Cơ sở Nam Định) (7480108DKD)","TRƯỜNG ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP (DKK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG - ĐH THÁI NGUYÊN (DTC)"],["Kỹ thuật máy tính (KMT)","TRƯỜNG ĐẠI HỌC KỸ THUẬT CÔNG NGHIỆP - ĐH THÁI NGUYÊN (DTK)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính hệ Chất lượng cao (7480108C)","TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH (IUH)"],["Công nghệ kỹ thuật máy tính (7480108)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VINH (SKV)"],["Công nghệ kỹ thuật máy tính (7480108D)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108C)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Công nghệ kỹ thuật máy tính (7480108A)","TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (SPK)"],["Kỹ thuật máy tính (7480106)","TRƯỜNG ĐẠI HỌC CẦN THƠ (TCT)"],["Công nghệ kỹ thuật máy tính (kỹ sư) (7480108)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"],["Công nghệ kỹ thuật máy tính (cử nhân) (7480108B)","TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG VIỆT – HÀN, ĐẠI HỌC ĐÀ NẴNG (VKU)"]],"columns":[{"title":"Ngành","width":"40%","responsivePriority":2},{"title":"Trường","width":"30%","className":"none","visible":false}],"sorting":false}).on('page.dt',()=>{$('#myTable').DataTable().columns.adjust(),$('html, body').animate({scrollTop:$('#example_wrapper').offset().top},211)});</script>
+<p>The post <a rel="nofollow" href="https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/">Tất cả các trường đào tạo ngành Kỹ Thuật Máy Tính</a> appeared first on <a rel="nofollow" href="https://xettuyen.online/">Xét tuyển</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xettuyen.online/tat-ca-cac-truong-dao-tao-nganh-ky-thuat-may-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
