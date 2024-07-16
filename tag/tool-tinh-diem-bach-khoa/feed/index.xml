@@ -12,7 +12,7 @@
 	<atom:link href="https://xettuyen.online/tag/tool-tinh-diem-bach-khoa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xettuyen.online/tag/tool-tinh-diem-bach-khoa/</link>
 	<description>.online</description>
-	<lastBuildDate>Tue, 16 Jul 2024 06:50:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jul 2024 15:55:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -153,6 +153,10 @@
 <label for="hocba_11_sinh_5" style="flex-basis:80%">Sinh 11:</label><input id="hocba_11_sinh_5" name="hocba_11_sinh_5" type="number" inputmode="decimal"/>
 <label for="hocba_12_sinh_5" style="flex-basis:80%">Sinh 12:</label><input id="hocba_12_sinh_5" name="hocba_12_sinh_5" type="number" inputmode="decimal"/>
 </div>
+
+
+
+<p>Mẹo nhanh: bạn có thể nhập tổng điểm môn Toán cả ba năm học vào ô Toán 10, thậm chí bạn có thể nhập tổng của tất cả 3 môn học của tổ hợp bất kỳ vào ô Toán 10!</p>
 </div>
 
 
