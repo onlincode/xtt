@@ -569,7 +569,8 @@ function parseRenderString (str, variables){
      })
     .catch(function(error) {
 		  target.style.display='block';
-		alert(error+"\nVui lòng tải lại trang hoặc thử lại sau!");
+		if (confirm((error+"\nVui lòng tải lại trang hoặc thử lại sau!"))
+	    window.location.href = "https://xettuyen.online";
      });
 };
 
