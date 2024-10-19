@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Xét tuyển .online</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark" />
+  <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+  <link href="https://cdn.jsdelivr.net/npm/busy-load@0.1.2/dist/app.min.css" rel="stylesheet">
+  <link
+    href="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-2.1.8/b-3.1.2/b-colvis-3.1.2/fh-4.0.1/r-3.0.3/rg-1.5.0/datatables.min.css"
+    rel="stylesheet">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.conditional.min.css"> -->
+  <link rel="stylesheet" href="main.min.css">
+  <style>
+    section {
+      background-color: var(--grey);
+    }
+
+  </style>
+  <script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-2.1.8/b-3.1.2/b-colvis-3.1.2/fh-4.0.1/r-3.0.3/rg-1.5.0/datatables.min.js"></script>
+  <script src="https://cdn.datatables.net/plug-ins/2.1.8/pagination/scrolling.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/busy-load@0.1.2/dist/app.min.js"></script>
+  <script>
+    const apiUrl = "https://api.xettuyen.online";
+    function getApiUrl(name, query = undefined) {
+      const endpoints = {
+        searchDetails: "/searchDetails",
+        searching: "/searching",
+        hoso_diemthitn: "/hoso/diemthitn/",
+        hoso_diemhocba: "/hoso/diemhocba",
+        hoso_dgnl: "/hoso/dgnl",
+        hoso_ccnn: "/hoso/ccnn",
+        mission_diemchuan: "/mission/diemchuan"
+      };
+      const path = endpoints[name] || "";
+      let queryString = "";
+
+      if (query) {
+        const params = new URLSearchParams(query).toString();
+        if (path.charAt(path.length - 1) === '?')
+          queryString = params;
+        else
+          queryString = path.indexOf("?") + 1 ? "&" + params : "?" + params;
+      }
+      return apiUrl + path + queryString; // Return the full URL with query params
+    }
+    function useRef(initVal = null) {
+      return { current: initVal }
+    }
+  </script>
+  <script type="module" src="./bundle.js"></script>
+</head>
+
+<body data-theme="dark">
+</body>
+
+</html>
