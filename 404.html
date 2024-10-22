@@ -17,11 +17,130 @@
     section {
       background-color: var(--grey);
     }
+    input[type=number],
+input[type=text] {
+    flex-grow: 1;
+    background-color: var(--light); /* Light grey background for a clean look */
+    color: var(--dark); /* Darker text color for better contrast */
+    outline: none;
+    width: 100%;
+    padding: 10px 15px; /* Keeping original padding */
+    display: inline-block;
+    border: 2px solid #ddd; /* Subtle border similar to .searchInput */
+    border-radius: 36px; /* Retained original rounded shape */
+    box-sizing: border-box;
+    max-width: 300px; /* Retained original max-width */
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    /* Smooth transitions for interactive effects */
+    transition: all 0.3s ease;
 
+    /* Slightly deeper shadow for a lifted effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover effect */
+input[type=number]:hover,
+input[type=text]:hover {
+    border-color: #bbb; /* Light grey border on hover */
+}
+
+/* Focus effect for better user interaction */
+input[type=number]:focus,
+input[type=text]:focus {
+    border-color: #007bff; /* Blue border on focus for better visibility */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Deeper shadow on focus */
+    background-color: var(--grey); /* Change to grey background on focus */
+}
+
+/* Disabled state */
+input[type=number]:disabled,
+input[type=text]:disabled {
+    background-color: var(--light-grey);
+    color: var(--dark-grey);
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+/* Placeholder styling for consistency */
+input[type=number]::placeholder,
+input[type=text]::placeholder {
+    color: #999; /* Lighter grey for placeholder text */
+    font-style: italic; /* Slightly italicized placeholder */
+}
+
+/* Base styles for the select element */
+select {
+    font-family: var(--lato); /* Use Lato font */
+    font-size: 16px; /* Consistent font size */
+    color: var(--dark); /* Text color */
+    background: var(--light); /* Light background color to match the theme */
+    border: 2px solid #ddd; /* Subtle light grey border */
+    border-radius: 36px; /* Rounded corners for consistency */
+    padding: 10px 15px; /* Original padding */
+    box-sizing: border-box; /* Include padding and border in the total width and height */
+    appearance: none; /* Remove default browser styling */
+    outline: none; /* Remove default outline */
+    cursor: pointer; /* Pointer cursor for better UX */
+    max-width: 600px; /* Original max-width for responsiveness */
+
+    /* Smooth transitions for interactive effects */
+    transition: border-color 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+
+    /* Subtle shadow for depth */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover effect */
+select:hover {
+    border-color: #bbb; /* Light grey border on hover, for a subtle emphasis */
+}
+
+/* Hide default arrow in older browsers */
+select::-ms-expand {
+    display: none; /* Hide default arrow in IE and Edge */
+}
+
+/* Styles for the select dropdown when focused */
+select:focus {
+    border-color: #007bff; /* Consistent blue border color on focus */
+    background: var(--light); /* Keep background consistent on focus */
+    color: var(--dark); /* Default text color for light mode */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow for focus state */
+}
+
+/* Styles for the select dropdown when focused in dark mode */
+body.dark select:focus {
+    color: var(--light); /* Light text color in dark mode */
+    background: var(--dark-grey); /* Darker background for dark mode */
+    border-color: #007bff; /* Keep border color consistent even in dark mode */
+}
+
+/* Optional: Placeholder or initial value styling for consistency */
+select option[disabled] {
+    color: #999; /* Lighter grey for initial or placeholder option */
+    font-style: italic; /* Slightly italicized for differentiation */
+}
+
+#content main .table-data .order table th {
+    padding-bottom: 10px;
+    font-size: 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--grey)
+}
+
+
+/* MAIN */
+#content main {
+	width: 100%;
+	padding: 0px 2px 20px 5px;
+	font-family: var(--poppins);
+	max-height: calc(100vh - 56px);
+	overflow-y: auto;
+}
   </style>
-  <script src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-2.1.8/b-3.1.2/b-colvis-3.1.2/fh-4.0.1/r-3.0.3/rg-1.5.0/datatables.min.js"></script>
-  <script src="https://cdn.datatables.net/plug-ins/2.1.8/pagination/scrolling.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/busy-load@0.1.2/dist/app.min.js"></script>
+  <script  src="https://cdn.datatables.net/v/dt/jqc-3.7.0/dt-2.1.8/b-3.1.2/b-colvis-3.1.2/fh-4.0.1/r-3.0.3/rg-1.5.0/datatables.min.js"></script>
+  <script  src="https://cdn.jsdelivr.net/npm/busy-load@0.1.2/dist/app.min.js"></script>
   <script>
     const apiUrl = "https://api.xettuyen.online";
     function getApiUrl(name, query = undefined) {
@@ -32,7 +151,7 @@
         hoso_diemhocba: "/hoso/diemhocba",
         hoso_dgnl: "/hoso/dgnl",
         hoso_ccnn: "/hoso/ccnn",
-        mission_diemchuan: "/mission/diemchuan"
+        tinhdiem: "/tinhdiem"
       };
       const path = endpoints[name] || "";
       let queryString = "";
@@ -50,10 +169,12 @@
       return { current: initVal }
     }
   </script>
-  <script type="module" src="./bundle.js"></script>
 </head>
 
-<body data-theme="dark">
-</body>
+<body> </body>
+
+<script src="/bundle.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-864SNJP08Q"async></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-864SNJP08Q")</script>
 
 </html>
+                
